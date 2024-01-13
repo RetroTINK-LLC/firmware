@@ -25,5 +25,4 @@ layout: default
 CRC-32: `4D571806`  
 SHA-256: `f4c7cc7334f1968e83d050dd455d85ee55e37bd0b00a03dc37634a26d9495099`
 
-- Original launch firmware, only provided as a full SD card image that includes all launch profiles and other data.
-- Unzip onto a freshly FAT32 formatted SD Card.
+- Original launch SD card image
