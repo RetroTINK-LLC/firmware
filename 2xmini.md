@@ -15,7 +15,7 @@ layout: default
 ### Windows
 
 1. Download the [FTDI D2XX Drivers](https://ftdichip.com/wp-content/uploads/2021/08/CDM212364_Setup.zip) and install.
-2. Download the RetroTINK Firmware update tool [FTDI D2XX Drivers](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK%20FW%20Tool.zip) and install by unzipping and running RT_FWUP.
+2. Download the [RetroTINK Firmware update tool](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK%20FW%20Tool.zip) and install by unzipping and running RT_FWUP.
 3. Download the appropriate HEX file for the desired version from the folder corresponding to your device.
 4. Plug your device into your computer's USB port while holding down the 'FILTER' button. The LED should be RED indicating update mode.
 5. Run the RetroTINK Firmware Update tool. The installer will have left a shortcut on your desktop.
