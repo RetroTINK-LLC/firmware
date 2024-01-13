@@ -43,7 +43,7 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 ## Version 1.7
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmwares@main/RetroTINK-2X%20Pro/RT2XPro%20v17.hex)
-CRC-32: `B8267F90`
+CRC-32: `B8267F90`  
 SHA-256: `5a1d6cab8a03e07ff0c5cf4070b78ddc48ed864769f84d4d6e5854e6a74aa617`
 
 ### Changelog:
@@ -54,7 +54,7 @@ SHA-256: `5a1d6cab8a03e07ff0c5cf4070b78ddc48ed864769f84d4d6e5854e6a74aa617`
 ## Version 1.6
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmwares@main/RetroTINK-2X%20Pro/RT2XPro_V16.hex)
-CRC-32: `50572D2B`
+CRC-32: `50572D2B`  
 SHA-256: `e681d397262cc3ba05a22551bc9285e61387e1a0948dfeb068edf7aa36d434c5`
 
 ### Changelog:
@@ -63,7 +63,7 @@ SHA-256: `e681d397262cc3ba05a22551bc9285e61387e1a0948dfeb068edf7aa36d434c5`
 ## Version 1.5
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmwares@main/RetroTINK-2X%20Pro/RT2XPro%20v15.hex)
-CRC-32: `299227C8`
+CRC-32: `299227C8`  
 SHA-256: `c121d7516f91519c6e1d3a1e661fb0578a4836404a223bab21383c336c45f86d`
 
 ### Changelog:
@@ -74,7 +74,7 @@ SHA-256: `c121d7516f91519c6e1d3a1e661fb0578a4836404a223bab21383c336c45f86d`
 ## Version 1.4
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmwares@main/RetroTINK-2X%20Pro/RT2XPro%20v14.hex)
-CRC-32: `76989026`
+CRC-32: `76989026`  
 SHA-256: `976f37dee577116892440e03c38cb1cb79743ce167fbc30925b8717e1b1f34f0`
 
 ### Changelog:
@@ -87,7 +87,7 @@ SHA-256: `976f37dee577116892440e03c38cb1cb79743ce167fbc30925b8717e1b1f34f0`
 ## Version 1.3
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmwares@main/RetroTINK-2X%20Pro/RT2X-Pro%20v13.hex)
-CRC-32: `44179261`
+CRC-32: `44179261`  
 SHA-256: `8588543b0bb02ff2a046cf83a022f8a1c3dd63f781914f70091e50a5d0ade5a3`
 
 ### Changelog:
@@ -100,7 +100,7 @@ SHA-256: `8588543b0bb02ff2a046cf83a022f8a1c3dd63f781914f70091e50a5d0ade5a3`
 ## Version 1.2
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmwares@main/RetroTINK-2X%20Pro/RT2X-Pro%20v12.hex)
-CRC-32: `62DDD244`
+CRC-32: `62DDD244`  
 SHA-256: `a86c1570a3a2855a02ee190c37b2ae56d2929fcc024e15f0d8f959b1b2496545`
 
 ### Changelog:
@@ -111,7 +111,7 @@ SHA-256: `a86c1570a3a2855a02ee190c37b2ae56d2929fcc024e15f0d8f959b1b2496545`
 ## Version 1.1
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmwares@main/RetroTINK-2X%20Pro/RT2X-Pro_v11.hex)
-CRC-32: `7D1B7F18`
+CRC-32: `7D1B7F18`  
 SHA-256: `35e2c9068ac7572913de3ff88ae814156a25ed6958d300ab885aa73e17362d02`
 
 ### Changelog:

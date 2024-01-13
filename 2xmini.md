@@ -41,7 +41,7 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 ## Version 1.2
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmwares@main/RetroTINK-2X%20Mini/RT2X_MINI_V12.hex)  
-CRC-32: `33D5A43C`
+CRC-32: `33D5A43C`  
 SHA-256: `450348a476dafb389c5a8dc11aee55e20a3d07c45d0b79e4f1d5a440d5a0b3af`
 
 ### Changelog:
@@ -51,7 +51,7 @@ SHA-256: `450348a476dafb389c5a8dc11aee55e20a3d07c45d0b79e4f1d5a440d5a0b3af`
 ## Version 1.1
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmwares@main/RetroTINK-2X%20Mini/RT2X_MINO_V11b.hex)  
-CRC-32: `FD028CD1`
+CRC-32: `FD028CD1`  
 SHA-256: `04f5eda53063ad22e60a11ef2536390e50da7d17a33e9283827d213139428b50`
 
 ### Changelog:
