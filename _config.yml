@@ -20,8 +20,8 @@
 
 
 title: RetroTINK Firmware Repository
-link-title: "[RetroTINK Firmware Repository]({{site.url}}"
-link-title-2: [RetroTINK Firmware Repository]({{site.url}}
+link-title: "[RetroTINK Firmware Repository]({{site.url}})"
+link-title-2: [RetroTINK Firmware Repository]({{site.url}})
 email: retrotink@emmaline.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Your one-stop firmware shop for the entire family of RetroTINK devices
