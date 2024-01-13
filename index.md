@@ -1,6 +1,5 @@
 ---
 layout: default
-title: {{ site.link-title | markdownify}}
 ---
 
 <h1 align="center" style="margin-top: 0px;">Welcome!</h1>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [{{site.title}}]({{site.url}})
+title: {{[{{site.title}}]({{site.url}}) | markdownify}}
 ---
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-2X Pro firmware</h1>
