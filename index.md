@@ -15,7 +15,7 @@ layout: default
 
 ### RetroTINK-5X Pro
 - [Release](5x.md)
-- [Experimental](5x-experimental.md) ⚠️ UNDER CONSTRUCTION ⚠️
+- [Experimental](5x-experimental.md)
 
 <p style="margin:20px;"></p>
 
