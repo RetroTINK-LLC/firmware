@@ -13,9 +13,9 @@ layout: default
 
 <p style="margin:20px;"></p>
 
-### RetroTINK-5X Pro ⚠️ UNDER CONSTRUCTION ⚠️
+### RetroTINK-5X Pro
 - [Release](5x.md)
-- [Experimental](5x-experimental.md)
+- [Experimental](5x-experimental.md) ⚠️ UNDER CONSTRUCTION ⚠️
 
 <p style="margin:20px;"></p>
 
