@@ -16,11 +16,6 @@ layout: default
 2. Unzip onto a [freshly formatted FAT32 SD card](http://ridgecrop.co.uk/index.htm?guiformat.htm).
 3. If needed, download and copy the latest firmware from the [Release Firmware section](4k.md), and perform a firmware update on your RT4K as instructed.
 
-1. Download the appropriate zip file for the desired version.
-2. Unzip the .bin and .rbf files to the root of your SD card. Overwrite 'rt4kup.bin'.
-3. Optionally, delete the .rbf file corresponding to the old firmware.
-4. After deleting the .rbf file, your RetroTINK-4K will not boot. If it is already powered on, you can update by going to Advanced Settings -> OSD/Firmware -> Check SD Card. Otherwise, press and hold the reset button on the back of the RetroTINK-4K down while plugging it in.
-
 <p style="margin:20px;"></p>
 
 ## Version 1.0 RC26 (2023-12-09)
