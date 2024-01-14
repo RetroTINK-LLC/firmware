@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
-<h1 align="center" style="margin-top: 0px;">⚠️ CURRENTLY UNDER CONSTRUCTION ⚠️</h1>
-
-<br />
-
 <h1 align="center" style="margin-top: 0px;">RetroTINK-4K experimental firmware</h1>
 
 <br />
