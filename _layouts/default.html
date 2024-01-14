@@ -32,12 +32,17 @@
         <div id="title">
           {{ site.link-title | markdownify }}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-          <span class="credits left">Site maintained by <a href="https://www.retrotink.com/">RetroTINK LLC</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+		  <hr>
         </div>
 
         {{ content }}
+
+		<div id="title">
+		  <br/>
+		  <hr>
+		  <span class="credits left">Project maintained by <a href="https://www.retrotink.com/">RetroTINK LLC</a></span>
+		  <span class="credits right">Hosted on GitHub Pages — Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+		</div>
 
       </section>
 
