@@ -25,4 +25,5 @@ layout: default
 CRC-32: `4D571806`  
 SHA-256: `f4c7cc7334f1968e83d050dd455d85ee55e37bd0b00a03dc37634a26d9495099`
 
+### Changelog:
 - Original launch SD card image

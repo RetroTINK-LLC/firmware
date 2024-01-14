@@ -29,6 +29,7 @@ layout: default
 CRC-32: `591B36DE`  
 SHA-256: `b0f43eec664228ae38ee33244414fa821225244ca949f76779d6a953a7f537b7`
 
+### Changelog:
 - Adjusted FPGA timing for HDMI 1.4
 - Increased FPGA to HDMI drive strength
 - Full shut down of Wide Tolerance mode when not in use to improve loop time
@@ -40,6 +41,7 @@ SHA-256: `b0f43eec664228ae38ee33244414fa821225244ca949f76779d6a953a7f537b7`
 CRC-32: `E07A9083`  
 SHA-256: `2b0acf9ffef00cacca9d20ee4563302cac7a983f3612a9edfe0e899d9ec71b50`
 
+### Changelog:
 - "Wide Tolerance" added to Video ADC Menu
   - Replaces older Slow Lock Function
   - Helps lock on to badly behaved sources like NEOGEO and Atari 2600/7800
@@ -58,6 +60,7 @@ SHA-256: `2b0acf9ffef00cacca9d20ee4563302cac7a983f3612a9edfe0e899d9ec71b50`
 CRC-32: `37239B54`  
 SHA-256: `101f04d990ed526e213dbdcc4e69219213db1033513afee79062b58da8721c25`
 
+### Changelog:
 - Interpolation, Scanline, LCD and Mask effects automatically rotate CW or CCW when RoTaTe is on
 - Forced PAR and allow DAR to OFF for MiSTer Generic DV1
 - Compensated for decimation change when MiSTer menu is open in 1:1 PAR mode
@@ -76,6 +79,7 @@ SHA-256: `101f04d990ed526e213dbdcc4e69219213db1033513afee79062b58da8721c25`
 CRC-32: `00120576`  
 SHA-256: `ebfcf42ea3235912dc09320717ece0d3ca159274de2d11474ed3f858599973c8`
 
+### Changelog:
 - Enabled auto-crop for HDMI sources
 &ensp;- AUX1 - vertical trim only
 &ensp;- AUX2 - crop active and stretch to 4:3
@@ -89,6 +93,7 @@ SHA-256: `ebfcf42ea3235912dc09320717ece0d3ca159274de2d11474ed3f858599973c8`
 CRC-32: `54E2FFA3`  
 SHA-256: `217c6727827540a60098d00905667ba5df95c8d5a9141700f31ed5478ab6e941`
 
+### Changelog:
 - Fixed hidden '.' file bug introduced when using the SD card with Mac OS X.
 - MiSTer DV1 detected and parsed
   - Can be disabled in HDMI RX menu, default on
@@ -104,6 +109,7 @@ SHA-256: `217c6727827540a60098d00905667ba5df95c8d5a9141700f31ed5478ab6e941`
 CRC-32: `922ADAA0`  
 SHA-256: `2696b2541358e536debf4108c7336a040f690b4fc833fa7afa89282a7311301e`
 
+### Changelog:
 - Fixed file handler to ignore files/directories that start with '.'
 - Added warning when disabling BFI minimum frame rate limit
 - Fixed auto-decimation bug with PS1 MiSTer core
@@ -116,6 +122,7 @@ SHA-256: `2696b2541358e536debf4108c7336a040f690b4fc833fa7afa89282a7311301e`
 CRC-32: `776145AB`  
 SHA-256: `e9a297cc1a811949b86ff1a7a57a6b8bbbd6a94980779921c899f600fe478380`
 
+### Changelog:
 - Fixed SD card read freeze bug due to unexpected read latency/timeouts
 - blizzz's name fixed
 - Option to disable min. BFI rate cop`
