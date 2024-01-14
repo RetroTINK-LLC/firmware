@@ -1,8 +1,8 @@
----
+# ---
 layout: default
 ---
 
-<h1 align="center" style="margin-top: 0px;">RetroTINK-2X Pro Multiformat firmware</h1>
+<h1 align="center" style="margin-top: 0px;">RetroTINK-2X Pro Multiformat Firmware</h1>
 
 <p style="margin:20px;"></p>
 

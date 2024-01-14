@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 align="center" style="margin-top: 0px;">RetroTINK-4K SD card images</h1>
+<h1 align="center" style="margin-top: 0px;">RetroTINK-4K SD card Images</h1>
 
 <p style="margin:20px;"></p>
 
