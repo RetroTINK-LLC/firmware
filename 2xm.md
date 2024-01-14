@@ -4,15 +4,19 @@ layout: default
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-2X Pro Multiformat Firmware</h1>
 
-<p style="margin:20px;"></p>
+<p style="margin:30px;"></p>
 
 <h2 align="center" style="margin-top: 0px;">⚠️ CAUTION: Read carefully before proceeding ⚠️</h2>
 
+<p style="margin:10px;"></p>
+
 ### DO NOT EVER ATTEMPT TO FLASH THE HEX FILES DIRECTLY TO THE PCB VIA THE PIC ICSP PINS. THESE FILES ARE ONLY FOR THE 2X-M. NEVER USE THESE FILES ON A NON-MULTIFORMAT PRO/SCART/MINI AND VICE VERSA. YOU MUST USE THE RETROTINK SOFTWARE. THE FIRMWARE CONTAINS AN ANTI-PIRACY MEASURE THAT CAN PERMANENTLY DESTROY THE DEVICE. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT CAN OCCUR IN THIS CASE.
+
+<p style="margin:10px;"></p>
 
 ## THE RETROTINK-2X PRO MULTIFORMAT IS INCOMPATIBLE WITH FIRMWARE FOR THE RETROTINK-2X PRO.
 
-<p style="margin:20px;"></p>
+<p style="margin:30px;"></p>
 
 ## Instructions️
 

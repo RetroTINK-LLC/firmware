@@ -4,11 +4,11 @@ layout: default
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-4K SD card Images</h1>
 
-<p style="margin:20px;"></p>
+<p style="margin:30px;"></p>
 
 <h2 align="center" style="margin-top: 0px;">⚠️ CAUTION: Read carefully before proceeding ⚠️</h2>
 
-<p style="margin:20px;"></p>
+<p style="margin:30px;"></p>
 
 ## Instructions️
 

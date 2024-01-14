@@ -4,17 +4,23 @@ layout: default
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-5X Experimental Firmware</h1>
 
-<p style="margin:20px;"></p>
+<p style="margin:30px;"></p>
 
 <h2 align="center" style="margin-top: 0px;">⚠️ CAUTION: Read carefully before proceeding ⚠️</h2>
 
+<p style="margin:10px;"></p>
+
 ### Warning: Only update your device using the tools provided below. Attempts at any other method will result in non-warranty device failure.
+
+<p style="margin:10px;"></p>
 
 ## Notice: Firmware updates erase saved profiles and reset the device to default settings.
 
+<p style="margin:10px;"></p>
+
 ## THE FIRMWARE CONTAINED IN THIS DIRECTORY IS PRE-RELEASE. PROPER FUNCTIONALITY IS NOT GUARANTEED, AND FEATURES MAY STILL BE IN DEVELOPMENT.
 
-<p style="margin:20px;"></p>
+<p style="margin:30px;"></p>
 
 ## Instructions️
 
@@ -265,7 +271,7 @@ SHA-256: `96c11d5a1691d3edd222c8b30bf73b69fb084b088e169906242cc045ce39c00d`
 
 Advanced resolutions are enabled by going into [OSD] -> Advanced Res option first to clarify that these modes are experimental and unsupported
 
-<p style="margin:41px;"></p>
+<p style="margin:40px;"></p>
 
 ## Version 2.60 (2022-02-07)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V260.hex)
@@ -283,7 +289,7 @@ No need to install unless the below items are of interest to you:
 
 The success rate here will be spotty since this pushes the clock to 260+ MHz. Triple buffer mode remains at 24 Hz for this mode as a safety fall back.
 
-<p style="margin:41px;"></p>
+<p style="margin:40px;"></p>
 
 ## Version 2.59 (2022-02-06)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V259.hex)

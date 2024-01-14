@@ -4,15 +4,19 @@ layout: default
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-4K Experimental Firmware</h1>
 
-<p style="margin:20px;"></p>
+<p style="margin:30px;"></p>
 
 <h2 align="center" style="margin-top: 0px;">⚠️ CAUTION: Read carefully before proceeding ⚠️</h2>
 
+<p style="margin:10px;"></p>
+
 ### For the initial update from the launch 1.0 RC26 firmware, it is recommended to update using the reset button method rather than through the menu.
+
+<p style="margin:10px;"></p>
 
 ## THE FIRMWARE CONTAINED IN THIS DIRECTORY IS PRE-RELEASE. PROPER FUNCTIONALITY IS NOT GUARANTEED, AND FEATURES MAY STILL BE IN DEVELOPMENT.
 
-<p style="margin:20px;"></p>
+<p style="margin:30px;"></p>
 
 ## Instructions️
 
