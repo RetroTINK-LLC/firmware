@@ -20,7 +20,7 @@
 
 
 title: RetroTINK Firmware Repository
-link-title: "# [RetroTINK Firmware Repository](/firmware/)"
+link-title: "[RetroTINK Firmware Repository](/firmware/)"
 email: retrotink@emmaline.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Your one-stop firmware shop for the entire family of RetroTINK devices
@@ -59,4 +59,5 @@ plugins:
 exclude:
    - ./README.md
    
-google_analytics: G-QSQJ2QCY6L
+google_analytics:
+   - G-QSQJ2QCY6L
