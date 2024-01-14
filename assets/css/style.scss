@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body {
-  padding:0px 0px 0px 0px;
+p, ul, ol, table, pre, dl {
+  margin:0 0 0px;
 }
