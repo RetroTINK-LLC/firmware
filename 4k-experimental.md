@@ -20,6 +20,8 @@ layout: default
 3. Optionally, delete the .rbf file corresponding to the old firmware.
 4. After deleting the .rbf file, your RetroTINK-4K will not boot. If it is already powered on, you can update by going to Advanced Settings -> OSD/Firmware -> Check SD Card. Otherwise, press and hold the reset button on the back of the RetroTINK-4K down while plugging it in.
 
+<p style="margin:20px;"></p>
+
 ## Version 1.0.9 (2024-01-09)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_109.zip)
