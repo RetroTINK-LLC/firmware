@@ -16,7 +16,7 @@ layout: default
 
 ## THE RETROTINK-2X PRO MULTIFORMAT IS INCOMPATIBLE WITH FIRMWARE FOR THE RETROTINK-2X PRO.
 
-<p style="margin:30px;"></p>
+<p style="margin:20px;"></p>
 
 ## Instructions️
 
