@@ -38,6 +38,8 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bva0JXLoq7E?si=Eobt-HF3LD1Lo89_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/>
 
+<br/>
+
 ## Version 1.2
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Mini/RT2X_MINI_V12.hex)  
@@ -47,6 +49,8 @@ SHA-256: `450348a476dafb389c5a8dc11aee55e20a3d07c45d0b79e4f1d5a440d5a0b3af`
 ### Changelog:
 - Press and hold the filter button for more than 1 second and release to toggle between pass-thru and Line2x.
 - Pass-thru is only useful for transcoding and capturing with professional cards. It will not work with many TVs. If you do not specifically need this functionality, please do not attempt to use it.
+
+<br/>
 
 ## Version 1.1
 

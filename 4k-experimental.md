@@ -18,6 +18,8 @@ layout: default
 3. Optionally, delete the .rbf file corresponding to the old firmware.
 4. After deleting the .rbf file, your RetroTINK-4K will not boot. If it is already powered on, you can update by going to Advanced Settings -> OSD/Firmware -> Check SD Card. Otherwise, press and hold the reset button on the back of the RetroTINK-4K down while plugging it in.
 
+<br/>
+
 ## Version 1.0.9 (2024-01-09)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_109.zip)
@@ -29,6 +31,8 @@ SHA-256: `b0f43eec664228ae38ee33244414fa821225244ca949f76779d6a953a7f537b7`
 - Increased FPGA to HDMI drive strength
 - Full shut down of Wide Tolerance mode when not in use to improve loop time
 - Reduced SDP output drive strength
+
+<br/>
 
 ## Version 1.0.8 (2024-01-08)
 
@@ -49,6 +53,8 @@ SHA-256: `2b0acf9ffef00cacca9d20ee4563302cac7a983f3612a9edfe0e899d9ec71b50`
 - MiSTer DV1 core name now displayed as part of mode name
 - HDCP only activates after a few seconds of continous raw HDCP frames detected
 
+<br/>
+
 ## Version 1.0.6 (2024-01-06)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_106.zip)
@@ -68,6 +74,8 @@ SHA-256: `101f04d990ed526e213dbdcc4e69219213db1033513afee79062b58da8721c25`
 - 4K50 and 1080p50 changed to CEA-861 with extra blanks instead of using their 60 Hz versions
 - Changed HDCP Alert
 
+<br/>
+
 ## Version 1.0.5 (2024-01-06)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_105.zip)
@@ -81,6 +89,8 @@ SHA-256: `ebfcf42ea3235912dc09320717ece0d3ca159274de2d11474ed3f858599973c8`
 &ensp;- AUX3 - crop active and stretch to 16:9
 - Adjusted auto-crop algorithm
 - 1080p -> 1440p120 CVT-rb works now
+
+<br/>
 
 ## Version 1.0.4 (2024-01-03)
 
@@ -98,6 +108,8 @@ SHA-256: `217c6727827540a60098d00905667ba5df95c8d5a9141700f31ed5478ab6e941`
 - Added 32 kHz audio sample rate detection (diagnostics page needs to be fixed, since it still displays 44.1 kHz)
 - Various FPGA optimizations and added the ability to override DE with DV1 info
 
+<br/>
+
 ## Version 1.0.2 (2023-12-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_102.zip)
@@ -110,6 +122,8 @@ SHA-256: `2696b2541358e536debf4108c7336a040f690b4fc833fa7afa89282a7311301e`
 - Fixed auto-decimation bug with PS1 MiSTer core
   - NOTE: Because MiSTer does not send the correct de-repetition (along with crop) meta data, you will need to manually set it in the HDMI receiver menu.
   - Usually Input Pixels = 4/Output Pixels = 1 is sufficent unless you need 1:1 PAR modes (i.e. emulating LCD) in which case, you will need to figure out the exact number
+
+<br/>
 
 ## Version 1.0.1 (2023-12-12)
 

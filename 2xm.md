@@ -40,6 +40,8 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bva0JXLoq7E?si=Eobt-HF3LD1Lo89_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/>
 
+<br/>
+
 ## Version 1.8
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Pro%20Multiformat/RT2XM_V18.hex)
@@ -49,6 +51,8 @@ SHA-256: `983ca8531543f0e459ea3743f77b2c8aa83139d16e71a3ee8f582feef037b6e4`
 ### Changelog:
   - Bug fixes related to sync stability.
 
+<br/>
+
 ## Version 1.7
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Pro%20Multiformat/RT2XM_V17.hex)
@@ -57,6 +61,8 @@ SHA-256: `d12a0e0ab953694d7ef1e03af49776e9584b147e2f0b466524b8ca771cd1824f`
 
 ### Changelog:
   - Minor bug fixes related to 480i sync.
+
+<br/>
 
 ## Version 1.6
 
@@ -70,6 +76,8 @@ SHA-256: `2e81aebce14ead92c14222cdf44a180d4aa382241d9f6482d84133110d95c268`
   - So far SNES seems to be very intermittent. PS2/PSOne appears to work well, as does Genesis and TG16/PCE.
   - If you're super confused, just set the device to 'Line2x' and 'Auto' and you should have a decent default mode for most use cases.
 
+<br/>
+
 ## Version 1.5
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Pro%20Multiformat/RT2XM_V15c.hex)
@@ -81,6 +89,8 @@ SHA-256: `4f4113cd237e0e733f219d110b0452c05c0b9f7771b335b6d6f29d77a8e6649e`
   - Fixed clock polarity (wasn't causing a problem but why not).
   - Hi-res 480p 444 mode indicated by blue light after tapping the 'Filter' button once.
 
+<br/>
+
 ## Version 1.4 (BETA)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Pro%20Multiformat/RT2XM_V14_BETA.hex)
@@ -89,6 +99,8 @@ SHA-256: `dfc5eb09b4f91cbd74451a815e6fe03fd8df52cff9e363e32fa127538b5d8b36`
 
 ### Changelog:
   - Added 1788 x 1080i. Unfortunately the video ADC cannot sample the full 1920 pixels/line. As with the 720p support, this should be considered a bonus and never a selling point.
+
+<br/>
 
 ## Version 1.3 (BETA)
 
@@ -101,6 +113,8 @@ SHA-256: `02640b7bb7b41f0a64cb1c6cfb92fd9cb05d53d2acab7adac3acdb3d9674e0e5`
   - Added 480p "Hi-Res" mode. Click the 'Filter' button when in 444 480p to activate. This sends twice the horizontal resolution. Since this is not going to be compatible with every display, this setting is not remembered across power cycles.
   - Further improvements in stability for 480p modes and sync detection.
 
+<br/>
+
 ## Version 1.2
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Pro%20Multiformat/RT2XM_V12.hex)
@@ -111,6 +125,8 @@ SHA-256: `2e46adc3ba54f89e50498ff0a62e979c4ad080b174c3423fc0e3aa67728937e9`
   - Pseudo-444 sampling mode for 480p inputs only. Set the 'Mode' switch to 'Line2x' to activate. 'Pass' operates with the exact same 422 output as before.
   - Pseduo-444 mode outputs a standard CEA-861 720 x 480p resolution but should be considered experimental until further notice.
   - Improved sync detection and stability.
+
+<br/>
 
 ## Version 1.1
 

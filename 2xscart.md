@@ -38,6 +38,8 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bva0JXLoq7E?si=Eobt-HF3LD1Lo89_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/>
 
+<br/>
+
 ## Version 1.6
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20SCART/RT2XSCART_v16.hex)
@@ -46,6 +48,8 @@ SHA-256: `0ed6b98b6d6849f6fffa950ea9048983ae2f58ae5ba80b099d0673c25d930936`
 
 ### Changelog:
   - Minor bug fixes related to "low-res" filter.
+
+<br/>
 
 ## Version 1.5
 
@@ -57,6 +61,8 @@ SHA-256: `06b372347571b114d30a5882b2b85a75255179bd048859c3fec16111e69f8941`
   - Fixed problem with booting up in pass-thru
   - Tweaked low-res YPbPr
   - Modified automatic HDMI disable on no input to recover without losing audio output.
+
+<br/>
 
 ## Version 1.4
 
@@ -71,6 +77,8 @@ SHA-256: `be049475d4fb62fe276313609d9cc1a3ab56bf5056f9928b71b09b8695f8b4ab`
   - Auto shut off of video output if no input is detected for 30 seconds. Red LED flashes 3 times to indicate video output power-down. Output is automatically resumed when a valid input is detected again.
   - Yet more tweaks to audio output in a futile attempt to maximize compatibility.
 
+<br/>
+
 ## Version 1.3
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20SCART/RT2X_SCART%20v13.hex)
@@ -83,6 +91,8 @@ SHA-256: `4063cd65c4d6ca3d83f87db27dd38129d0aa563eb4091203525a3f6e23cfe975`
   - Tweaked sync, porch and active timing to comply with CEA-861 standards except for the number of vertical lines when doubling 240p/288p.
   - Tweaked low-res YPbPr mode
   - 480i scanline mode: The scanline generator cycles between blanking odd and even lines every frame to simulate an interlaced CRT. The image is darker but does restore some lost vertical resolution using your eye as a sort of weave de-interlacer.
+
+<br/>
 
 ## Version 1.2
 

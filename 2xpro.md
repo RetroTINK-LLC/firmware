@@ -41,6 +41,8 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bva0JXLoq7E?si=Eobt-HF3LD1Lo89_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/>
 
+<br/>
+
 ## Version 1.7
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Pro/RT2XPro%20v17.hex)
@@ -52,6 +54,8 @@ SHA-256: `5a1d6cab8a03e07ff0c5cf4070b78ddc48ed864769f84d4d6e5854e6a74aa617`
   - Auto mode now uses an auto gain function to adapt to different video sources
   - Generally much brighter and vivid image output
 
+<br/>
+
 ## Version 1.6
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Pro/RT2XPro_V16.hex)
@@ -60,6 +64,8 @@ SHA-256: `e681d397262cc3ba05a22551bc9285e61387e1a0948dfeb068edf7aa36d434c5`
 
 ### Changelog:
   - Minor bug fixes related to "low-res" filter.
+
+<br/>
 
 ## Version 1.5
 
@@ -71,6 +77,8 @@ SHA-256: `c121d7516f91519c6e1d3a1e661fb0578a4836404a223bab21383c336c45f86d`
   - Fixed problem with booting up in pass-thru
   - Tweaked low-res YPbPr
   - Modified automatic HDMI disable on no input to recover without losing audio output.
+
+<br/>
 
 ## Version 1.4
 
@@ -85,6 +93,8 @@ SHA-256: `976f37dee577116892440e03c38cb1cb79743ce167fbc30925b8717e1b1f34f0`
   - Auto shut off of video output if no input is detected for 30 seconds. Red LED flashes 3 times to indicate video output power-down. Output is automatically resumed when a valid input is detected again.
   - Yet more tweaks to audio output in a futile attempt to maximize compatibility.
 
+<br/>
+
 ## Version 1.3
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Pro/RT2X-Pro%20v13.hex)
@@ -98,6 +108,8 @@ SHA-256: `8588543b0bb02ff2a046cf83a022f8a1c3dd63f781914f70091e50a5d0ade5a3`
   - Tweaked low-res YPbPr mode
   - 480i scanline mode: The scanline generator cycles between blanking odd and even lines every frame to simulate an interlaced CRT. The image is darker but does restore some lost vertical resolution using your eye as a sort of weave de-interlacer.
 
+<br/>
+
 ## Version 1.2
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Pro/RT2X-Pro%20v12.hex)
@@ -108,6 +120,8 @@ SHA-256: `a86c1570a3a2855a02ee190c37b2ae56d2929fcc024e15f0d8f959b1b2496545`
   - Improved DVI-only detection
   - CVBS Luma gain in 'Auto' mode now works more like a modern LCD versus a CRT if you prefer that look instead.
   - Low-res YPbPr mode for mimicking pixel dithering effects. Filter button cycle is now: regular, smoothed, scan-lined, low-resolution, low-resolution/smoothed. Warning: low-resolution mode is for experimental purposes only and degrades the sharpness (and adds minor ringing artifacts) since it applies CVBS type filtering to the Luma channel. Added only due to popular request :-)
+
+<br/>
 
 ## Version 1.1
 
