@@ -4,7 +4,7 @@ layout: default
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-2X SCART firmware</h1>
 
-<br />
+<p style="margin:20px;"></p>
 
 <h2 align="center" style="margin-top: 0px;">⚠️ CAUTION: Read carefully before proceeding ⚠️</h2>
 
