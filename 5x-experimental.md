@@ -50,7 +50,7 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 <br/>
 
 ## Version 3.699 (2023-09-09)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X_SDRAM_V3699.zip)
 CRC-32: `9EC64D62`  
 SHA-256: `5cd7cae666c649d9319c42ed43b08932dc71e77df8285a57a621b17daf8ac06f`
 
@@ -62,7 +62,7 @@ SHA-256: `5cd7cae666c649d9319c42ed43b08932dc71e77df8285a57a621b17daf8ac06f`
 <br/>
 
 ## Version 3.6969 (2023-09-04)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V36969.zip)
 CRC-32: `FEBED0EE`  
 SHA-256: `bc53da13dbc71b9b94e20be0e896c3d9c7784344c9590032a4cd19a1659542c9`
 
@@ -75,7 +75,7 @@ SHA-256: `bc53da13dbc71b9b94e20be0e896c3d9c7784344c9590032a4cd19a1659542c9`
 <br/>
 
 ## Version 3.69 (2023-08-30)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V369.zip)
 CRC-32: `41F3A8B3`  
 SHA-256: `7e23b8297377acb0cbae0b9a16293c5552704cfbe8cd2d907c976e7d97f2f411`
 
@@ -91,7 +91,7 @@ SHA-256: `7e23b8297377acb0cbae0b9a16293c5552704cfbe8cd2d907c976e7d97f2f411`
 <br/>
 
 ## Version 3.65 (BETA) (2023-07-02)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V365.zip)
 CRC-32: `50E2DC52`  
 SHA-256: `c9d32670611654ac67d0b1d49c37b6b1e755eb1d7a310777302fbbb86090fe2b`
 
@@ -103,7 +103,7 @@ SHA-256: `c9d32670611654ac67d0b1d49c37b6b1e755eb1d7a310777302fbbb86090fe2b`
 <br/>
 
 ## Version 3.64 (BETA) (2023-07-02)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V364.zip)
 CRC-32: `6311200F`  
 SHA-256: `b67526405c1ebfb1c0f9921a62f637c500474a22a2c145b1e0e5c2229dccdd47`
 
@@ -115,7 +115,7 @@ SHA-256: `b67526405c1ebfb1c0f9921a62f637c500474a22a2c145b1e0e5c2229dccdd47`
 <br/>
 
 ## Version 3.63 (BETA) (2023-06-30)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V363.zip)
 CRC-32: `DAD7B657`  
 SHA-256: `e84f7120d9ae0912d4f2453b13f8c7ffc7cfccc68b98aa5390ea42879bff8a8d`
 
@@ -128,7 +128,7 @@ SHA-256: `e84f7120d9ae0912d4f2453b13f8c7ffc7cfccc68b98aa5390ea42879bff8a8d`
 <br/>
 
 ## Version 3.62 (BETA) (2023-06-22)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V362.zip)
 CRC-32: `F7D79C70`  
 SHA-256: `7a47433c8986a898e043dfb8ad5ced1e358ca92a82769590856f3cea49c12a1c`
 
@@ -138,7 +138,7 @@ SHA-256: `7a47433c8986a898e043dfb8ad5ced1e358ca92a82769590856f3cea49c12a1c`
 <br/>
 
 ## Version 3.61 (BETA) (2023-06-17)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V361.zip)
 CRC-32: `1FDE0017`  
 SHA-256: `1a5492373c966e5fddc4a208b7ff34b46094c4b8230d78fa793236d0269b39a7`
 
@@ -152,7 +152,7 @@ SHA-256: `1a5492373c966e5fddc4a208b7ff34b46094c4b8230d78fa793236d0269b39a7`
 <br/>
 
 ## Version 3.5 (BETA) (2023-06-13)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20V35.zip)
 CRC-32: `D0FFC675`  
 SHA-256: `7428fd6e1bde9d84f287172a8c7194f342a33f7ec62511509a75a9e2a364cfe9`
 
@@ -164,7 +164,7 @@ SHA-256: `7428fd6e1bde9d84f287172a8c7194f342a33f7ec62511509a75a9e2a364cfe9`
 <br/>
 
 ## Version 3.2 (BETA) (2023-06-12)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/
 CRC-32: `929C828E`  
 SHA-256: `e34e15d4abcd8898847b063225d2de130ffc218c27ffe9ce044a8ff75ca61230`
 
@@ -180,7 +180,7 @@ SHA-256: `e34e15d4abcd8898847b063225d2de130ffc218c27ffe9ce044a8ff75ca61230`
 <br/>
 
 ## Version 2.99969 (2022-12-13)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V299969.zip)
 CRC-32: `48F98CCF`  
 SHA-256: `92482034fe93a9a593f3222ba3985470ad0eddec6c7ac0daba1908e5c2b2def1`
 
@@ -191,7 +191,7 @@ SHA-256: `92482034fe93a9a593f3222ba3985470ad0eddec6c7ac0daba1908e5c2b2def1`
 <br/>
 
 ## Version 2.999 (2022-12-11)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V2999.zip)
 CRC-32: `BE299D89`  
 SHA-256: `ae9141570aca05614ce691b7ce658e0414951329a59b05e5b311e981643530e9`
 
@@ -201,7 +201,7 @@ SHA-256: `ae9141570aca05614ce691b7ce658e0414951329a59b05e5b311e981643530e9`
 <br/>
 
 ## Version 2.99 (2022-12-04)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20V299.zip)
 CRC-32: `BD5709B1`  
 SHA-256: `fbc81e2b846cf4ecccc7970e731ae47d0f52557db05d16fe7d6db3c8bac09132`
 
@@ -214,7 +214,7 @@ SHA-256: `fbc81e2b846cf4ecccc7970e731ae47d0f52557db05d16fe7d6db3c8bac09132`
 <br/>
 
 ## Version 2.98 - Early Thanksgiving and Black Friday Preview Edition (2022-11-21)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V298.zip)
 CRC-32: `BB6AAADD`  
 SHA-256: `f2100aa180b01d2dbcb22ece3c504edfa74f33ae0d9016b4047f0369c3ce7270`
 
@@ -232,7 +232,7 @@ SHA-256: `f2100aa180b01d2dbcb22ece3c504edfa74f33ae0d9016b4047f0369c3ce7270`
 <br/>
 
 ## Version 2.72 (2022-05-28)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V272.zip)
 CRC-32: `42CE3F99`  
 SHA-256: `fb6f9571ee94bce412b27daed263bfe1048aa453c6069c23c12c8662d882eab5`
 
@@ -245,7 +245,7 @@ SHA-256: `fb6f9571ee94bce412b27daed263bfe1048aa453c6069c23c12c8662d882eab5`
 <br/>
 
 ## Version 2.7 (2022-04-19)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V27.zip)
 CRC-32: `7D9B71F6`  
 SHA-256: `ca5af2216de21fa595e9953ff45c2558e90215e197e20a22ef8442996f9d1ed9`
 
@@ -256,7 +256,7 @@ SHA-256: `ca5af2216de21fa595e9953ff45c2558e90215e197e20a22ef8442996f9d1ed9`
 <br/>
 
 ## Version 2.69 (2022-04-17)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V269.hex)
 CRC-32: `E33FE4BD`  
 SHA-256: `96c11d5a1691d3edd222c8b30bf73b69fb084b088e169906242cc045ce39c00d`
 
@@ -272,7 +272,7 @@ Advanced resolutions are enabled by going into [OSD] -> Advanced Res option firs
 <br/>
 
 ## Version 2.60 (2022-02-07)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V260.hex)
 CRC-32: `B78A44A3`  
 SHA-256: `b52936f356d96eed1824e653a9e80a464b1f9821a4abf1486344f0ffae94c4cf`
 
@@ -290,7 +290,7 @@ The success rate here will be spotty since this pushes the clock to 260+ MHz. Tr
 <br/>
 
 ## Version 2.59 (2022-02-06)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V259.hex)
 CRC-32: `470C98B5`  
 SHA-256: `2c966de1fc54b2f699591424a23a17f219df1fd9931ae8e6f7797e6460190cd9`
 
@@ -306,7 +306,7 @@ Usual disclaimers for experimental builds apply.
 <br/>
 
 ## Version 2.58 (2022-02-05)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V258.hex)
 CRC-32: `F84DA0E9`  
 SHA-256: `db4f7a13a38d0735645570b592cd5b28a005fd6183762d81b560f87fda5ccfdb`
 
@@ -320,7 +320,7 @@ Same disclaimers as 2.57 apply, not retyping it. No need to apply this firmware 
 <br/>
 
 ## Version 2.57 (2022-02-01)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V257.hex)
 CRC-32: `9966D808`  
 SHA-256: `2916ff999c7a1488647e3a1a64096c621d708c8ffe9b7820bf212428e7ef59e4`
 
@@ -336,7 +336,7 @@ SHA-256: `2916ff999c7a1488647e3a1a64096c621d708c8ffe9b7820bf212428e7ef59e4`
 <br/>
 
 ## Version 2.55 (2022-01-31)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V255.hex)
 CRC-32: `46E34B67`  
 SHA-256: `eeac83d64a5975bc5caf6f96583a4a25ea685980da67224b5ed9912712a58cc6`
 
@@ -347,7 +347,7 @@ SHA-256: `eeac83d64a5975bc5caf6f96583a4a25ea685980da67224b5ed9912712a58cc6`
 <br/>
 
 ## Version 2.53 (2022-01-30)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V253.hex)
 CRC-32: `D93EEC6D`  
 SHA-256: `5be61b68e74845554fd6d6c7acb4c3087eee7b77a0babfba854d640b21e19408`
 
@@ -366,8 +366,10 @@ SHA-256: `5be61b68e74845554fd6d6c7acb4c3087eee7b77a0babfba854d640b21e19408`
 - Default profile can be loaded by pressing 'Back' on the remote rapidly 6 times
 - NOTE: Firmware flashes erase profiles due to significant data structure changes.
 
+<br/>
+
 ## Version 2.40 (2022-01-11)
-### Download link to be added
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V240.hex)
 CRC-32: `46B585AE`  
 SHA-256: `baf223c6c4345553efe76d6223e2e1bf877b735de7b3e59bfb2b5c72e8aca20e`
 
