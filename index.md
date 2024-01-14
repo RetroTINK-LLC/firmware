@@ -24,4 +24,6 @@ layout: default
 - [RetroTINK-2X MINI](2xmini.md)
 - [RetroTINK-2X Pro Multiformat](2xm.md)
 
+<p style="margin:20px;"></p>
+
 **NOTE:** 2X-Classic firmware is not provided on the basis that updating it requires the use of a PIC programmer, rather than updating via USB or SD card, as well as concerns with 2X-Classic clone devices.
