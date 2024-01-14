@@ -8,6 +8,8 @@ layout: default
 
 <h2 align="center" style="margin-top: 0px;">⚠️ CAUTION: Read carefully before proceeding ⚠️</h2>
 
+<p style="margin:20px;"></p>
+
 ## Instructions️
 
 1. Download the appropriate zip file for the desired SD card image (this should contain all data normally on the SD card: firmware, profiles, banners and other data).

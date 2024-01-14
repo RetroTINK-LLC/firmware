@@ -13,6 +13,8 @@ title: {{[{{site.title}}]({{site.url}}) | markdownify}}
 
 ## THE RETROTINK-2X PRO IS INCOMPATIBLE WITH FIRMWARE FOR THE RETROTINK-2X PRO MULTIFORMAT.
 
+<p style="margin:20px;"></p>
+
 ## Instructions️
 
 ### Windows

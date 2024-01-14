@@ -11,6 +11,8 @@ layout: default
 
 ## THE FIRMWARE CONTAINED IN THIS DIRECTORY IS PRE-RELEASE. PROPER FUNCTIONALITY IS NOT GUARANTEED, AND FEATURES MAY STILL BE IN DEVELOPMENT.
 
+<p style="margin:20px;"></p>
+
 ## Instructions️
 
 1. Download the appropriate zip file for the desired version.
