@@ -58,6 +58,3 @@ plugins:
 
 exclude:
    - ./README.md
-   
-google_analytics:
-   - G-QSQJ2QCY6L
