@@ -14,6 +14,8 @@ layout: default
 
 ### Warning: Only update your device using the tools provided below. Attempts at any other method will result in non-warranty device failure.
 
+## THE FIRMWARE CONTAINED IN THIS DIRECTORY IS PRE-RELEASE. PROPER FUNCTIONALITY IS NOT GUARANTEED, AND FEATURES MAY STILL BE IN DEVELOPMENT.
+
 ## Instructions️
 
 ### Windows
