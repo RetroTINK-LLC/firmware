@@ -30,7 +30,7 @@ title: {{[{{site.title}}]({{site.url}}) | markdownify}}
 
 ### Multiplatform
 
-A talented developer (Ryan Mullen) ported the firmware update tool to Python: https://github.com/rmull/tinkup
+A talented developer (Ryan Mullen) [ported the firmware update tool to Python.](https://github.com/rmull/tinkup)
 
 This should work on Windows, Mac (including M1) and Linux.
 
