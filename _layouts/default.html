@@ -30,7 +30,7 @@
 
       <section>
         <div id="title">
-          <h1>{{ site.link-title | markdownify }}</h1>
+          {{ site.link-title | markdownify }}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
           <span class="credits left">Project maintained by <a href="https://www.retrotink.com/">RetroTINK LLC</a></span>
