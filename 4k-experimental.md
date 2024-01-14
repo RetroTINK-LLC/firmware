@@ -23,6 +23,25 @@ layout: default
 
 <p style="margin:20px;"></p>
 
+## Version 1.1.1 (2024-01-13)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_111.zip)
+CRC-32: `C26A7E1E`  
+SHA-256: `1e6d6ad5029f2aaf03068f227b3f2e7ceb9bdcba81df31a3d542613e8bf689f2`
+
+### Changelog:
+- Added Saturn auto-sampling mode by detecting when no solution is found and cycling the sample rate
+- Saturn threshold for determining low vs hi res is 0.92
+- Saturn modes only enable 320/640, 352/704
+- Fixed possible bug with determining low vs high resolution modes
+- Increased threshold to switch between 256/512 and 320/640 modes
+- Fixed page number bug in status screens
+- Increased delay before IR remote repeat hits
+- Left and Right jump 5 spots in the file manager
+
+<br/>
+
+
 ## Version 1.0.9 (2024-01-09)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_109.zip)
