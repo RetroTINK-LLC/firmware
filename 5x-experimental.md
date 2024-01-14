@@ -164,7 +164,7 @@ SHA-256: `7428fd6e1bde9d84f287172a8c7194f342a33f7ec62511509a75a9e2a364cfe9`
 <br/>
 
 ## Version 3.2 (BETA) (2023-06-12)
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X%20SDRAM%20V32.hex)
 CRC-32: `929C828E`  
 SHA-256: `e34e15d4abcd8898847b063225d2de130ffc218c27ffe9ce044a8ff75ca61230`
 
