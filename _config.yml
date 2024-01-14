@@ -25,8 +25,8 @@ email: retrotink@emmaline.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Your one-stop firmware shop for the entire family of RetroTINK devices
 domain: retrotink-llc.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://retrotink-llc.github.io/firmwares  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /firmwares/      # place folder name if the site is served in a subfolder
+url: https://retrotink-llc.github.io/firmware  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /firmware/      # place folder name if the site is served in a subfolder
 twitter_username: retrotink2
 github_username:  retrotink-llc
 

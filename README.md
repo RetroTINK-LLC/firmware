@@ -4,4 +4,4 @@ Welcome to the RetroTINK Firmware Repository. This page serves as a comprehensiv
 
 Unfortunately, you have ended up in the wrong place, as the GitHub repository is not meant to be browsed directly. The intended way to access the repository is through GitHub Pages.
 
-[CLICK HERE TO GO TO THE REPOSITORY](https://retrotink-llc.github.io/firmwares/)
+[CLICK HERE TO GO TO THE REPOSITORY](https://retrotink-llc.github.io/firmware/)
