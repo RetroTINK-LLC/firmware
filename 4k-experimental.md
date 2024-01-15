@@ -27,6 +27,18 @@ layout: default
 
 <p style="margin:20px;"></p>
 
+## Version 1.1.2 (2024-01-14)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_112.zip)
+CRC-32: `C26A7E1E`  
+SHA-256: `1e6d6ad5029f2aaf03068f227b3f2e7ceb9bdcba81df31a3d542613e8bf689f2`
+
+### Changelog:
+- Saturn mode now uses 427*7 and 455*8 as basis to have unique slots
+- Improved 320/640 detection algorithm, may also benefit PS1 (for PS1 use LPF = 35 MHz)
+
+<br/>
+
 ## Version 1.1.1 (2024-01-13)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_111.zip)
