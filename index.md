@@ -5,7 +5,7 @@ layout: default
 <h1 align="center" style="margin-top: 0px;">Welcome!</h1>
 <p align="center" >Welcome to the RetroTINK Firmware Repository. This website serves as a comprehensive directory for every user-updatable RetroTINK device and firmware. Please choose your device from the following:</p>
 
-### RetroTINK 4K
+### RetroTINK-4K
 - [Release](4k.md)  
 Latest: 1.1.0 (2024-01-10)
 <p style="margin:10px;"></p>
