@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RetroTINK Firmware Repository - RetroTINK-2X Pro Firmware
+title: RetroTINK-2X Pro Firmware
 ---
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-2X Pro Firmware</h1>
