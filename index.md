@@ -8,8 +8,10 @@ layout: default
 ### RetroTINK 4K
 - [Release](4k.md)  
 Latest: 1.1.0 (2024-01-10)
+<p style="margin:10px;"></p>
 - [SD card images](4k-sdcards.md)  
 Latest: 1.0 RC26 (2023-12-09)
+<p style="margin:10px;"></p>
 - [Experimental](4k-experimental.md)  
 Latest: 1.1.2 (2024-01-14)
 
@@ -18,6 +20,7 @@ Latest: 1.1.2 (2024-01-14)
 ### RetroTINK-5X Pro
 - [Release](5x.md)  
 Latest: 3.71 (2023-10-09)
+<p style="margin:10px;"></p>
 - [Experimental](5x-experimental.md)  
 Latest: 3.699 (2023-09-09)
 
@@ -29,10 +32,10 @@ Latest: 1.7
 <p style="margin:10px;"></p>
 - [RetroTINK-2X SCART](2xscart.md)  
 Latest: 1.6
-<p style="margin:20px;"></p>
+<p style="margin:10px;"></p>
 - [RetroTINK-2X MINI](2xmini.md)  
 Latest: 1.2
-<p style="margin:30px;"></p>
+<p style="margin:10px;"></p>
 - [RetroTINK-2X Pro Multiformat](2xm.md)  
 Latest: 1.8
 
