@@ -1,8 +1,9 @@
 ---
 layout: default
+title: RetroTINK Firmware Repository - RetroTINK-4K SD Card Images
 ---
 
-<h1 align="center" style="margin-top: 0px;">RetroTINK-4K SD card Images</h1>
+<h1 align="center" style="margin-top: 0px;">RetroTINK-4K SD Card Images</h1>
 
 <p style="margin:30px;"></p>
 
