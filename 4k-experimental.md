@@ -30,8 +30,8 @@ layout: default
 ## Version 1.1.2 (2024-01-14)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_112.zip)
-CRC-32: `C26A7E1E`  
-SHA-256: `1e6d6ad5029f2aaf03068f227b3f2e7ceb9bdcba81df31a3d542613e8bf689f2`
+CRC-32: `EE25E88F`  
+SHA-256: `2180d0b8b95ab65eea6d2aabdf5f7f92fe7fbd856080b4c6c1047dc28038a2ba`
 
 ### Changelog:
 - Saturn mode now uses 427*7 and 455*8 as basis to have unique slots
