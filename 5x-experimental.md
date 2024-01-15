@@ -1,5 +1,6 @@
 ---
 layout: default
+title: RetroTINK Firmware Repository - RetroTINK-5X Experimental Firmware
 ---
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-5X Experimental Firmware</h1>
