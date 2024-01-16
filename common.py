@@ -76,14 +76,22 @@ def extract_changelog(lines):
             found_changelog = True
         elif found_changelog:
             changelog_list.append(line)
-    
+
+    if not changelog_list:
+        print("Text parsing error - version extraction")
+        sys.exit()
+
     for line in changelog_list[::-1]:
         if not(line == "\n" or line == " " or "<br" in line or "<p" in line) and found_end == False:
             changelog_list_2.append(line)
             found_end = True
         elif found_end == True and not ("<br" in line or "<p" in line) and not ((line == "\n" or line == " ") and (changelog_list_2[-1] == "\n" or changelog_list_2[-1] == " ")):
             changelog_list_2.append(line)
-            
+
+    if not changelog_list_2:
+        print("Text parsing error - version extraction")
+        sys.exit()
+
     return changelog_list_2[::-1]
 
 def open_write(name, text):
