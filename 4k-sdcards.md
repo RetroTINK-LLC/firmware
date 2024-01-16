@@ -36,6 +36,10 @@ SHA-256: `24fb1e3320b708df933831212032b6a5a47511f789f19c328f12f046b9e0be90`
 - Improved audio compatibility with some displays and Atomos capture devices
 - Various bug and stability fixes
 
+<br/>
+
+## Version 1.0 RC26 (2023-12-09)
+
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_10rc26_sdcard.zip)
 CRC-32: `4D571806`  
 SHA-256: `f4c7cc7334f1968e83d050dd455d85ee55e37bd0b00a03dc37634a26d9495099`
