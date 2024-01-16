@@ -2,6 +2,9 @@ import re
 import argparse
 import os
 import sys
+
+from random import randint
+
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
 def open_read(name):
@@ -86,16 +89,18 @@ def extract_changelog(lines):
         sys.exit()
 
     for line in changelog_list[::-1]:
-        if not(line == "\n" or line == " " or "<br" in line or "<p" in line) and found_end == False:
+        if not(line == "\n" or line == " " or line == "" or "<br" in line or "<p" in line) and found_end == False:
             changelog_list_2.append(line)
             found_end = True
-        elif found_end == True and not ("<br" in line or "<p" in line) and not ((line == "\n" or line == " ") and (changelog_list_2[-1] == "\n" or changelog_list_2[-1] == " ")):
+        elif found_end == True and not ("<br" in line or "<p" in line) and not ((line == "\n" or line == " " or line == "") and (changelog_list_2[-1] == "\n" or changelog_list_2[-1] == " ")):
             changelog_list_2.append(line)
 
     if not changelog_list_2:
-        print("Text parsing error - version extraction")
+        print("Text parsing error - changlog transform failure")
         sys.exit()
 
+    changelog_list_2[0] = changelog_list_2[0].rstrip()
+    
     return changelog_list_2[::-1]
 
 def check_version(version, args):
@@ -112,6 +117,17 @@ def check_version(version, args):
         versionfile = open(os.path.splitext(args.target)[0] + ".txt", "w")
         versionfile.write(version + "\n")
         versionfile.close()
+
+def generate_color():
+    r = randint(0, 255)
+    g = randint(0, 255)
+    b = randint(0, 255)
+
+    hex_color = f'{r:02x}{g:02x}{b:02x}'
+
+    return int(hex_color, 16)
+
+    return int(f'{r:02x}{g:02x}{b:02x}', 16)
 
 def main():
     parser = argparse.ArgumentParser()
@@ -133,6 +149,8 @@ def main():
     device_type = ""
     update_type = ""
 
+    is_4K = True
+
     if os.path.splitext(args.target)[0] == "4k":
         device_type = "RetroTINK-4K"
         update_type = "release firmware"
@@ -145,9 +163,13 @@ def main():
     elif os.path.splitext(args.target)[0] == "5x":
         device_type = "RetroTINK-5X"
         update_type = "release firmware"
+        is_4K = False
     elif os.path.splitext(args.target)[0] == "5x-experimental":
         device_type = "RetroTINK-5X"
         update_type = "experimental firmware"
+        is_4K = False
+    else:
+        sys.exit()
 
     lines = read_and_extract_latest(args.target)
     
@@ -161,14 +183,47 @@ def main():
     crc32 = ''.join(extract_crc32(lines))
     sha256 = ''.join(extract_sha256(lines))
     changelog = ''.join(extract_changelog(lines))
-    
-    blurb = """A new {} {} has been released!
 
-Version {} ({})
+    debug = """device_type: {}
+update_type: {}
+
+version: {}
+friendlyname: {}
+
+upload_date: {}
+upload_url: {}
+
+crc32: {}
+sha256: {}
+
+changelog:
 {}
-Download: https://retrotink-llc.github.io/{}.html""".format(device_type, update_type, friendlyname, upload_date, changelog, os.path.splitext(args.target)[0])
+
+link: {}
+""".format(device_type, update_type, version, friendlyname, upload_date, upload_url, crc32, sha256, changelog, "https://retrotink-llc.github.io/" + os.path.splitext(args.target)[0] + ".html")
+
+    embed_title = "A new {} {} is available!".format(device_type, update_type)
+    embed_description = """
+### **[Version {} ({})]({})**
+{}
+""".format(friendlyname, upload_date, "https://retrotink-llc.github.io/" + os.path.splitext(args.target)[0] + ".html", changelog)
+
+    embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
+
+    webhook_url = os.environ['WEBHOOK']
+
+    if is_4K:
+        embed.set_thumbnail(url="https://static.wixstatic.com/media/36c4ce_e4756ee635df4083b79fe78607f97d6e~mv2.jpg/v1/fill/w_1892,h_1102,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/36c4ce_e4756ee635df4083b79fe78607f97d6e~mv2.jpg")
+    else:
+        embed.set_thumbnail(url="https://static.wixstatic.com/media/36c4ce_a0f589500ed8438ebde1c6bd0eb94804~mv2.jpg/v1/fill/w_1470,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/36c4ce_a0f589500ed8438ebde1c6bd0eb94804~mv2.jpg")
+
+    webhook = DiscordWebhook(url = webhook_url, username = "Tinky", avatar_url = "https://cdn.discordapp.com/attachments/827387755079794688/1196944434256949388/tinkbot_blkbg.png?ex=65b9785f&is=65a7035f&hm=ab3ce27830dfa72aeaa9bc705bb41889ff44e1b3c05d0824da3efada410981e0&")
+
+    webhook.add_embed(embed)
     
-    print(blurb)
+    webhook.execute()
+    
+    print(debug)
 
 if __name__ == "__main__":
     main()
