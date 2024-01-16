@@ -1,4 +1,7 @@
 import re
+import argparse
+import os
+import sys
 
 def open_read(name):
     try:
@@ -94,33 +97,57 @@ def extract_changelog(lines):
 
     return changelog_list_2[::-1]
 
-def open_write(name, text):
-    try:
-        with open (name, "w") as versionfile:
-            versionfile.write(text)
-            versionfile.close()
+def check_version(version):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--target', type=str, help='File to parse')
+    args = parser.parse_args()
+
+    if not os.path.exists(os.path.splitext(args.target)[0] + ".txt"):
+        versionfile = open(os.path.splitext(args.target)[0] + ".txt", "x")
+        versionfile.write(version + "\n")
+        versionfile.close()
+        
         return
-    except:
-        print("Write error!")
+
+    if open_read(os.path.splitext(args.target)[0] + ".txt")[0] == version + "\n":
         sys.exit()
+    else:
+        versionfile = open(os.path.splitext(args.target)[0] + ".txt", "w")
+        versionfile.write(version + "\n")
+        versionfile.close()
 
 def main():
-    rt4k_lines = read_and_extract_latest("4k.md")
-    rt4k_exp_lines = read_and_extract_latest("4k-experimental.md")
-    rt4k_sd_lines = read_and_extract_latest("4k-sdcards.md")
-    rt5x_lines = read_and_extract_latest("5x.md")
-    rt5x_exp_lines = read_and_extract_latest("5x-experimental.md")
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--target', type=str, help='File to parse')
+    args = parser.parse_args()
+
+    if args.target is None:
+        print("No file given!")
+        sys.exit()
+        
+    if not os.path.exists(args.target):
+        print("File does not exist!")
+        sys.exit()
+        
+    if os.path.splitext(args.target)[1] != ".md":
+        print("Wrong filetype!")
+        sys.exit()
+
+    lines = read_and_extract_latest(args.target)
     
-    test_set = [rt4k_lines, rt4k_exp_lines, rt4k_sd_lines, rt5x_lines, rt5x_exp_lines]
+    version = ''.join(extract_version(lines))
     
-    for lines in test_set:
-        print(''.join(extract_version(lines)))
-        print(''.join(extract_friendlyversion(lines)))
-        print(''.join(extract_date(lines)))
-        print(''.join(extract_url(lines)))
-        print(''.join(extract_crc32(lines)))
-        print(''.join(extract_sha256(lines)))
-        print(''.join(extract_changelog(lines)))
+    check_version(version)
+    
+    print(version)
+    print(''.join(extract_friendlyversion(lines)))
+    print(''.join(extract_date(lines)))
+    print(''.join(extract_url(lines)))
+    print(''.join(extract_crc32(lines)))
+    print(''.join(extract_sha256(lines)))
+    print(''.join(extract_changelog(lines)))
+
+
 
 if __name__ == "__main__":
     main()
