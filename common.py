@@ -213,11 +213,11 @@ link: {}
     webhook_url = os.environ['WEBHOOK']
 
     if is_4K:
-        embed.set_thumbnail(url="https://static.wixstatic.com/media/36c4ce_e4756ee635df4083b79fe78607f97d6e~mv2.jpg/v1/fill/w_1892,h_1102,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/36c4ce_e4756ee635df4083b79fe78607f97d6e~mv2.jpg")
+        embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt4k.webp")
     else:
-        embed.set_thumbnail(url="https://static.wixstatic.com/media/36c4ce_a0f589500ed8438ebde1c6bd0eb94804~mv2.jpg/v1/fill/w_1470,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/36c4ce_a0f589500ed8438ebde1c6bd0eb94804~mv2.jpg")
+        embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt5x.webp")
 
-    webhook = DiscordWebhook(url = webhook_url, username = "Tinky", avatar_url = "https://cdn.discordapp.com/attachments/827387755079794688/1196944434256949388/tinkbot_blkbg.png?ex=65b9785f&is=65a7035f&hm=ab3ce27830dfa72aeaa9bc705bb41889ff44e1b3c05d0824da3efada410981e0&")
+    webhook = DiscordWebhook(url = webhook_url, username = "Tinky", avatar_url = "https://retrotink-llc.github.io/firmware/assets/tinky_webhook.png")
 
     webhook.add_embed(embed)
     
