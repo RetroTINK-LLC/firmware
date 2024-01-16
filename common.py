@@ -2,6 +2,7 @@ import re
 import argparse
 import os
 import sys
+from discord_webhook import DiscordWebhook, DiscordEmbed
 
 def open_read(name):
     try:
@@ -97,11 +98,7 @@ def extract_changelog(lines):
 
     return changelog_list_2[::-1]
 
-def check_version(version):
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--target', type=str, help='File to parse')
-    args = parser.parse_args()
-
+def check_version(version, args):
     if not os.path.exists(os.path.splitext(args.target)[0] + ".txt"):
         versionfile = open(os.path.splitext(args.target)[0] + ".txt", "x")
         versionfile.write(version + "\n")
@@ -133,21 +130,45 @@ def main():
         print("Wrong filetype!")
         sys.exit()
 
+    device_type = ""
+    update_type = ""
+
+    if os.path.splitext(args.target)[0] == "4k":
+        device_type = "RetroTINK-4K"
+        update_type = "release firmware"
+    elif os.path.splitext(args.target)[0] == "4k-experimental":
+        device_type = "RetroTINK-4K"
+        update_type = "experimental firmware"
+    elif os.path.splitext(args.target)[0] == "4k-sdcards":
+        device_type = "RetroTINK-4K"
+        update_type = "SD card image"
+    elif os.path.splitext(args.target)[0] == "5x":
+        device_type = "RetroTINK-5X"
+        update_type = "release firmware"
+    elif os.path.splitext(args.target)[0] == "5x-experimental":
+        device_type = "RetroTINK-5X"
+        update_type = "experimental firmware"
+
     lines = read_and_extract_latest(args.target)
     
     version = ''.join(extract_version(lines))
     
-    check_version(version)
+    check_version(version, args)
     
-    print(version)
-    print(''.join(extract_friendlyversion(lines)))
-    print(''.join(extract_date(lines)))
-    print(''.join(extract_url(lines)))
-    print(''.join(extract_crc32(lines)))
-    print(''.join(extract_sha256(lines)))
-    print(''.join(extract_changelog(lines)))
+    friendlyname = ''.join(extract_friendlyversion(lines))
+    upload_date = ''.join(extract_date(lines))
+    upload_url = ''.join(extract_url(lines))
+    crc32 = ''.join(extract_crc32(lines))
+    sha256 = ''.join(extract_sha256(lines))
+    changelog = ''.join(extract_changelog(lines))
+    
+    blurb = """A new {} {} has been released!
 
-
+Version {} ({})
+{}
+Download: https://retrotink-llc.github.io/{}.html""".format(device_type, update_type, friendlyname, upload_date, changelog, os.path.splitext(args.target)[0])
+    
+    print(blurb)
 
 if __name__ == "__main__":
     main()
