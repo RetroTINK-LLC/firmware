@@ -14,9 +14,9 @@ layout: default
 
 ### RetroTINK-2X family devices:
 
-| | RetroTINK-2X Pro | RetroTINK-2X SCART | RetroTINK-2X MINI | RetroTINK-2X Pro Multiformat |
-|-------|-------|-------|--------|---------|
-| | [Latest: 1.7](2xpro.md) | [Latest: 1.6](2xscart.md) | [Latest: 1.2](2xmini.md) | [Latest: 1.8](2xm.md) |
+| RetroTINK-2X Pro | RetroTINK-2X SCART | RetroTINK-2X MINI | RetroTINK-2X Pro Multiformat |
+|-------|-------|--------|---------|
+| [Latest: 1.7](2xpro.md) | [Latest: 1.6](2xscart.md) | [Latest: 1.2](2xmini.md) | [Latest: 1.8](2xm.md) |
 
 <p style="margin:20px;"></p>
 
