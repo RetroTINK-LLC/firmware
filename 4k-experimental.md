@@ -1,5 +1,6 @@
 ---
 layout: default
+title: RetroTINK-4K Experimental Firmware
 ---
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-4K Experimental Firmware</h1>
@@ -20,12 +21,21 @@ layout: default
 
 ## Instructions️
 
-1. Download the appropriate zip file for the desired version.
-2. Unzip the .bin and .rbf files to the root of your SD card.
-3. Optionally, delete the .rbf file corresponding to the old firmware.
-4. After deleting the .rbf file, your RetroTINK-4K will not boot. If it is already powered on, you can update by going to Advanced Settings -> OSD/Firmware -> Check SD Card. Otherwise, press and hold the reset button on the back of the RetroTINK-4K down while plugging it in.
+1. Power off your RetroTINK-4K and remove the SD card.
+2. Insert the SD card used for your RT4K into the SD card slot on your computer. If your computer doesn't have an SD card slot, you can connect it using the provided USB adaptor.
+3. Download the .zip file of the firmware you want from the RetroTINK website.
+4. Extract the contents of the .zip file to the SD card's root directory. Be sure to replace the existing "rt4kup.bin" file, as this is used to determine which firmware to install.
+  - If you intend to update via the RT4K's menu, do not delete the old \*.rbf firmware file. If you do, you'll be forced to update via the Reset button method (see Step 6 below for how to do this).
+5. Remove the SD card and insert it into the SD card slot on the RetroTINK-4K.
+6. There are two methods for initiating the firmware installation. The RT4K installs firmware based on the "rt4kup.bin" file.
+  - Option 1: Power on the RetroTINK-4K, then go to Advanced Settings > OSD/Firmware. In the Firmware update section, select "Check SD Card" to scan for the firmware file, then confirm that you want to install it.
+  - Option 2: Hold down the blue Reset button on the back of the RetroTINK-4K, then power it on. The firmware installation will begin automatically.
+  - If the LED blinks red, an install error has occurred. Check the files on the SD card and try again.
+7. The RT4K will reboot for about 40 seconds, with the front LED flashing pink and then blue. Once done, it will power on again as normal with a green LED. You're done!
 
-<p style="margin:20px;"></p>
+All custom profiles, CSC files, banner images, input modes, mask overlays and modelines will be kept, as those are stored on the SD card instead of on the RT4K itself. 
+
+<p style="margin:41px;"></p>
 
 ## Version 1.1.2 (2024-01-14)
 

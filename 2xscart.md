@@ -1,5 +1,6 @@
 ---
 layout: default
+title: RetroTINK-2X SCART Firmware
 ---
 
 <h1 align="center" style="margin-top: 0px;">RetroTINK-2X SCART Firmware</h1>
