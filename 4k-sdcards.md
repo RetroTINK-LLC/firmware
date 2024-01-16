@@ -19,9 +19,24 @@ title: RetroTINK-4K SD Card Images
 
 <p style="margin:20px;"></p>
 
-## Version 1.0 RC26 (2023-12-09)
+## Version 1.1.0 (2024-01-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_10rc26.zip)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_110_sdcard.zip)
+CRC-32: `3338FFB0`  
+SHA-256: `24fb1e3320b708df933831212032b6a5a47511f789f19c328f12f046b9e0be90`
+
+### Changelog:
+- Added MiSTer DV1 support for auto-decimating and auto-cropping video output from cores
+- Enabled Auto-Cropping for HDMI® input sources
+- Scanlines and masks are automatically rotated correctly when the video is rotated
+- Added additional LCD effects including RGB and BGR subpixel layouts
+- 'Wide Tolerance' sync mode added for sources with poor sync signals such as NEOGEO and Atari 2600/7800
+- 1080p60 -> 1440p120 CVT-rb fixed
+- Fixed file handling to ignore '.' files introduced by Mac OS X
+- Improved audio compatibility with some displays and Atomos capture devices
+- Various bug and stability fixes
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_10rc26_sdcard.zip)
 CRC-32: `4D571806`  
 SHA-256: `f4c7cc7334f1968e83d050dd455d85ee55e37bd0b00a03dc37634a26d9495099`
 
