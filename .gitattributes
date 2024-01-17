@@ -1,6 +1,2 @@
 *.md linguist-detectable
 *.yml linguist-detectable
-
-# Define Linguist attributes for .zip and .hex files
-*.hex linguist-detectable=true
-*.hex linguist-language=Assembly
