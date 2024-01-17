@@ -31,11 +31,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Script and Push Notification
+        run: |
+          python3 common.py --target "rt5x.md"
+          EDITED_TXT_FILE="rt5x.txt"
         env:
           WEBHOOK: ${{ secrets.RT5X_COMMUNITY_WEBHOOK }}
-        run: |
-          python3 your_script.py --target "rt5x-experimental.md"
-          EDITED_TXT_FILE="rt5x-experimental.txt"
 
       - name: Commit and Push Changes
         run: |
