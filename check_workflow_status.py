@@ -41,7 +41,7 @@ if __name__ == "__main__":
         sys.exit()
 
     repo_name = "retrotink-llc/firmware"
-    workflow_name = "args.workflow"
+    workflow_name = args.workflow
     github_token = os.getenv("GITHUB_TOKEN")
 
     check_workflow_status(repo_name, workflow_name, github_token)
