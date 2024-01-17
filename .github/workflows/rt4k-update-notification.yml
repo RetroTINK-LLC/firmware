@@ -46,7 +46,7 @@ jobs:
           WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
 
       - name: Commit and Push Changes
-        if: env.exit_code != '2'
+        if: env.exit_code == '0'
         continue-on-error: true 
         run: |
           sleep 30s
