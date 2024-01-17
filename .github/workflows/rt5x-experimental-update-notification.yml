@@ -31,6 +31,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Script and Push Notification
+        env:
+          WEBHOOK: ${{ secrets.RT5X_COMMUNITY_WEBHOOK }}
         run: |
           python3 your_script.py --target "rt5x-experimental.md"
           EDITED_TXT_FILE="rt5x-experimental.txt"
