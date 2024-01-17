@@ -47,7 +47,7 @@ jobs:
           exit 1
 
       - name: Commit and Push Changes
-        if: steps.script_run.outputs.exit_code != '2'
+        if: env.exit_code != '2'
         continue-on-error: true 
         run: |
           sleep 30s
