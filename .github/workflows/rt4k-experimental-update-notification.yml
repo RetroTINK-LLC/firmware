@@ -37,9 +37,10 @@ jobs:
           WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
 
       - name: Commit and Push Changes
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Use GitHub token for checkout
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add 4k-experimental.txt
           git commit -m "Update rt5x.txt with new version number"
           git push
