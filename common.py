@@ -51,7 +51,7 @@ def extract_url(lines):
     for line in lines:
         if "### [Download]" in line:
             dl_line = line
-            return re.search(r'(https:\/\/cdn.jsdelivr.net\/gh\/retrotink-llc\/firmware@main\/RetroTINK-)+((4K\/)|(5X%20Pro\/))+(Release\/|Experimental\/|SD%20card%20images\/)+(.+)+(.zip|.hex)', dl_line).group()
+            return re.search(r'(https?://).*(?=\))', dl_line).group()
     
     print("Text parsing error - version extraction")
     sys.exit()
