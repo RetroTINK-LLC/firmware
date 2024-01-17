@@ -31,17 +31,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Script and Push Notification
-        continue-on-error: true 
         run: |
           python3 common.py --target "5x.md"
-          exit_code=$?
-          echo "exit_code=$exit_code" >> $GITHUB_ENV
-          if [ $exit_code -eq 1 ]; then
-            echo "Script failed with exit code 1. Failing the action."
-            gh run cancel ${{ github.run_id }}
-            gh run watch ${{ github.run_id }}
-            exit 1
-          fi
         env:
           WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
 
