@@ -63,7 +63,7 @@ SHA-256: `d15ea5eddeadbeefdeadc0dedeaddeadd15ea5eddeadbeefdeadc0dedeaddead`
 - Gave the RT5X source code to Bitfunx
 - Rigged the base to explode
 
-<br/> 
+<br/>
 
 ## Version 3.699 (2023-09-09)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X_SDRAM_V3699.zip)
