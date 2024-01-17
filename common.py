@@ -187,6 +187,18 @@ def main():
     sha256 = ''.join(extract_sha256(lines))
     changelog = ''.join(extract_changelog(lines))
 
+    main_lines = open_read("index.md")
+
+    if is_4K:
+        main_lines[9] = re.sub(r"\[Latest: [0-9]+\.[0-9]+(?:[^\]]*?)<br/>\((202\d-\d\d-\d\d)\)]\({}\)".format(args.target), "[Latest: {}<br/>({})]({})".format(friendlyname,upload_date,args.target), main_lines[9])
+    else:
+        main_lines[10] = re.sub(r"\[Latest: [0-9]+\.[0-9]+(?:[^\]]*?)<br/>\((202\d-\d\d-\d\d)\)]\({}\)".format(args.target), "[Latest: {}<br/>({})]({})".format(friendlyname,upload_date,args.target), main_lines[10])
+
+    main_file = open("index.md", "w")
+    for line in main_lines:
+        main_file.write(f"{line}")
+    main_file.close()
+
     debug = """device_type: {}
 update_type: {}
 

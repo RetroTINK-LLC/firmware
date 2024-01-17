@@ -44,6 +44,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add 4k-experimental.txt
-          git commit -m "Update rt5x.txt with new version number"
+          git add index.md
+          git commit -m "Update rt5x.txt and index.md with new version number"
           git push
           
