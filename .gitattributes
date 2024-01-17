@@ -2,9 +2,5 @@
 *.yml linguist-detectable
 
 # Define Linguist attributes for .zip and .hex files
-*.zip linguist-vendored=false linguist-detectable=true linguist-generated=false linguist-language=Firmware
-*.hex linguist-vendored=false linguist-detectable=true linguist-generated=false linguist-language=Firmware
-
-# Specify the percentage metric for these file types
-*.zip diff=zipdiff
-*.hex diff=hexdiff
+*.zip linguist-vendored=true linguist-generated=false linguist-language=Binary filesize=100%
+*.hex linguist-vendored=true linguist-generated=false linguist-language=Binary filesize=100%
