@@ -31,6 +31,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Script and Push Notification
+        env:
+          WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
         run: |
           python3 your_script.py --target "rt4k-experimental.md"
           EDITED_TXT_FILE="rt4k-experimental.txt"
