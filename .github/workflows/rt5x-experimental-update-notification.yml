@@ -3,7 +3,7 @@ name: rt5x-experimental-update-notification
 on:
   push:
     branches:
-      - discord-autopost
+      - main
     paths:
       - '5x-experimental.md'
 

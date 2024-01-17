@@ -3,7 +3,7 @@ name: rt4k-update-notification
 on:
   push:
     branches:
-      - discord-autopost
+      - main
     paths:
       - '4k.md'
 

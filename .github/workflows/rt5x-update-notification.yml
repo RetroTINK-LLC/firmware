@@ -3,7 +3,7 @@ name: rt5x-update-notification
 on:
   push:
     branches:
-      - discord-autopost
+      - main
     paths:
       - '5x.md'
 
