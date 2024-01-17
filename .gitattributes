@@ -1,2 +1,4 @@
 *.md linguist-detectable
 *.yml linguist-detectable
+*.zip linguist-language=Firmware
+*.hex linguist-language=Firmware
