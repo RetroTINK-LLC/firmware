@@ -26,7 +26,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Wait for pages-build-deployment Workflow to Complete
-        run: python3 check_workflow_status.py
+        run: python3 check_workflow_status.py --workflow pages-build-deployment
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,6 +38,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
+          sleep 40s
           git pull
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
