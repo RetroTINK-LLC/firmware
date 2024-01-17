@@ -32,7 +32,7 @@ jobs:
 
       - name: Run Script and Push Notification
         run: |
-          python3 common.py --target "rt4k-experimental.md"
+          python3 common.py --target "4k-experimental.md"
         env:
           WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
 
