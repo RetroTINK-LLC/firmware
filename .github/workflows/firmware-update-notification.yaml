@@ -29,6 +29,11 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Wait for pages-build-deployment Workflow to Complete
+        run: python3 check_workflow_status.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Run Script and Push Notification
         run: |
           FULL_PATH=${{ github.event.head_commit.modified[0] }}
