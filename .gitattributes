@@ -2,7 +2,7 @@
 *.yml linguist-detectable
 
 # Define Linguist attributes for .zip and .hex files
-*.zip linguist-vendored=false
-*.hex linguist-vendored=false
+*.zip linguist-detectable=true
+*.hex linguist-detectable=true
 *.zip linguist-language=Binary
 *.hex linguist-language=Binary
