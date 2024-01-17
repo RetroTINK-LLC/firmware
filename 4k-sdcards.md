@@ -19,19 +19,6 @@ title: RetroTINK-4K SD Card Images
 
 <p style="margin:41px;"></p>
 
-## Version 69.420 - Special Self-Destruct Sequence! (2024-20-69)
-### [Download](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-CRC-32: `DEADBEEF`  
-SHA-256: `d15ea5eddeadbeefdeadc0dedeaddeadd15ea5eddeadbeefdeadc0dedeaddead`
-
-### Changelog:
-- Sent the clowns to space
-- Dropped the RT4K source code into Mount Doom
-- Gave the RT5X source code to Bitfunx
-- Rigged the base to explode
-
-<br/>
-
 ## Version 1.1.0 (2024-01-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_110_sdcard.zip)
