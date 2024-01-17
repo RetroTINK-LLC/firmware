@@ -48,7 +48,7 @@ SHA-256: `d15ea5eddeadbeefdeadc0dedeaddeadd15ea5eddeadbeefdeadc0dedeaddead`
 - Gave the RT5X source code to Bitfunx
 - Rigged the base to explode
 
-<br/> 
+<br/>
 
 ## Version 1.1.3 (2024-01-15)
 
