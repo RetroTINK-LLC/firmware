@@ -36,7 +36,7 @@ if __name__ == "__main__":
     parser.add_argument('--workflow', type=str, help='Workflow being checked')
     args = parser.parse_args()
 
-    if args.target is None:
+    if args.workflow is None:
         print("No workflow given!")
         sys.exit()
 
