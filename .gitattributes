@@ -1,4 +1,10 @@
 *.md linguist-detectable
 *.yml linguist-detectable
-*.zip linguist-language=Firmware
-*.hex linguist-language=Firmware
+
+# Define Linguist attributes for .zip and .hex files
+*.zip linguist-vendored=false linguist-detectable=true linguist-generated=false linguist-language=Firmware
+*.hex linguist-vendored=false linguist-detectable=true linguist-generated=false linguist-language=Firmware
+
+# Specify the percentage metric for these file types
+*.zip diff=zipdiff
+*.hex diff=hexdiff
