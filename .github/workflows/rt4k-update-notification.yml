@@ -37,7 +37,6 @@ jobs:
           WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
 
       - name: Commit and Push Changes
-        if: env.exit_code == '0'
         run: |z
           git diff --quiet --exit-code  # Check if there are changes
           if [ $? -eq 0 ]; then
