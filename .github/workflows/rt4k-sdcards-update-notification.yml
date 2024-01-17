@@ -37,7 +37,6 @@ jobs:
           WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
 
       - name: Commit and Push Changes
-        uses: actions/checkout@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }} # Use GitHub token for checkout
         run: |
