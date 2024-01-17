@@ -43,7 +43,7 @@ def extract_friendlyversion(lines):
     return re.search(r'(?!## Version )+([0-9]+\.?[0-9]*\.*[0-9]*)+(.*)+(?= \()', lines[0]).group()
     
 def extract_date(lines):
-    return re.search(r'(202[0-9]-[01]*[0-9]-[0123]*[0-9])', lines[0]).group()
+    return re.search(r'(202[0-9]-[0-9]*[0-9]-[0-9]*[0-9])', lines[0]).group()
     
 def extract_url(lines):
     dl_line = "empty"
