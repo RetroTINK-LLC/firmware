@@ -37,10 +37,10 @@ def read_and_extract_latest(name):
     return extract_latest(open_read(name))
 
 def extract_version(lines):
-    return re.search(r'(?!## Version )+([0-9]+\.?[0-9]*\.*[0-9]*)', lines[0]).group()
+    return re.search(r'(?!## Version )+([0-9]+(.?[0-9]+)*)', lines[0]).group()
 
 def extract_friendlyversion(lines):
-    return re.search(r'(?!## Version )+([0-9]+\.?[0-9]*\.*[0-9]*)+(.*)+(?= \()', lines[0]).group()
+    return re.search(r'(?!## Version )+([0-9]+(.?[0-9]+)*)+(.*)+(?= \()', lines[0]).group()
     
 def extract_date(lines):
     return re.search(r'(202[0-9]-[0-9]*[0-9]-[0-9]*[0-9])', lines[0]).group()
@@ -111,12 +111,15 @@ def check_version(version, args):
         
         return
 
-    if open_read(os.path.splitext(args.target)[0] + ".txt")[0] == version + "\n":
+    verstring = open_read(os.path.splitext(args.target)[0] + ".txt")[0].rstrip()
+
+    if verstring == version:
         sys.exit(0)
     else:
         versionfile = open(os.path.splitext(args.target)[0] + ".txt", "w")
         versionfile.write(version + "\n")
         versionfile.close()
+        return verstring
 
 def generate_color():
     r = randint(0, 255)
@@ -175,7 +178,7 @@ def main():
     
     version = ''.join(extract_version(lines))
     
-    check_version(version, args)
+    old_version = check_version(version, args)
     
     friendlyname = ''.join(extract_friendlyversion(lines))
     upload_date = ''.join(extract_date(lines))
