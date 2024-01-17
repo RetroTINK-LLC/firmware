@@ -37,6 +37,7 @@ jobs:
           WEBHOOK: ${{ secrets.RT5X_COMMUNITY_WEBHOOK }}
 
       - name: Commit and Push Changes
+        continue-on-error: true 
         run: |
           sleep 40s
           git pull
@@ -45,5 +46,3 @@ jobs:
           git add 5x-experimental.txt
           git commit -m "Update rt5x.txt with new version number"
           git push
-      - if: failure()
-        run: # exit_with_success
