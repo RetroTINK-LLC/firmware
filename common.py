@@ -114,7 +114,7 @@ def check_version(version, args):
     verstring = open_read(os.path.splitext(args.target)[0] + ".txt")[0].rstrip()
 
     if verstring == version:
-        sys.exit(0)
+        sys.exit(2)
     else:
         versionfile = open(os.path.splitext(args.target)[0] + ".txt", "w")
         versionfile.write(version + "\n")

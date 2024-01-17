@@ -31,12 +31,23 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Script and Push Notification
+        continue-on-error: true 
         run: |
           python3 common.py --target "4k-experimental.md"
+          echo "exit_code=$?" >> $GITHUB_ENV
         env:
           WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
 
+      - name: Fail Action on Script Error
+        if: env.exit_code == '1'
+        run: |
+          echo "Script failed with exit code 1. Failing the action."
+          gh run cancel ${{ github.run_id }}
+          gh run watch ${{ github.run_id }}
+          exit 1
+
       - name: Commit and Push Changes
+        if: steps.script_run.outputs.exit_code != '2'
         continue-on-error: true 
         run: |
           sleep 30s
@@ -45,5 +56,5 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add 4k-experimental.txt
           git add index.md
-          git commit -m "Update rt5x.txt and index.md with new version number"
+          git commit -m "Update 4k-experimental.txt and index.md with new version number"
           git push
