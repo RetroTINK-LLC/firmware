@@ -1,15 +1,11 @@
-name: firmware-update-notification
+name: rt4k-experimental-update-notification
 
 on:
   push:
     branches:
       - discord-autopost
     paths:
-      - '4k.md'
-      - '4k-sdcards.md'
       - '4k-experimental.md'
-      - '5x.md'
-      - '5x-experimental.md'
 
 jobs:
   notify-discord:
@@ -36,10 +32,8 @@ jobs:
 
       - name: Run Script and Push Notification
         run: |
-          FULL_PATH=${{ github.event.head_commit.modified[0] }}
-          FILENAME=$(basename $FULL_PATH)
-          python3 your_script.py --target "$FILENAME"
-          EDITED_TXT_FILE="${FILENAME%.md}.txt"
+          python3 your_script.py --target "rt4k-experimental.md"
+          EDITED_TXT_FILE="rt4k-experimental.txt"
 
       - name: Commit and Push Changes
         run: |

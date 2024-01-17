@@ -1,0 +1,44 @@
+name: rt5x-update-notification
+
+on:
+  push:
+    branches:
+      - discord-autopost
+    paths:
+      - '5x.md'
+
+jobs:
+  notify-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Use GitHub token for checkout
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Wait for pages-build-deployment Workflow to Complete
+        run: python3 check_workflow_status.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run Script and Push Notification
+        run: |
+          python3 your_script.py --target "rt5x.md"
+          EDITED_TXT_FILE="rt5x.txt"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add $EDITED_TXT_FILE
+          git commit -m "Update $EDITED_TXT_FILE"
+          git push
