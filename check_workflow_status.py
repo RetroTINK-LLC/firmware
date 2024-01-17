@@ -18,7 +18,7 @@ def check_workflow_status(repo_name, workflow_name, github_token):
 
         if not workflow:
             print(f"No workflow named '{workflow_name}' found")
-            sys.exit(1)
+            break
 
         if workflow["status"] == "completed":
             if workflow["conclusion"] == "success":
