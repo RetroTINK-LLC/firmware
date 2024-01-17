@@ -4,5 +4,5 @@
 # Define Linguist attributes for .zip and .hex files
 *.zip linguist-detectable=true
 *.hex linguist-detectable=true
-*.zip linguist-language=Binary
-*.hex linguist-language=Binary
+*.zip linguist-language=Assembly
+*.hex linguist-language=Assembly
