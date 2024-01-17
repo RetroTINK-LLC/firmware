@@ -2,6 +2,7 @@ import requests
 import time
 import os
 import sys
+import argparse
 
 def check_workflow_status(repo_name, workflow_name, github_token):
     url = f"https://api.github.com/repos/{repo_name}/actions/runs"
@@ -31,8 +32,16 @@ def check_workflow_status(repo_name, workflow_name, github_token):
         time.sleep(60)  # Poll every 60 seconds
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--workflow', type=str, help='Workflow being checked')
+    args = parser.parse_args()
+
+    if args.target is None:
+        print("No workflow given!")
+        sys.exit()
+
     repo_name = "retrotink-llc/firmware"
-    workflow_name = "pages-build-deployment"
+    workflow_name = "args.workflow"
     github_token = os.getenv("GITHUB_TOKEN")
 
     check_workflow_status(repo_name, workflow_name, github_token)
