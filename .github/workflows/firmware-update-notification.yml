@@ -1,4 +1,4 @@
-name: Firmware Update Notification
+name: firmware-update-notification
 
 on:
   push:
