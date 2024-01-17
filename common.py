@@ -112,7 +112,7 @@ def check_version(version, args):
         return
 
     if open_read(os.path.splitext(args.target)[0] + ".txt")[0] == version + "\n":
-        sys.exit()
+        sys.exit(1)
     else:
         versionfile = open(os.path.splitext(args.target)[0] + ".txt", "w")
         versionfile.write(version + "\n")

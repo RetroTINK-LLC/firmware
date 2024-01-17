@@ -52,19 +52,6 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
-## Version 69.420 - Special Self-Destruct Sequence! (2024-20-69)
-### [Download](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-CRC-32: `DEADBEEF`  
-SHA-256: `d15ea5eddeadbeefdeadc0dedeaddeadd15ea5eddeadbeefdeadc0dedeaddead`
-
-### Changelog:
-- Sent the clowns to space
-- Dropped the RT4K source code into Mount Doom
-- Gave the RT5X source code to Bitfunx
-- Rigged the base to explode
-
-<br/>
-
 ## Version 3.699 (2023-09-09)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X_SDRAM_V3699.zip)
 CRC-32: `9EC64D62`  
