@@ -39,7 +39,7 @@ jobs:
       - name: Commit and Push Changes
         continue-on-error: true 
         run: |
-          sleep 20s
+          sleep 30s
           git pull
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -47,4 +47,3 @@ jobs:
           git add index.md
           git commit -m "Update rt5x.txt and index.md with new version number"
           git push
-          

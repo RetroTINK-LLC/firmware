@@ -39,7 +39,7 @@ jobs:
       - name: Commit and Push Changes
         continue-on-error: true 
         run: |
-          sleep 30s
+          sleep 45s
           git pull
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
