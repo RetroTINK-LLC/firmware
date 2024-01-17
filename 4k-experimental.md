@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 69.420 - Special Self-Destruct Sequence! (2024-20-69)
+### [Download](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+CRC-32: `DEADBEEF`  
+SHA-256: `d15ea5eddeadbeefdeadc0dedeaddeadd15ea5eddeadbeefdeadc0dedeaddead`
+
+### Changelog:
+- Sent the clowns to space
+- Dropped the RT4K source code into Mount Doom
+- Gave the RT5X source code to Bitfunx
+- Rigged the base to explode
+
+<br/>
+
 ## Version 1.1.3 (2024-01-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_113.zip)
