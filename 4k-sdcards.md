@@ -3,7 +3,7 @@ layout: default
 title: RetroTINK-4K SD Card Images
 ---
 
-<h1 align="center" style="margin-top: 0px;">RetroTINK-4K SD Card Images</h1> 
+<h1 align="center" style="margin-top: 0px;">RetroTINK-4K SD Card Images</h1>
 
 <p style="margin:30px;"></p>
 
