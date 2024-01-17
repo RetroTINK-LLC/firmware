@@ -44,3 +44,5 @@ jobs:
           git add 4k.txt
           git commit -m "Update rt5x.txt with new version number"
           git push
+      - if: failure()
+        run: # exit_with_success

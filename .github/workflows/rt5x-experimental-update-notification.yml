@@ -45,3 +45,5 @@ jobs:
           git add 5x-experimental.txt
           git commit -m "Update rt5x.txt with new version number"
           git push
+      - if: failure()
+        run: # exit_with_success
