@@ -221,7 +221,7 @@ link: {}
     embed_description = """
 ### **[Version {} ({})]({})**
 {}
-""".format(friendlyname, upload_date, "https://retrotink-llc.github.io/" + os.path.splitext(args.target)[0] + ".html", changelog)
+""".format(friendlyname, upload_date, "https://retrotink-llc.github.io/firmware/" + os.path.splitext(args.target)[0] + ".html", changelog)
 
     embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
 
