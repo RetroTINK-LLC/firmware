@@ -44,10 +44,10 @@ CRC-32: `E9E3769B`
 SHA-256: `5d874dd82f6942e2a1bdc71359fc6cb8075909f9cc2426a96906551354f9a3b4`
 
 ### Changelog:
--Complete re-write of the auto-sample rate detection algorithm
--Cleaned up Saturn auto-sampling mode
--Tuned auto-phase to reject data unless there is sufficent detail in the scene
--Fixed bugs in HDMI TX control
+- Complete re-write of the auto-sample rate detection algorithm
+- Cleaned up Saturn auto-sampling mode
+- Tuned auto-phase to reject data unless there is sufficent detail in the scene
+- Fixed bugs in HDMI TX control
 
 ## Version 1.1.3 (2024-01-15)
 
