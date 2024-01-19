@@ -19,7 +19,7 @@ title: RetroTINK-4K SD Card Images
 
 <p style="margin:41px;"></p> 
 
-## Version 69.420.69420.42069.8008135.6 (TEST, NOT AN UPDATE) (2071-06-22) 
+## Version 69.420.69420.42069.8008135.7 (TEST, NOT AN UPDATE) (2072-07-23) 
  
 ### [Download](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 CRC-32: `DEADBEEF`   
