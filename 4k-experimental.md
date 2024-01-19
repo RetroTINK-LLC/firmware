@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 69.420 (TEST, NOT A REAL UPDATE) (2069-04-20)
+
+### [Download](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+CRC-32: `DEADBEEF`  
+SHA-256: `d15ea5eddeadbeefdeadc0dedeaddeadd15ea5eddeadbeefdeadc0dedeaddead`
+
+### Changelog:
+- Sent the clowns to space
+- Dropped the RT4K source code into Mount Doom
+- Gave the RT5X source code to Bitfunx
+- Rigged the base to explode
+
+<br/>
+
 ## Version 1.1.5 (2024-01-19)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_115.zip)
@@ -44,10 +58,11 @@ CRC-32: `8AFB382E`
 SHA-256: `3511e8a141504afea7ee843048cd6b2918bb243a5b33fce3c0cb62b165685203`
 
 ### Changelog:
-1.1.5
 - Complete re-write of the auto-decimation phase algorithm (for auto sampling)
 - Fixed issues with auto-phase detection in Saturn hi-res
 - Overall improved stability of the auto-phase
+
+<br/>
 
 ## Version 1.1.4 (2024-01-17)
 
@@ -60,6 +75,8 @@ SHA-256: `5d874dd82f6942e2a1bdc71359fc6cb8075909f9cc2426a96906551354f9a3b4`
 - Cleaned up Saturn auto-sampling mode
 - Tuned auto-phase to reject data unless there is sufficent detail in the scene
 - Fixed bugs in HDMI TX control
+
+<br/>
 
 ## Version 1.1.3 (2024-01-15)
 
