@@ -214,31 +214,28 @@ sha256: {}
 changelog:
 {}
 
-link: {}
-""".format(device_type, update_type, version, friendlyname, upload_date, upload_url, crc32, sha256, changelog, "https://retrotink-llc.github.io/" + os.path.splitext(args.target)[0] + ".html")
+link: {}""".format(device_type, update_type, version, friendlyname, upload_date, upload_url, crc32, sha256, changelog, "https://retrotink-llc.github.io/" + os.path.splitext(args.target)[0] + ".html")
 
-    embed_title = "A new {} {} is available!".format(device_type, update_type)
-    embed_description = """
-### **[Version {} ({})]({})**
-{}
-""".format(friendlyname, upload_date, "https://retrotink-llc.github.io/firmware/" + os.path.splitext(args.target)[0] + ".html", changelog)
-
-    embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
-
-    webhook_url = os.environ['WEBHOOK']
-
-    if is_4K:
-        embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt4k.webp")
-    else:
-        embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt5x.webp")
-
-    webhook = DiscordWebhook(url = webhook_url, username = "Tinky", avatar_url = "https://retrotink-llc.github.io/firmware/assets/tinky_webhook.png")
-
-    webhook.add_embed(embed)
-    
-    webhook.execute()
-    
     print(debug)
+
+    if version > old_version:
+        embed_title = "A new {} {} is available!".format(device_type, update_type)
+        embed_description = "### **[Version {} ({})]({})**\n{}".format(friendlyname, upload_date, "https://retrotink-llc.github.io/firmware/" + os.path.splitext(args.target)[0] + ".html", changelog)
+
+        embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
+
+        webhook_url = os.environ['WEBHOOK']
+
+        if is_4K:
+            embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt4k.webp")
+        else:
+            embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt5x.webp")
+
+        webhook = DiscordWebhook(url = webhook_url, username = "Tinky", avatar_url = "https://retrotink-llc.github.io/firmware/assets/tinky_webhook.png")
+
+        webhook.add_embed(embed)
+
+        webhook.execute()
 
 if __name__ == "__main__":
     main()
