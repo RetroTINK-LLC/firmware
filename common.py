@@ -100,6 +100,9 @@ def extract_changelog(lines):
         sys.exit()
 
     changelog_list_2[0] = changelog_list_2[0].rstrip()
+
+    if changelog_list_2[0] == "\n":
+        changelog_list_2 = changelog_list_2[1:]
     
     return changelog_list_2[::-1]
 
@@ -224,11 +227,11 @@ link: {}""".format(device_type, update_type, version, friendlyname, upload_date,
 
         embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
 
-        webhook_url = os.environ['WEBHOOK']
-
         if is_4K:
+            webhook_url = os.environ['4K_WEBHOOK']
             embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt4k.webp")
         else:
+            webhook_url = os.environ['5X_WEBHOOK']
             embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt5x.webp")
 
         webhook = DiscordWebhook(url = webhook_url, username = "Tinky", avatar_url = "https://retrotink-llc.github.io/firmware/assets/tinky_webhook.png")

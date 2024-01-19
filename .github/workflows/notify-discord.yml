@@ -50,7 +50,8 @@ jobs:
             fi
           done
         env:
-          WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
+          5X_WEBHOOK: ${{ secrets.RT5X_COMMUNITY_WEBHOOK }}
+          4K_WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
 
       - name: Commit and Push Changes
         run: |
