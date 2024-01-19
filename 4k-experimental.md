@@ -17,7 +17,7 @@ title: RetroTINK-4K Experimental Firmware
 
 ## THE FIRMWARE CONTAINED IN THIS DIRECTORY IS PRE-RELEASE. PROPER FUNCTIONALITY IS NOT GUARANTEED, AND FEATURES MAY STILL BE IN DEVELOPMENT.
 
-<p style="margin:20px;"></p>
+<p style="margin:20px;"></p> 
 
 ## Instructions️
 

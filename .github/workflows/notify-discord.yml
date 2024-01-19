@@ -38,14 +38,16 @@ jobs:
       - name: Determine Updated Files
         id: files
         run: |
-          echo "files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md')" >> $GITHUB_ENV
-
+          echo "Changed files:"
+          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md'
+      
       - name: Run Script for Each Updated File
         run: |
-          for file in ${{ env.files }}
-          do
-            echo "Processing $file"
-            python3 common.py --target "$file"
+          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md' | while read file; do
+            if [[ -n "$file" ]]; then
+              echo "Processing $file"
+              python3 common.py --target "$file"
+            fi
           done
         env:
           WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}

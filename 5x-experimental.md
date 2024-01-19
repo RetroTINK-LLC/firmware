@@ -17,7 +17,7 @@ title: RetroTINK-5X Experimental Firmware
 
 ## Notice: Firmware updates erase saved profiles and reset the device to default settings.
 
-<p style="margin:15px;"></p>
+<p style="margin:15px;"></p> 
 
 ## THE FIRMWARE CONTAINED IN THIS DIRECTORY IS PRE-RELEASE. PROPER FUNCTIONALITY IS NOT GUARANTEED, AND FEATURES MAY STILL BE IN DEVELOPMENT.
 
