@@ -18,7 +18,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}    
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0 # fetches all history for all branches and tags
 
       - name: Set up Python
@@ -40,7 +40,7 @@ jobs:
         run: |
           echo "Changed files:"
           git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md'
-      
+
       - name: Run Script for Each Updated File
         run: |
           git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md' | while read file; do

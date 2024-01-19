@@ -17,7 +17,7 @@ title: RetroTINK-4K Experimental Firmware
 
 ## THE FIRMWARE CONTAINED IN THIS DIRECTORY IS PRE-RELEASE. PROPER FUNCTIONALITY IS NOT GUARANTEED, AND FEATURES MAY STILL BE IN DEVELOPMENT.
 
-<p style="margin:20px;"></p> 
+<p style="margin:20px;"></p>
 
 ## Instructions️
 
@@ -33,7 +33,7 @@ title: RetroTINK-4K Experimental Firmware
   - If the LED blinks red, an install error has occurred. Check the files on the SD card and try again.
 7. The RT4K will reboot for about 40 seconds, with the front LED flashing pink and then blue. Once done, it will power on again as normal with a green LED. You're done!
 
-All custom profiles, CSC files, banner images, input modes, mask overlays and modelines will be kept, as those are stored on the SD card instead of on the RT4K itself. 
+All custom profiles, CSC files, banner images, input modes, mask overlays and modelines will be kept, as those are stored on the SD card instead of on the RT4K itself.
 
 <p style="margin:41px;"></p>
 
@@ -128,12 +128,12 @@ SHA-256: `2b0acf9ffef00cacca9d20ee4563302cac7a983f3612a9edfe0e899d9ec71b50`
 - "Wide Tolerance" added to Video ADC Menu
   - Replaces older Slow Lock Function
   - Helps lock on to badly behaved sources like NEOGEO and Atari 2600/7800
-  - Should be left off unless needed. May have unintended side effects for normal sources  
+  - Should be left off unless needed. May have unintended side effects for normal sources
 - Fixed cop for new LCD modes to lock out H. Interp options
 - Fixed proper half-phase offset in rotational modes since H and V kernel controls are swapped in RoTaTE
 - MiSTer DV1 controls broken out
   - Auto decimation can be turned off
-  - Auto crop can be turned off  
+  - Auto crop can be turned off
 - MiSTer DV1 core name now displayed as part of mode name
 - HDCP only activates after a few seconds of continous raw HDCP frames detected
 

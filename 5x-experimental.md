@@ -17,7 +17,7 @@ title: RetroTINK-5X Experimental Firmware
 
 ## Notice: Firmware updates erase saved profiles and reset the device to default settings.
 
-<p style="margin:15px;"></p> 
+<p style="margin:15px;"></p>
 
 ## THE FIRMWARE CONTAINED IN THIS DIRECTORY IS PRE-RELEASE. PROPER FUNCTIONALITY IS NOT GUARANTEED, AND FEATURES MAY STILL BE IN DEVELOPMENT.
 
@@ -36,7 +36,7 @@ title: RetroTINK-5X Experimental Firmware
 7. Hit 'Load HEX' and point to the .hex file you downloaded.
 8. Hit 'Flash'. The update process should start. If the window freezes, that is okay - the update should complete after a minute or two. Just be patient.
 9. Your device should reboot and be ready to use.
-10. If you accidentally interrupt the process, just start over from step 4. 
+10. If you accidentally interrupt the process, just start over from step 4.
 
 ### Multiplatform
 

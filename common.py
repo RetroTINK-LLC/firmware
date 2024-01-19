@@ -16,7 +16,7 @@ def open_read(name):
     except:
         print("No config file!")
         sys.exit()
-        
+
 def extract_latest(lines):
     found_version = False
     changelog_list = []
@@ -41,10 +41,10 @@ def extract_version(lines):
 
 def extract_friendlyversion(lines):
     return re.search(r'(?!## Version )+([0-9]+(.?[0-9]+)*)+(.*)+(?= \()', lines[0]).group()
-    
+
 def extract_date(lines):
     return re.search(r'(20\d\d-\d{2}-\d{2})', lines[0]).group()
-    
+
 def extract_url(lines):
     dl_line = "empty"
 
@@ -52,10 +52,10 @@ def extract_url(lines):
         if "### [Download]" in line:
             dl_line = line
             return re.search(r'(https?://).*(?=\))', dl_line).group()
-    
+
     print("Text parsing error - version extraction")
     sys.exit()
-    
+
 def extract_crc32(lines):
     for line in lines:
         if "CRC-32: `" in line:
@@ -98,12 +98,12 @@ def extract_changelog(lines):
     if not changelog_list_2:
         print("Text parsing error - changlog transform failure")
         sys.exit()
-    
+
     changelog_list_2[0] = changelog_list_2[0].rstrip()
     while changelog_list_2[0] == "":
         changelog_list_2 = changelog_list_2[1:]
         changelog_list_2[0] = changelog_list_2[0].rstrip()
-    
+
     return changelog_list_2[::-1]
 
 def check_version(version, args):
@@ -111,7 +111,6 @@ def check_version(version, args):
         versionfile = open(os.path.splitext(args.target)[0] + ".txt", "x")
         versionfile.write(version + "\n")
         versionfile.close()
-        
         return
 
     verstring = open_read(os.path.splitext(args.target)[0] + ".txt")[0].rstrip()
@@ -143,11 +142,11 @@ def main():
     if args.target is None:
         print("No file given!")
         sys.exit()
-        
+
     if not os.path.exists(args.target):
         print("File does not exist!")
         sys.exit()
-        
+
     if os.path.splitext(args.target)[1] != ".md":
         print("Wrong filetype!")
         sys.exit()
@@ -178,11 +177,11 @@ def main():
         sys.exit()
 
     lines = read_and_extract_latest(args.target)
-    
+
     version = ''.join(extract_version(lines))
-    
+
     old_version = check_version(version, args)
-    
+
     friendlyname = ''.join(extract_friendlyversion(lines))
     upload_date = ''.join(extract_date(lines))
     upload_url = ''.join(extract_url(lines))

@@ -17,7 +17,7 @@ title: RetroTINK-4K SD Card Images
 2. Unzip onto a [freshly formatted FAT32 SD card](http://ridgecrop.co.uk/index.htm?guiformat.htm).
 3. If needed, download and copy the latest firmware from the [Release Firmware section](4k.md), and perform a firmware update on your RT4K as instructed.
 
-<p style="margin:41px;"></p> 
+<p style="margin:41px;"></p>
 
 ## Version 1.1.0 (2024-01-15)
 
