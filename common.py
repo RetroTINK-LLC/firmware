@@ -104,9 +104,6 @@ def extract_changelog(lines):
         changelog_list_2 = changelog_list_2[1:]
         changelog_list_2[0] = changelog_list_2[0].rstrip()
     
-    for string in changelog_list_2:
-        print("\"" + repr(string) + "\"")
-    
     return changelog_list_2[::-1]
 
 def check_version(version, args):
