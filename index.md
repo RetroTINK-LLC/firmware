@@ -21,5 +21,3 @@ layout: default
 <p style="margin:20px;"></p>
 
 <div style="margin: 0 0 -20px 0"><p><strong>NOTE:</strong> 2X-Classic firmware is not provided on the basis that updating it requires the use of a PIC programmer, rather than updating via USB or SD card, as well as concerns with 2X-Classic clone devices.</p></div>
-
-<p hidden>This APT has Super Cow Powers</p>
