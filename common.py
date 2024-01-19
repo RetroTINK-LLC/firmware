@@ -100,9 +100,9 @@ def extract_changelog(lines):
         sys.exit()
 
     changelog_list_2[0] = changelog_list_2[0].rstrip()
-
-    if changelog_list_2[0] == "\n":
-        changelog_list_2 = changelog_list_2[1:]
+    
+    for string in changelog_list_2:
+        print("\"" + string.repr() + "\"")
     
     return changelog_list_2[::-1]
 

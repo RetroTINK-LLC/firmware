@@ -57,12 +57,11 @@ jobs:
         run: |
           git diff --quiet || CHANGED=$?
           if [ "$CHANGED" == "1" ]; then
-            sleep 15s
             git pull
             git config --local user.name "github-actions[bot]"
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add .
-            git commit -m "Update firmware documentation"
+            git commit -m "Update index and version tracking files"
             git push
           else
             echo "No changes to commit."
