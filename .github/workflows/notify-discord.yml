@@ -1,11 +1,15 @@
-name: rt4k-experimental-update-notification
+name: notify-discord
 
 on:
   push:
     branches:
       - main
     paths:
+      - '4k.md'
       - '4k-experimental.md'
+      - '4k-sdcards.md'
+      - '5x.md'
+      - '5x-experimental.md'
 
 jobs:
   notify-discord:
@@ -14,7 +18,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Use GitHub token for checkout
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -30,9 +34,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Run Script and Push Notification
+      - name: Determine Updated Files
+        id: files
         run: |
-          python3 common.py --target "4k-experimental.md"
+          echo "files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md')" >> $GITHUB_ENV
+
+      - name: Run Script for Each Updated File
+        run: |
+          for file in ${{ env.files }}
+          do
+            echo "Processing $file"
+            python3 common.py --target "$file"
+          done
         env:
           WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
 
@@ -44,9 +57,8 @@ jobs:
             git pull
             git config --local user.name "github-actions[bot]"
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add 4k-experimental.txt
-            git add index.md
-            git commit -m "Update 4k-experimental.txt and index.md with new version number"
+            git add .
+            git commit -m "Update firmware documentation"
             git push
           else
             echo "No changes to commit."
