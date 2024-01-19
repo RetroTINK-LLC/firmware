@@ -98,8 +98,6 @@ def extract_changelog(lines):
     if not changelog_list_2:
         print("Text parsing error - changlog transform failure")
         sys.exit()
-
-    changelog_list_2[0] = changelog_list_2[0].rstrip()
     
     for string in changelog_list_2:
         print("\"" + repr(string) + "\"")
