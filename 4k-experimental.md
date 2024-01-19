@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 69.420.69420.42069.8008135 (TEST, NOT AN UPDATE) (2069-04-20)
+
+### [Download](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+CRC-32: `DEADBEEF`  
+SHA-256: `d15ea5eddeadbeefdeadc0dedeaddeadd15ea5eddeadbeefdeadc0dedeaddead`
+
+### Changelog:
+- Sent the clowns to space
+- Dropped the RT4K source code into Mount Doom
+- Gave the RT5X source code to Bitfunx
+- Rigged the base to explode
+
+<br/>
+
 ## Version 1.1.5 (2024-01-19)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_115.zip)
