@@ -100,7 +100,7 @@ def extract_changelog(lines):
         sys.exit()
     
     changelog_list_2[0] = changelog_list_2[0].rstrip()
-    if changelog_list_2[0] = "":
+    if changelog_list_2[0] == "":
         changelog_list_2 = changelog_list_2[1:]
     
     for string in changelog_list_2:
