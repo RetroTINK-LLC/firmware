@@ -7,8 +7,8 @@ layout: default
 
 | Device | Release | Experimental | SD card images |
 |-------|--------|---------|---------|
-| RetroTINK-4K | [Latest: 69.420.69420.42069.8008135.6 (TEST, NOT AN UPDATE)<br/>(2071-06-22)](4k.md) | [Latest: 69.420.69420.42069.8008135.6 (TEST, NOT AN UPDATE)<br/>(2071-06-22)](4k-experimental.md) | [Latest: 69.420.69420.42069.8008135.6 (TEST, NOT AN UPDATE)<br/>(2071-06-22)](4k-sdcards.md) |
-| RetroTINK-5X Pro | [Latest: 69.420.69420.42069.8008135.6 (TEST, NOT AN UPDATE)<br/>(2071-06-22)](5x.md) | [Latest: 69.420.69420.42069.8008135.6 (TEST, NOT AN UPDATE)<br/>(2071-06-22)](5x-experimental.md) | N/A |
+| RetroTINK-4K | [Latest: 69.420.69420.42069.8008135.7 (TEST, NOT AN UPDATE)<br/>(2072-07-23)](4k.md) | [Latest: 69.420.69420.42069.8008135.7 (TEST, NOT AN UPDATE)<br/>(2072-07-23)](4k-experimental.md) | [Latest: 69.420.69420.42069.8008135.7 (TEST, NOT AN UPDATE)<br/>(2072-07-23)](4k-sdcards.md) |
+| RetroTINK-5X Pro | [Latest: 69.420.69420.42069.8008135.7 (TEST, NOT AN UPDATE)<br/>(2072-07-23)](5x.md) | [Latest: 69.420.69420.42069.8008135.7 (TEST, NOT AN UPDATE)<br/>(2072-07-23)](5x-experimental.md) | N/A |
 
 <p style="margin:20px;"></p>
 
