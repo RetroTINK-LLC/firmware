@@ -44,7 +44,7 @@ CRC-32: `7E14704E`
 SHA-256: `57b10fd1c8e6c34785db8460b6614ddf9ca12bb3e0b9d405ec50ffbc8b50c9f8`
 
 ### Changelog:
-- [NEW FEAUTRE] Pseudo Interlaced Scanlines to the Image Processing menu
+- [NEW FEATURE] Pseudo Interlaced Scanlines to the Image Processing menu
 - Presents progressive sources with interlacing (i.e. 720p -> 1440i or 720p -> 720i)
 - Saturn detection thresholds tuned
 - Fixed vertical pre-scale control cop for CRT simulation deinterlacing mode
