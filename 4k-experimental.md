@@ -42,12 +42,16 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_116.zip)
 CRC-32: `7E14704E`  
 SHA-256: `57b10fd1c8e6c34785db8460b6614ddf9ca12bb3e0b9d405ec50ffbc8b50c9f8`
+
+### Changelog:
 - [NEW FEAUTRE] Pseudo Interlaced Scanlines to the Image Processing menu
 - Presents progressive sources with interlacing (i.e. 720p -> 1440i or 720p -> 720i)
 - Saturn detection thresholds tuned
 - Fixed vertical pre-scale control cop for CRT simulation deinterlacing mode
 - Fixed SPD infoframe bug when VRR is off
 - Possible cleanup of the HDR infoframe
+
+<br/>
 
 ## Version 1.1.5 (2024-01-19)
 

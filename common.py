@@ -54,7 +54,7 @@ def extract_url(lines):
             dl_line = line
             return re.search(r'(https?://).*(?=\))', dl_line).group()
 
-    print("Text parsing error - version extraction")
+    print("Text parsing error - URL extraction")
     sys.exit()
 
 def extract_crc32(lines):
@@ -62,7 +62,7 @@ def extract_crc32(lines):
         if "CRC-32: `" in line:
             return line[9:17]
 
-    print("Text parsing error - version extraction")
+    print("Text parsing error - crc32 extraction")
     sys.exit()
 
 def extract_sha256(lines):
@@ -70,7 +70,7 @@ def extract_sha256(lines):
         if "SHA-256: `" in line:
             return line[10:74]
 
-    print("Text parsing error - version extraction")
+    print("Text parsing error - sha256 extraction")
     sys.exit()
 
 def extract_changelog(lines):
@@ -86,7 +86,7 @@ def extract_changelog(lines):
             changelog_list.append(line)
 
     if not changelog_list:
-        print("Text parsing error - version extraction")
+        print("Text parsing error - changelog extraction")
         sys.exit()
 
     for line in changelog_list[::-1]:
