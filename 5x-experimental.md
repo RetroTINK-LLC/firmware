@@ -52,6 +52,18 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 3.699.1 (NOT AN UPDATE, JUST A TEST) (2024-01-19)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X_SDRAM_V3699.zip)
+CRC-32: `9EC64D62`  
+SHA-256: `5cd7cae666c649d9319c42ed43b08932dc71e77df8285a57a621b17daf8ac06f`
+
+### Changelog:
+- Lock to '50 Hz' added
+- Improved IVTC 2:2
+- Eliminated glitch in image on some units (?)
+
+<br/>
+
 ## Version 3.699 (2023-09-09)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X_SDRAM_V3699.zip)
 CRC-32: `9EC64D62`  

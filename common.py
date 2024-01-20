@@ -5,6 +5,7 @@ import sys
 
 from random import randint
 
+from packaging import version
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
 def open_read(name):
@@ -220,7 +221,7 @@ link: {}""".format(device_type, update_type, version, friendlyname, upload_date,
 
     print(debug)
 
-    if version > old_version:
+    if version.parse(version) > version.parse(old_version):
         embed_title = "A new {} {} is available!".format(device_type, update_type)
         embed_description = "### **[Version {} ({})]({})**\n{}".format(friendlyname, upload_date, "https://retrotink-llc.github.io/firmware/" + os.path.splitext(args.target)[0] + ".html", changelog)
 

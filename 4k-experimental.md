@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.1.5.1 (NOT AN UPDATE, JUST A TEST) (2024-01-19)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_115.zip)
+CRC-32: `8AFB382E`  
+SHA-256: `3511e8a141504afea7ee843048cd6b2918bb243a5b33fce3c0cb62b165685203`
+
+### Changelog:
+- Complete re-write of the auto-decimation phase algorithm (for auto sampling)
+- Fixed issues with auto-phase detection in Saturn hi-res
+- Overall improved stability of the auto-phase
+
+<br/>
+
 ## Version 1.1.5 (2024-01-19)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_115.zip)
