@@ -179,9 +179,9 @@ def main():
 
     lines = read_and_extract_latest(args.target)
 
-    version = ''.join(extract_version(lines))
+    new_version = ''.join(extract_version(lines))
 
-    old_version = check_version(version, args)
+    old_version = check_version(new_version, args)
 
     friendlyname = ''.join(extract_friendlyversion(lines))
     upload_date = ''.join(extract_date(lines))
@@ -217,11 +217,11 @@ sha256: {}
 changelog:
 {}
 
-link: {}""".format(device_type, update_type, version, friendlyname, upload_date, upload_url, crc32, sha256, changelog, "https://retrotink-llc.github.io/" + os.path.splitext(args.target)[0] + ".html")
+link: {}""".format(device_type, update_type, new_version, friendlyname, upload_date, upload_url, crc32, sha256, changelog, "https://retrotink-llc.github.io/" + os.path.splitext(args.target)[0] + ".html")
 
     print(debug)
 
-    if version.parse(version) > version.parse(old_version):
+    if version.parse(new_version) > version.parse(old_version):
         embed_title = "A new {} {} is available!".format(device_type, update_type)
         embed_description = "### **[Version {} ({})]({})**\n{}".format(friendlyname, upload_date, "https://retrotink-llc.github.io/firmware/" + os.path.splitext(args.target)[0] + ".html", changelog)
 
