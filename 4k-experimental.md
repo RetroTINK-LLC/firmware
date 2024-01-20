@@ -35,7 +35,7 @@ title: RetroTINK-4K Experimental Firmware
 
 All custom profiles, CSC files, banner images, input modes, mask overlays and modelines will be kept, as those are stored on the SD card instead of on the RT4K itself.
 
-<p style="margin:41px;"></p> 
+<p style="margin:41px;"></p>
 
 ## Version 1.1.5 (2024-01-19)
 
