@@ -11,6 +11,10 @@ title: RetroTINK-2X MINI Firmware
 
 <p style="margin:10px;"></p>
 
+## All MINI's are pre-flashed with the v1.1 firmware. This means that you do not need to update it unless you specifically need the pass-thru functionality.
+
+## If you do NOT need 240p/480i pass-thru, please do NOT attempt to flash your device. Unless you're attempting to use the MINI as a transcoder for another video processor, you do NOT need to update.
+
 ### DO NOT EVER ATTEMPT TO FLASH THE HEX FILES DIRECTLY TO THE PCB VIA THE PIC ICSP PINS. THESE FILES ARE ONLY FOR THE 2X-MINI. NEVER USE THESE FILES ON A PRO/SCART/PRO MULTIFORMAT AND VICE VERSA. YOU MUST USE THE RETROTINK SOFTWARE. THE FIRMWARE CONTAINS AN ANTI-PIRACY MEASURE THAT CAN PERMANENTLY DESTROY THE DEVICE. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT CAN OCCUR IN THIS CASE.
 
 <p style="margin:20px;"></p>
