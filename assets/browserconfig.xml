@@ -2,7 +2,10 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="http://retrotink-llc.github.io/firmware/assets/mstile-150x150.png"/>
+            <square70x70logo src="/firmware/assets/mstile-70x70.png"/>
+            <square150x150logo src="/firmware/assets/mstile-150x150.png"/>
+            <square310x310logo src="/firmware/assets/mstile-310x310.png"/>
+            <wide310x150logo src="/firmware/assets/mstile-310x150.png"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
