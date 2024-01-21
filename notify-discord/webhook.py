@@ -231,7 +231,11 @@ link: {}""".format(device_type, update_type, new_version, friendlyname, upload_d
         community_embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
 
         if is_4K:
-            community_webhook = os.environ['RT4K_WEBHOOK']
+            if update_type == "SD card image":
+                community_webhook = os.environ['SDCARD_WEBHOOK']
+            else:
+                community_webhook = os.environ['RT4K_WEBHOOK']
+
             tester_embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt4k.webp")
             community_embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt4k.webp")
         else:

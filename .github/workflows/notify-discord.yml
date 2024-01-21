@@ -52,6 +52,7 @@ jobs:
         env:
           RT5X_WEBHOOK: ${{ secrets.RT5X_COMMUNITY_WEBHOOK }}
           RT4K_WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
+          SDCARD_WEBHOOK: ${{ secrets.SDCARD_COMMUNITY_WEBHOOK }}
           TESTER_WEBHOOK: ${{ secrets.TINK_TESTERS_WEBHOOK }}
 
       - name: Commit and Push Changes
