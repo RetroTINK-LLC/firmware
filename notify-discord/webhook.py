@@ -246,14 +246,22 @@ link: {}""".format(device_type, update_type, new_version, friendlyname, upload_d
         webhook_community.add_embed(embed)
 
         if version.parse(new_version) == version.parse(old_version):
-            webhook_tester.id = tester_lastid
-            webhook_community.id = community_lastid
-            webhook_tester.edit()
-            webhook_community.edit()
+            if(tester_lastid != "0000000000000000000":
+                webhook_tester.id = tester_lastid
+                webhook_tester.edit()
+            else:
+                tester_result = webhook_tester.execute()
+
+            if(community_lastid != "0000000000000000000":
+                webhook_community.id = community_lastid
+                webhook_community.edit()
+            else:
+                community_result = webhook_community.execute()
         else:
             tester_result = webhook_tester.execute()
             community_result = webhook_community.execute()
-            update_verfile(new_version, webhook_tester.id, webhook_community.id, args)
+        
+        update_verfile(new_version, webhook_tester.id, webhook_community.id, args)
 
 if __name__ == "__main__":
     main()
