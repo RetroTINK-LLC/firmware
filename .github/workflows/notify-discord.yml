@@ -31,7 +31,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Wait for pages-build-deployment Workflow to Complete
-        run: python3 check_workflow_status.py --workflow "pages build and deployment with artifacts-next"
+        run: python3 notify-discord/check_workflow_status.py --workflow "pages build and deployment with artifacts-next"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -46,12 +46,13 @@ jobs:
           git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md' | while read file; do
             if [[ -n "$file" ]]; then
               echo "Processing $file"
-              python3 common.py --target "$file"
+              python3 notify-discord/webhook.py --target "$file"
             fi
           done
         env:
-          5X_WEBHOOK: ${{ secrets.RT5X_COMMUNITY_WEBHOOK }}
-          4K_WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
+          RT5X_WEBHOOK: ${{ secrets.RT5X_COMMUNITY_WEBHOOK }}
+          RT4K_WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
+          TESTER_WEBHOOK: ${{ secrets.TINK_TESTERS_WEBHOOK }}
 
       - name: Commit and Push Changes
         run: |

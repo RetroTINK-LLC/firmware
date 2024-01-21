@@ -108,18 +108,17 @@ def extract_changelog(lines):
     return changelog_list_2[::-1]
 
 def check_version(version, args):
-    if not os.path.exists(os.path.splitext(args.target)[0] + ".txt"):
-        versionfile = open(os.path.splitext(args.target)[0] + ".txt", "x")
+    if not os.path.exists("notify-discord/" + os.path.splitext(args.target)[0] + ".txt"):
+        versionfile = open("notify-discord/" + os.path.splitext(args.target)[0] + ".txt", "x")
         versionfile.write(version + "\n")
         versionfile.close()
-        return
 
-    verstring = open_read(os.path.splitext(args.target)[0] + ".txt")[0].rstrip()
+    verstring = open_read("notify-discord/" + os.path.splitext(args.target)[0] + ".txt")[0].rstrip()
 
     if verstring == version:
         sys.exit()
     else:
-        versionfile = open(os.path.splitext(args.target)[0] + ".txt", "w")
+        versionfile = open("notify-discord/" + os.path.splitext(args.target)[0] + ".txt", "w")
         versionfile.write(version + "\n")
         versionfile.close()
         return verstring
@@ -228,17 +227,21 @@ link: {}""".format(device_type, update_type, new_version, friendlyname, upload_d
         embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
 
         if is_4K:
-            webhook_url = os.environ['4K_WEBHOOK']
-            embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt4k.webp")
+            community_webhook = os.environ['RT4K_WEBHOOK']
+            embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt4k.webp")
         else:
-            webhook_url = os.environ['5X_WEBHOOK']
-            embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/rt5x.webp")
+            community_webhook = os.environ['RT5X_WEBHOOK']
+            embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt5x.webp")
 
-        webhook = DiscordWebhook(url = webhook_url, username = "Tinky", avatar_url = "https://retrotink-llc.github.io/firmware/assets/tinky_webhook.png")
+        tester_webhook = os.environ['TESTER_WEBHOOK']
 
-        webhook.add_embed(embed)
+        webhook_community, webhook_tester = DiscordWebhook.create_batch(urls = [community_webhook, tester_webhook], username = "Tinky", avatar_url = "https://retrotink-llc.github.io/firmware/assets/webhooks/tinky_webhook.png")
 
-        webhook.execute()
+        webhook_tester.add_embed(embed)
+        webhook_community.add_embed(embed)
+
+        webhook_tester.execute()
+        webhook_community.execute()
 
 if __name__ == "__main__":
     main()
