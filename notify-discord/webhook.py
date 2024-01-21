@@ -229,21 +229,24 @@ link: {}""".format(device_type, update_type, new_version, friendlyname, upload_d
         embed_title = "A new {} {} is available!".format(device_type, update_type)
         embed_description = "### **[Version {} ({})]({})**\n{}".format(friendlyname, upload_date, "https://retrotink-llc.github.io/firmware/" + os.path.splitext(args.target)[0] + ".html", changelog)
 
-        embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
+        tester_embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
+        community_embed = DiscordEmbed(title = embed_title, description = embed_description, color = generate_color())
 
         if is_4K:
             community_webhook = os.environ['RT4K_WEBHOOK']
-            embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt4k.webp")
+            tester_embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt4k.webp")
+            community_embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt4k.webp")
         else:
             community_webhook = os.environ['RT5X_WEBHOOK']
-            embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt5x.webp")
+            tester_embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt5x.webp")
+            community_embed.set_thumbnail(url="https://retrotink-llc.github.io/firmware/assets/webhooks/rt5x.webp")
 
         tester_webhook = os.environ['TESTER_WEBHOOK']
 
         webhook_community, webhook_tester = DiscordWebhook.create_batch(urls = [community_webhook, tester_webhook], username = "Tinky", avatar_url = "https://retrotink-llc.github.io/firmware/assets/webhooks/tinky_webhook.png")
 
-        webhook_tester.add_embed(embed)
-        webhook_community.add_embed(embed)
+        webhook_tester.add_embed(tester_embed)
+        webhook_community.add_embed(community_embed)
 
         if version.parse(new_version) == version.parse(old_version):
             if tester_lastid != "0000000000000000000":
