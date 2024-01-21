@@ -8,6 +8,8 @@ from random import randint
 from packaging import version
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
+import pprint
+
 def open_read(name):
     try:
         with open (name, "r") as tinkfile:
@@ -107,21 +109,20 @@ def extract_changelog(lines):
 
     return changelog_list_2[::-1]
 
-def check_version(version, args):
+def check_version(curr_version, args):
     if not os.path.exists("notify-discord/" + os.path.splitext(args.target)[0] + ".txt"):
         versionfile = open("notify-discord/" + os.path.splitext(args.target)[0] + ".txt", "x")
-        versionfile.write(version + "\n")
+        versionfile.write(curr_version + "\n" + "0000000000000000000\n0000000000000000000\n")
         versionfile.close()
 
-    verstring = open_read("notify-discord/" + os.path.splitext(args.target)[0] + ".txt")[0].rstrip()
+    verfile = open_read("notify-discord/" + os.path.splitext(args.target)[0] + ".txt")
 
-    if verstring == version:
-        sys.exit()
-    else:
-        versionfile = open("notify-discord/" + os.path.splitext(args.target)[0] + ".txt", "w")
-        versionfile.write(version + "\n")
-        versionfile.close()
-        return verstring
+    return verfile
+
+def update_verfile(curr_version, tester_id, comm_id, args):
+    versionfile = open("notify-discord/" + os.path.splitext(args.target)[0] + ".txt", "w")
+    versionfile.write(curr_version + "\n" + tester_id + "\n" + comm_id + "\n")
+    versionfile.close()
 
 def generate_color():
     r = randint(0, 255)
@@ -180,7 +181,11 @@ def main():
 
     new_version = ''.join(extract_version(lines))
 
-    old_version = check_version(new_version, args)
+    verfile = check_version(new_version, args)
+
+    old_version = verfile[0].rstrip()
+    tester_lastid = verfile[1].rstrip()
+    community_lastid = verfile[2].rstrip()
 
     friendlyname = ''.join(extract_friendlyversion(lines))
     upload_date = ''.join(extract_date(lines))
@@ -220,7 +225,7 @@ link: {}""".format(device_type, update_type, new_version, friendlyname, upload_d
 
     print(debug)
 
-    if version.parse(new_version) > version.parse(old_version):
+    if version.parse(new_version) >= version.parse(old_version):
         embed_title = "A new {} {} is available!".format(device_type, update_type)
         embed_description = "### **[Version {} ({})]({})**\n{}".format(friendlyname, upload_date, "https://retrotink-llc.github.io/firmware/" + os.path.splitext(args.target)[0] + ".html", changelog)
 
@@ -240,8 +245,15 @@ link: {}""".format(device_type, update_type, new_version, friendlyname, upload_d
         webhook_tester.add_embed(embed)
         webhook_community.add_embed(embed)
 
-        webhook_tester.execute()
-        webhook_community.execute()
+        if version.parse(new_version) == version.parse(old_version):
+            webhook_tester.id = tester_lastid
+            webhook_community.id = community_lastid
+            webhook_tester.edit()
+            webhook_community.edit()
+        else:
+            tester_result = webhook_tester.execute()
+            community_result = webhook_community.execute()
+            update_verfile(new_version, webhook_tester.id, webhook_community.id, args)
 
 if __name__ == "__main__":
     main()
