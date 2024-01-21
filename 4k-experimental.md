@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.1.7 (2024-01-20)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_117.zip)
+CRC-32: `1EAEAF51`  
+SHA-256: `6220de053a6c72e203b9ddc79e1ab8fc6a8cc175974fdf9f4f79a96dd8da2141`
+
+### Changelog:
+- Fixed pseudo-interlace menu display bug
+- Added Limited Range option to the HDMI Output Menu
+- Added Dithering option to color correction menu
+- Fixed Saturn cop for 455 and 910
+
+<br/>
+
 ## Version 1.1.6 (2024-01-20)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_116.zip)
