@@ -133,8 +133,6 @@ def generate_color():
 
     return int(hex_color, 16)
 
-    return int(f'{r:02x}{g:02x}{b:02x}', 16)
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--target', type=str, help='File to parse')
