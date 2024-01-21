@@ -234,4 +234,4 @@ SHA-256: `e9a297cc1a811949b86ff1a7a57a6b8bbbd6a94980779921c899f600fe478380`
 ### Changelog:
 - Fixed SD card read freeze bug due to unexpected read latency/timeouts
 - blizzz's name fixed
-- Option to disable min. BFI rate cop`
+- Option to disable min. BFI rate cop

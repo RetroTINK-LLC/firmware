@@ -246,13 +246,13 @@ link: {}""".format(device_type, update_type, new_version, friendlyname, upload_d
         webhook_community.add_embed(embed)
 
         if version.parse(new_version) == version.parse(old_version):
-            if(tester_lastid != "0000000000000000000":
+            if tester_lastid != "0000000000000000000":
                 webhook_tester.id = tester_lastid
                 webhook_tester.edit()
             else:
                 tester_result = webhook_tester.execute()
 
-            if(community_lastid != "0000000000000000000":
+            if community_lastid != "0000000000000000000":
                 webhook_community.id = community_lastid
                 webhook_community.edit()
             else:
