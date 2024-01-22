@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.1.8 (2024-01-21)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_118.zip)
+CRC-32: `2FCC1715`  
+SHA-256: `3c0865755d6979234f258c33cdfe3914b5d1084c35154d4df0c9488cc493f383`
+
+### Changelog:
+- Analogue consoles, when used in DAC mode are automatically decimated
+- Replaces older method which only guessed at the decimation factor
+- Name of the Analogue console is now displayed in the A/DAC menu
+
+<br/>
+
 ## Version 1.1.7 (2024-01-20)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_117.zip)
