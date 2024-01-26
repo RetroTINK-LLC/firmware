@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.1.9 (2024-01-26)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_119.zip)
+CRC-32: `6C7AABCC`  
+SHA-256: `e7960afbe0c9f9e099bbc3f1716ae1f2c27d0afdfe6087b5a05eec91fb576df2`
+
+### Changelog:
+- Fixed A/DAC detection bug
+- Fixed GenLock introduced in 1.1.8
+- Added additional reset logic to the HDMI TX control
+- CSC block buffers input signals to improve timing
+- Inverse 2:2 re-written to avoid memory collisions, should improve detection
+- Added cop to disable inverse 2:2 telecine for progressive modes
+
+<br/>
+
 ## Version 1.1.8 (2024-01-21)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@05b0e1a/RetroTINK-4K/Experimental/rt4k_118.zip)
