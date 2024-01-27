@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.0 (2024-01-26)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_120.zip)
+CRC-32: `A61D5BD2`  
+SHA-256: `b0665343c644453b0e4927f54b6da25de24f85a2f23e1b61b4248c9936124659`
+
+### Changelog:
+- Further complete overhaul of the inverse 2:2 telecine deinterlacer
+- Lowered minimum frequency range for Gen Lock / Frame Lock
+
+<br/>
+
 ## Version 1.1.9 (2024-01-26)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_119.zip)
