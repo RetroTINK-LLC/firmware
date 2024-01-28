@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.1 (2024-01-28)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_121.zip)
+CRC-32: `2A552631`  
+SHA-256: `63ab8f92aee6689733711a7547bbeb1cbde1e6a5e256174cb814851960220cba`
+
+### Changelog:
+- Complete re-write of Inverse 3:2 algorithm
+- Inverse 3:2 deinterlacer far more responsive and stable for 480i sources
+- Futher optimization of Inverse 2:2 deinterlacer (FFX playable?)
+- Added ability to turn off auto decimate for A/DAC mode
+
+<br/>
+
 ## Version 1.2.0 (2024-01-26)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_120.zip)
