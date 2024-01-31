@@ -52,6 +52,17 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 3.90 (2024-01-30)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V390.zip)
+CRC-32: `85FBB9D8`  
+SHA-256: `601298ff5ba81646660cbf2ae8a4c3f82d1f9fab5e3448adc1cb740bd3a33f11`
+
+### Changelog:
+- Added "MA Smoother" to the Deinterlacer menu. This applies the smoothed-Bob instead of linear-Bob in the motion adaptive deinterlacer.
+- Rolled in the new RT4K Inverse 2:2 de-interlacer. Games with frame rate changes (such as FFX) may now be playable.
+
+<br/>
+
 ## Version 3.699 (2023-09-09)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X_SDRAM_V3699.zip)
 CRC-32: `9EC64D62`  
