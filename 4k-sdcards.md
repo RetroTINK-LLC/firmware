@@ -26,15 +26,12 @@ CRC-32: `A5021E4A`
 SHA-256: `74128161f3164c831b82f87a119b70bb657c4b6157d94b5f35600691dd870f1e`
 
 ### Changelog:
-- Added MiSTer DV1 support for auto-decimating and auto-cropping video output from cores
-- Enabled Auto-Cropping for HDMI® input sources
-- Scanlines and masks are automatically rotated correctly when the video is rotated
-- Added additional LCD effects including RGB and BGR subpixel layouts
-- 'Wide Tolerance' sync mode added for sources with poor sync signals such as NEOGEO and Atari 2600/7800
-- 1080p60 -> 1440p120 CVT-rb fixed
-- Fixed file handling to ignore '.' files introduced by Mac OS X
-- Improved audio compatibility with some displays and Atomos capture devices
-- Various bug and stability fixes
+- Added special Sega Saturn auto-sampling support.
+- Complete rewrite of the auto-sampling/auto-phase algorithm for improved stability for all systems.
+- Complete rewrite of the inverse 3:2 and 2:2 telecine deinterlacers for improved stability and response time. Games that have moderate pace changes such as FFX should now be playable.
+- Added the ability to generate pseudo-interlaced scanline (i.e. 480i style scanlines from 480p inputs, 1080i style scanlines from 1080p inputs).
+- Improved Analogue DAC support including auto-calculating the decimation factor
+- Fixed various HDMI audio compatibility issues including audio glitches for Atomos recorders and missing HDR infoframes when run through AVRs.
 
 <br/>
 
