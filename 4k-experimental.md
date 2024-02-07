@@ -46,6 +46,7 @@ SHA-256: `e3eda87357be35996ea0060cfbbffcc598c744b97eb75837cbf5586d23964f46`
 ### Changelog:
 - [NEW FEATURE] Enhanced S-Video with far higher luma resolution than standard decoders
 - Avalible for S-video connections on the HD-15 port ONLY
+- Added full interpolation of Cb and Cr channels compared to the version in the beta firmware
 - Consider it highly experimental
 - Improved Analogue auto-decimation
 - MiSTer menu core auto disables decimation
