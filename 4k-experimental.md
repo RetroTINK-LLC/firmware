@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.1 (2024-02-06)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_122.zip)
+CRC-32: `7FAADF53`  
+SHA-256: `e3eda87357be35996ea0060cfbbffcc598c744b97eb75837cbf5586d23964f46`
+
+### Changelog:
+- [NEW FEATURE] Enhanced S-Video with far higher luma resolution than standard decoders
+- Avalible for S-video connections on the HD-15 port ONLY
+- Consider it highly experimental
+- Improved Analogue auto-decimation
+- MiSTer menu core auto disables decimation
+- MiSTer DV1 auto-decimation now has two modes: Infoframe uses the DV1 infoframe sent by the core. Measure dynamically analyzes the image and calculates the decimation without relying on metadata.
+- Automatically falls back to Measured value in case core provided information is not avalible
+
+<br/>
+
 ## Version 1.2.1 (2024-01-28)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_121.zip)
