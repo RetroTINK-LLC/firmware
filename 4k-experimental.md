@@ -47,7 +47,7 @@ SHA-256: `6dc61b8c91f86898dfea3d55c36134ccaa345657e70c20ad5577fc000166e858`
 - Enhanced S-video detects and auto-aligns the luma and chroma offsets
 - Enhanced S-video default chroma offset tuned across multiple sample rates
 - Scaler changes are now fully buffered and synced
-- Auto-sample/decimation changses for analog signals should now be smooth
+- Auto-sample/decimation changes for analog signals should now be smooth
 - MiSTer/Analogue direct video decimation changes (i.e. when the Menu OSD opens) should now be smooth
 
 <br/>
