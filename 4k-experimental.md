@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.3 (2024-02-11)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_123.zip)
+CRC-32: `E1751263`  
+SHA-256: `6dc61b8c91f86898dfea3d55c36134ccaa345657e70c20ad5577fc000166e858`
+
+### Changelog:
+- Enhanced S-video detects and auto-aligns the luma and chroma offsets
+- Enhanced S-video default chroma offset tuned across multiple sample rates
+- Scaler changes are now fully buffered and synced
+- Auto-sample/decimation chanles for analog signals should now be smooth
+- MiSTer/Analogue direct video decimation changes (i.e. when the Menu OSD opens) should now be smooth
+
+<br/>
+
 ## Version 1.2.2 (2024-02-06)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_122.zip)
