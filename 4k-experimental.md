@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.4 (2024-02-14)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_124.zip)
+CRC-32: `E33EC9FB`  
+SHA-256: `fcd9a1a7a44f02807585bc0b10c7b5ee564932133f3cd3a61b0d92529887941f`
+
+### Changelog:
+- Fixed MiSTer Decimation  Control locking out when Decimation Mode is set to manual
+- Fixed CRT Sim mode
+- Very rough draft of XBR smoothing filter (in the Imnage Proc. Menu)
+
+<br/>
+
+
 ## Version 1.2.3 (2024-02-11)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_123.zip)
