@@ -46,7 +46,7 @@ SHA-256: `fcd9a1a7a44f02807585bc0b10c7b5ee564932133f3cd3a61b0d92529887941f`
 ### Changelog:
 - Fixed MiSTer Decimation  Control locking out when Decimation Mode is set to manual
 - Fixed CRT Sim mode
-- Very rough draft of XBR smoothing filter (in the Imnage Proc. Menu)
+- Very rough draft of XBR smoothing filter (in the Image Proc. Menu)
 
 <br/>
 
