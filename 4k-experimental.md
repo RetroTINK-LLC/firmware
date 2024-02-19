@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.5 (2024-02-18)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_125.zip)
+CRC-32: `1CCC365F`  
+SHA-256: `de914a94ab740515ae65d45400709debf13a155a4941e49cba16be069b86aeae`
+
+### Changelog:
+- Cleaned up XBR smoothing filter
+- XBR now has two modes: Level 1 (45 degree angles only) and Level 2 (30 and 60 degree angles).
+- XBR now has multiple options for analog noise control
+
+<br/>
+
+
 ## Version 1.2.4 (2024-02-14)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_124.zip)
