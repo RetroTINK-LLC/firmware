@@ -52,6 +52,18 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 3.91 (2024-02-20)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V391.zip)
+CRC-32: `40993338`  
+SHA-256: `64efff77c46703e2a3804f64d39e32ef51e2c6dffd1ae05fc8b5cb71e183327c`
+
+### Changelog:
+- Threshold for declaring no signal greatly increased.
+- ADC no signal color changed from Blue to Black
+- Possibly beneficial for games that switch resolutions and VHS
+
+<br/>
+
 ## Version 3.90 (2024-01-30)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V390.zip)
 CRC-32: `85FBB9D8`  
