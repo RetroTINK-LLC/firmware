@@ -47,6 +47,7 @@ SHA-256: `9f50948668214246fb2ae3d641a1b096e215005b1d08f3003881c6744e7b99fc`
 - No signal threshold for SDP sources increased
 - Default color for the SDP decoder and HDMI RX now black (this is seperate from the RT4K blanking/crop color)
 - Fixed bug that stopped inverse telecine from working for certain lower resolution sources
+- Chroma offset control for Enhanced S-video is back
 
 <br/>
 
