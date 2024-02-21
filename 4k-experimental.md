@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.6 (2024-02-20)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_126.zip)
+CRC-32: `B8FA90A5`  
+SHA-256: `9f50948668214246fb2ae3d641a1b096e215005b1d08f3003881c6744e7b99fc`
+
+### Changelog:
+- No signal threshold for SDP sources increased
+- Default color for the SDP decoder and HDMI RX now black (this is seperate from the RT4K blanking/crop color)
+- Fixed bug that stopped inverse telecine from working for certain lower resolution sources
+
+<br/>
+
+
 ## Version 1.2.5 (2024-02-18)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_125.zip)
