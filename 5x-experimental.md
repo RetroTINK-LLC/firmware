@@ -52,6 +52,17 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 3.92 (2024-02-24)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V392.zip)
+CRC-32: `0915609C`  
+SHA-256: `c5cadbfadfa5c394f3b53ebb5d664ee503f8fe86a555332c5b21a640c49b10dd`
+
+### Changelog:
+- Hard resolution changes (i.e. 240p <-> 480i) are detected and masked to provide a smoother experience
+
+<br/>
+
+
 ## Version 3.91 (2024-02-20)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V391.zip)
 CRC-32: `40993338`  
