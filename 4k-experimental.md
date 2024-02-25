@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+
+## Version 1.2.7 (2024-02-24)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_127.zip)
+CRC-32: `9C477D57`  
+SHA-256: `e7e60c51e074f88f14951cd833c1268719a111cd3a159aa822308c5195c950d4`
+
+### Changelog:
+- Hard resolution changes (i.e. 240p <-> 480i) are detected and masked to provide a smoother experience
+- Default on, this can be disabled in the scaling menu (Blank Res. Change)
+
+<br/>
+
+
+
 ## Version 1.2.6 (2024-02-20)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_126.zip)
