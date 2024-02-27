@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.8 (2024-02-26)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_128.zip)
+CRC-32: `B8FA90A5`  
+SHA-256: `9f50948668214246fb2ae3d641a1b096e215005b1d08f3003881c6744e7b99fc`
+
+### Changelog:
+- Reverted Gen Lock optimization code to 1.2.4
+- Fixed incorrect field ordering in the Inverse 2:2
+
+<br/>
+
 
 ## Version 1.2.7 (2024-02-24)
 
