@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.9 (2024-02-29)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_129.zip)
+CRC-32: `9142EEC1`  
+SHA-256: `3d9f6f339f639f56e0d27b0ad27255cfd5c5029b554e348e5e244f9819ee3214`
+
+### Changelog:
+- Complete re-write of the 3D comb filter algorithm
+- 3D comb now searches multiple fields for motion and across both luma and chroma
+- Improved analog noise rejection for XBR smoothing filter
+- Overall optimization of FPGA to free up multipliers and RAM
+
+<br/>
+
+
 ## Version 1.2.8 (2024-02-26)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_128.zip)
