@@ -37,6 +37,27 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.2.9 (2024-03-02)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_130.zip)
+CRC-32: `49D64C8E`  
+SHA-256: `41c898130cb88fa46431ef64ebd9492eeecd2a4ef6e4a34f6f97c83650c5febf`
+
+### Changelog:
+- Cleaned up thresholding controls for the 3D Comb
+- Low setting quickly falls back to 2D mode, while the Medium and High settings favor the 3D mode
+- The default setting for the 3D comb is somewhere between Low and Medium
+- Fixed bugs that prevented 3D comb and Inverse Telecine from working together
+- Inverse 3:2 Telecine might need the 3D comb to be set to Low or Default to prevent artifacts
+- Normal video can use a higher threshold to aggressively remove composite video artifacts
+- Further optimizations in Inverse 2:2 Telecine to minimize glitches during cadence changes
+- Calibrated Enhanced S-Video for PAL
+- Automatic detection of S/PDIF signal loss and auto-reset 
+
+<br/>
+
+
+
 ## Version 1.2.9 (2024-02-29)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_129.zip)
