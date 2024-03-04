@@ -56,8 +56,6 @@ SHA-256: `41c898130cb88fa46431ef64ebd9492eeecd2a4ef6e4a34f6f97c83650c5febf`
 
 <br/>
 
-
-
 ## Version 1.2.9 (2024-02-29)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_129.zip)
@@ -72,7 +70,6 @@ SHA-256: `3d9f6f339f639f56e0d27b0ad27255cfd5c5029b554e348e5e244f9819ee3214`
 
 <br/>
 
-
 ## Version 1.2.8 (2024-02-26)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_128.zip)
@@ -85,7 +82,6 @@ SHA-256: `9f50948668214246fb2ae3d641a1b096e215005b1d08f3003881c6744e7b99fc`
 
 <br/>
 
-
 ## Version 1.2.7 (2024-02-24)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_127.zip)
@@ -97,8 +93,6 @@ SHA-256: `e7e60c51e074f88f14951cd833c1268719a111cd3a159aa822308c5195c950d4`
 - Default on, this can be disabled in the scaling menu (Blank Res. Change)
 
 <br/>
-
-
 
 ## Version 1.2.6 (2024-02-20)
 
@@ -114,7 +108,6 @@ SHA-256: `9f50948668214246fb2ae3d641a1b096e215005b1d08f3003881c6744e7b99fc`
 
 <br/>
 
-
 ## Version 1.2.5 (2024-02-18)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_125.zip)
@@ -127,7 +120,6 @@ SHA-256: `de914a94ab740515ae65d45400709debf13a155a4941e49cba16be069b86aeae`
 - XBR now has multiple options for analog noise control
 
 <br/>
-
 
 ## Version 1.2.4 (2024-02-14)
 
