@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.3.1 (2024-03-09)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_132.zip)
+CRC-32: `18A6D047`  
+SHA-256: `ecf965ad42f3d43ef13f1c4dd51269d45633d2589566c81e3ff8c0b027ca5a98`
+
+### Changelog:
+- Fixed bug that broke enhanced S-video luma/chroma registration for NTSC-type sources
+
+<br/>
+
+
 ## Version 1.3.1 (2024-03-08)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_131.zip)
