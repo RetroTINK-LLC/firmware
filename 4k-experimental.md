@@ -37,6 +37,25 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.3.1 (2024-03-08)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_131.zip)
+CRC-32: `94376E67`  
+SHA-256: `7932a3e5603eef581c72721edefa4fb6847e52c50e6c1cacfb65d27eab036a0a`
+
+### Changelog:
+- 3D comb and 2D Y/C modes are separate options to allow the user to select which 2D mode is used as a fall back during motion
+- 3D comb enabled for 240p sources to improve image quality for systems like the NES and TG16 and eliminate composite jitter in captures/triple buffer
+- It may be useful to increase the 3D Noise Threshold for game consoles vs regular video
+- Fixed bug where SDP standard was not reported in enhanced S-video
+- Recalibrated enhanced S-Video for both NTSC and PAL
+- Default Chroma Bandwidth changed to 'High'
+- Massively improved chroma response for both regular S-video and enhanced S-video
+- Blank change res default off (can interefere with wonky sources like atari or VHS). Turn it on only if you NEED it
+- Added option to disable PAL delay line
+
+<br/>
+
 ## Version 1.3.0 (2024-03-02)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_130.zip)
