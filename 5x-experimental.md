@@ -52,6 +52,17 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 3.93 (2024-03-08)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V393.zip)
+CRC-32: `A81280F1`  
+SHA-256: `6211a29e6c22e027655c3e55a59b5d9c18168236a251fa4249db4ef0646c5c20`
+
+### Changelog:
+- Signifcant improvements in S-video quality
+- Improved H-PLL lock for VHS
+
+<br/>
+
 ## Version 3.92 (2024-02-24)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V392.zip)
 CRC-32: `0915609C`  
