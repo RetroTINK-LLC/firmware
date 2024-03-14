@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.3.3 (2024-03-13)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_133.zip)
+CRC-32: `A7F56A75`  
+SHA-256: `b811621c6fba8e6729c0acca6b658593192ef4421cfd7b48efa309cf931db46e`
+
+### Changelog:
+- PAL Line Averaging automatically disabled for non-PAL sources
+- Enc. -> Enh. S-video
+- Fixed repeated line at the top of the screen when scanlines are on
+
+<br/>
+
+
 ## Version 1.3.2 (2024-03-09)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_132.zip)
