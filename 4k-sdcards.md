@@ -19,6 +19,29 @@ title: RetroTINK-4K SD Card Images
 
 <p style="margin:41px;"></p>
 
+## Version 1.3.4 (2024-03-15)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_134_sdcard.zip)
+CRC-32: `6EA7BEB3`  
+SHA-256: `9b94a06b5ae6c26959f6d25996bee662745a242cd7919ce4a539d10925d2d1df`
+
+### Changelog:
+- Added XBR Smoothing
+- Added Enhanced S-video
+- Improved chroma response/sharpness for regular S-video
+- Added 3D Comb filter for NTSC composite video
+- Improved PAL composite and S-video
+- Improved ability to track and hold poor VHS signals
+- Improved MiSTer DV/Analogue decimation detection
+- Minimized glitching during horizontal resolution changes
+- Added option to blank video during major resolution chanes to minimize visual glitches
+- Improved S/PDIF detection
+- Various bug fixes
+- SD Card Image adds Wobbling Pixels profiles for Enhanced S-video plus 3D comb optimized composite profiles
+
+<br/>
+
+
 ## Version 1.2.1 (2024-02-02)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_121_sdcard.zip)
