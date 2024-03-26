@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.3.5 (2024-03-25)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_135.zip)
+CRC-32: `8413FD44`  
+SHA-256: `e41ee680f9958812126bf88ee89e1cad540b4a360df6ed272953d02d8593edf9`
+
+### Changelog:
+- Added HLG HDR implemention with proper color conversion and perceptual quantization
+- For HLG, the Input Gain control under the "Color Correction" menu should be used to tune the intensity
+
+<br/>
+
+
 ## Version 1.3.4 (2024-03-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_134.zip)
