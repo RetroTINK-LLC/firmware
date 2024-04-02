@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.3.6 (2024-04-01)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_136.zip)
+CRC-32: `A0337A45`  
+SHA-256: `4fe67d58280d160c24ef8aeb1ed1bd1d8c1a70e573dd52a5de74931b40b1e6a7`
+
+### Changelog:
+- Early build of next-generation Motion Adaptive Deinterlacer
+- Enhanced motion-vector estimation
+- False combing nearly eliminated
+- Tuned thresholds per the Intel VIP Suite documentation
+- "Max" sensitivity for MA removed
+- Default "Noise Threshold" now 0
+
+<br/>
+
+
+
 ## Version 1.3.5 (2024-03-25)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_135.zip)
