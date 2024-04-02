@@ -52,6 +52,16 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 3.94 (2024-04-02)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V394.zip)
+CRC-32: `52409426`  
+SHA-256: `7fd67f4b6aab2a8a61bfe92260c0b5456cd8649188787b5fee8f5681933fd21e`
+
+### Changelog:
+- Signficantly improved Motion Adaptive Deinterlacer
+
+<br/>
+
 ## Version 3.93 (2024-03-08)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V393.zip)
 CRC-32: `A81280F1`  
