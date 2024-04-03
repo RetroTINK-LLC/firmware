@@ -44,8 +44,9 @@ CRC-32: `748AB716`
 SHA-256: `bc343aaba8b1e818292e39020d80ad49e9bcff11b5679a12182c64b39f27e9f2`
 
 ### Changelog:
-- Added Edge Adaptive interpolation for Motion Adaptive Deinterlacer
+- Added Edge Adaptive (WIP) interpolation for Motion Adaptive Deinterlacer
 - "Interpolator" options are now: Linear (Bob) and Edge Adaptive (Smoothed Bob)
+- Edge Adaptive interpolation can signficantly improve image quality, especially for 3D games and eliminate the "jaggy" effect during motion
 - Max threshold added back in
 
 <br/>
