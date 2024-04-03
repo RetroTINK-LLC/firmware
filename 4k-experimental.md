@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.3.7 (2024-04-02)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_137.zip)
+CRC-32: `748AB716`  
+SHA-256: `bc343aaba8b1e818292e39020d80ad49e9bcff11b5679a12182c64b39f27e9f2`
+
+### Changelog:
+- Added Edge Adaptive interpolation for Motion Adaptive Deinterlacer
+- "Interpolator" options are now: Linear (Bob) and Edge Adaptive (Smoothed Bob)
+- Max threshold added back in
+
+<br/>
+
+
+
 ## Version 1.3.6 (2024-04-01)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_136.zip)
