@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.3.8 (2024-04-09)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_138.zip)
+CRC-32: `29B7D33B`  
+SHA-256: `53fbad0ce852709ed8100825dded823c479b4789f5c15b1974866cef94d1a308`
+
+### Changelog:
+- Improved Edge Adaptive deinterlacing
+- This feature is not Extrems Approved (tm), pls no troll
+
+<br/>
+
+
+
 ## Version 1.3.7 (2024-04-02)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_137.zip)
