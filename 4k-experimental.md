@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.4.0 (2024-04-12)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_140.zip)
+CRC-32: `7656C43A`  
+SHA-256: `69cd773e749c3e634e76a78ec19bd913158e58e50a0970e6a6e6bd5bbe5b64ba`
+
+### Changelog:
+- Edge Adaptive deinterlacing status moved to "no longer disapproved by Extrems"
+- Fixed various edge case failures of the new MADI related to MiSTer DV1 and high output frame rates
+- Modified Freesync VRR metadata
+- Added VESA VRR injection
+- Improved output Gamma/PQ quantization (thanks Extrems for contributing the code)
+- Candidate for next "Official" release 
+
+<br/>
+
+
+
 ## Version 1.3.9 (2024-04-10)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_139.zip)
