@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.4.1 (2024-04-13)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_141.zip)
+CRC-32: `03D8232C`  
+SHA-256: `c1ed61c62699dbf7b9959cce9a340b8016ff3a3e25beb2e1346669ba853a8e42`
+
+### Changelog:
+- Improved low angle detection
+
+<br/>
+
+
+
 ## Version 1.4.0 (2024-04-12)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_140.zip)
