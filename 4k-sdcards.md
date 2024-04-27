@@ -19,6 +19,25 @@ title: RetroTINK-4K SD Card Images
 
 <p style="margin:41px;"></p>
 
+## Version 1.4.2 (2024-04-27)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_142_sdcard.zip)
+CRC-32: `60728C8D`  
+SHA-256: `0be711173c5b22b82d9b1643f01f7518bf07e22ce9bc2c7a9e24ab936aecbcc2`
+
+### Changelog:
+- Next generation Motion Adaptive Deinterlacer
+- Improved multi-field motion analysis to minimize false combing
+- Improved spatio-temporal smoothing of motion vectors
+- Edge-adaptive interpolation to minimize "jaggies" when Bob is used
+- Improved Freesync VRR compatibility
+- Added VESA VRR
+- Added HLG HDR mode with proper color conversion and PQ
+- For HLG, the Input Gain control under the "Color Correction" menu should be used to tune the intensity
+
+<br/>
+
+
 ## Version 1.3.4 (2024-03-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_134_sdcard.zip)
