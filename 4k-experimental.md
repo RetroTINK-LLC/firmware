@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.4.2 (2024-04-27)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_142.zip)
+CRC-32: `60728C8D`  
+SHA-256: `0be711173c5b22b82d9b1643f01f7518bf07e22ce9bc2c7a9e24ab936aecbcc2`
+
+### Changelog:
+- High precision IIR filter to minimize ghosting
+- Fixed 3D comb bug in 240p modes
+- Candidate for next "Official" release (again)
+
+<br/>
+
+
 ## Version 1.4.1 (2024-04-13)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_141.zip)
@@ -48,8 +62,6 @@ SHA-256: `c1ed61c62699dbf7b9959cce9a340b8016ff3a3e25beb2e1346669ba853a8e42`
 - Candidate for next "Official" release 
 
 <br/>
-
-
 
 ## Version 1.4.0 (2024-04-12)
 
@@ -66,8 +78,6 @@ SHA-256: `69cd773e749c3e634e76a78ec19bd913158e58e50a0970e6a6e6bd5bbe5b64ba`
 - Candidate for next "Official" release 
 
 <br/>
-
-
 
 ## Version 1.3.9 (2024-04-10)
 
