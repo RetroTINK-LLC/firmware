@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.4.3 (2024-05-06)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_143.zip)
+CRC-32: `7A415229`  
+SHA-256: `b42db528b24b9872fd4089e8243545baf259ca640046268cad9b96ec2d277bae`
+
+### Changelog:
+- Improved detection of PC/RGBHV sources to reduce false "Unknown" mode states
+- Increased GENLOCK capture range to +19% to capture 70 Hz DOS sources with a 60 Hz modeline (reminder 4K70 is not supported)
+
+<br/>
+
+
 ## Version 1.4.2 (2024-04-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_142.zip)
