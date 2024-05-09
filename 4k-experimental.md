@@ -46,6 +46,7 @@ SHA-256: `7dfae4c388e44b8af86392ca3b831f3567af9a4f5facd2b5356817525d9c54c9`
 ### Changelog:
 - Fixed bug preventing 1080p YPbPr detection
 - Improved overall analog sync processing reliability
+- Adjusted default trims for 720p, 1080i and 1080p to eliminate left hand black edge
 
 <br/>
 
