@@ -37,10 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.4.4 (2024-05-09)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_144.zip)
+CRC-32: `7A415229`  
+SHA-256: `7dfae4c388e44b8af86392ca3b831f3567af9a4f5facd2b5356817525d9c54c9`
+
+### Changelog:
+- Fixed bug preventing 1080p YPbPr detection
+- Improved overall analog sync processing reliability
+
+<br/>
+
+
 ## Version 1.4.3 (2024-05-06)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_143.zip)
-CRC-32: `7A415229`  
+CRC-32: `DA2A24C7`  
 SHA-256: `b42db528b24b9872fd4089e8243545baf259ca640046268cad9b96ec2d277bae`
 
 ### Changelog:
