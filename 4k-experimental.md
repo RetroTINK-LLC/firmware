@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.4.5 (2024-05-11)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_145.zip)
+CRC-32: `2D22BA6B`  
+SHA-256: `62db970b9608e93c266925346e62d7ed9ac5a90b28ff92ba43862a4f0ea355d8`
+
+### Changelog:
+- Minor update
+- Added groundwork for multi-FPGA image support
+- Automatic detection of out-of-order HDMI output and reset
+
+<br/>
+
+
 ## Version 1.4.4 (2024-05-09)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_144.zip)
