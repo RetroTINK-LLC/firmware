@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+
+## Version 1.4.7 (2024-06-5)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_145.zip)
+CRC-32: `6262C9FE`  
+SHA-256: `D7FCAA51191271BCE7CC6FC07027F95BC49976C81C27B76E6C2533AA3039C561`
+
+### Changelog:
+- Added the ability to pass HDR10 and HLG from input to output
+- RT4K EDID modified to allow for HDR sources
+- When HDR sources are applied, all color correction controls are disabled
+- Added the ability to auto-load DV1 profiles
+- If enabled, will check for a profile with the name that matches the core name in the DV1 sub-folder (for example SNES Core = /profile/DV1/SNES.rt4)
+- More multi-fpga internal optimization
+
+<br/>
+
+
 ## Version 1.4.5 (2024-05-11)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_145.zip)
