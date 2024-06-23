@@ -38,6 +38,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 <p style="margin:41px;"></p>
 
 
+
+## Version 1.4.8 (2024-06-23)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_148.zip)
+CRC-32: `C91F07DD`  
+SHA-256: `88cd08726be5a096a5ce959279e6b7cffd88930f4a8e1d17127c9fff552319fb`
+
+### Changelog:
+- Fixed EDID issues related to HDR and causing DVI only operation
+- Disabled 3D comb when S-Video is used
+
+<br/>
+
+
+
+
 ## Version 1.4.7 (2024-06-05)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_147.zip)
