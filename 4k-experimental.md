@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.4.9 (2024-06-30)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_149.zip)
+CRC-32: `A63568F3`  
+SHA-256: `39bb2edfa67585cd6c8062095cc1b09dd5f1f2f6e0695dc71eaab8c66e80581d`
+
+### Changelog:
+- Added alpha keying for masks
+- Masks must be saved as 32-bit .bmp files
+- Any pixels with the alpha layer having an intensity of 105 (0x69) will be drawn exactly as-is with no blending
+- All other codes or absence thereof will be treated as before (full backwards compatibility)
+- See 'DMG-115x_alpha.bmp' as an example (credit to billgonzo for original)
+
+<br/>
 
 
 ## Version 1.4.8 (2024-06-23)
