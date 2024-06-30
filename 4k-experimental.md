@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.5.0 (2024-06-30)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_150.zip)
+CRC-32: `D694AB62`  
+SHA-256: `07c257ee52fef2677aff8a70218e36cba67990a9a0e95447f339b434e8e49c8c`
+
+### Changelog:
+- Replaces 1.4.9
+- Fixes error in .bmp importer
+
+<br/>
+
 ## Version 1.4.9 (2024-06-30)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_149.zip)
