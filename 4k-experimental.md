@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.5.1 (2024-07-12)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_151.zip)
+CRC-32: `E63E310C`  
+SHA-256: `b95462b4c6af74b6b9284cc67b311a8cfcc55428d44344ccaa1655c9b88769a6`
+
+### Changelog:
+- Added ability to generate interlaced output timings (see modeline examples below)
+- Note the vertical active size is defined as the total of both fields, whereas the porch and sync are defined by f0
+- Menu now works in 240p output using temporal downscaling
+- HDMI output automatically enables pixel repeat for low clock rates
+- Example modelines below:
+- 1920, 88, 44, 280, 1, 1080, 2, 5, 22, 1, 59.94, "1920x1080i59.94", 1
+- 720, 16, 62, 138, 0, 480, 4, 3, 22, 0, 59.94, "720x480i59.94", 1
+- 720, 16, 62, 138, 0, 240, 4, 3, 22, 0, 60, "720x240p60"
+
+<br/>
+
 ## Version 1.5.0 (2024-06-30)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_150.zip)
