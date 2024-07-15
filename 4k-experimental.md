@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.5.2 (2024-07-14)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_152.zip)
+CRC-32: `B78FB41F`  
+SHA-256: `60841e9f6309f0638348a244c9073af44c17a2be7868cfd411988513ef8e30ef`
+
+### Changelog:
+- Added logic to properly handle Gen-Lock and Frame-Lock so that sync happens on the correct field
+- Deinterlacer controls have no effect when the output is also interlaced
+- Shifted mask by one pipeline clock
+
+<br/>
+
+
+
+
 ## Version 1.5.1 (2024-07-12)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_151.zip)
