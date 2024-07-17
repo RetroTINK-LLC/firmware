@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.5.2 (2024-07-17)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_153.zip)
+CRC-32: `F8BEE625`  
+SHA-256: `D53F633BD52A70F126F0245A35C7EF65BCEB83AAE0A79712E9076735181EC4B1`
+
+### Changelog:
+- Minor change to VGAHV input mode to optimize LPF performance at high input resolutions
+- May become official release if no problems observed
+
+<br/>
+
+
+
+
 ## Version 1.5.2 (2024-07-14)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_152.zip)
