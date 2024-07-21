@@ -23,7 +23,7 @@ title: RetroTINK-4K SD Card Images
 ## Version 1.5.4 (2024-07-21)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_154_sdcard.zip)
-CRC-32: `073ADD6A`  
+CRC-32: `B95B3221`  
 SHA-256: `e1b66723e16e8260a6162dafe794dce531ef23f756c174220d5605a803ce238c`
 
 ### Changelog:
@@ -49,7 +49,7 @@ SHA-256: `e1b66723e16e8260a6162dafe794dce531ef23f756c174220d5605a803ce238c`
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_142_sdcard.zip)
 CRC-32: `60728C8D`  
-SHA-256: `0be711173c5b22b82d9b1643f01f7518bf07e22ce9bc2c7a9e24ab936aecbcc2`
+SHA-256: `01b541e1a688548c63e6f7e86925de485dbc6c061334db22f1c201cac765fe25`
 
 ### Changelog:
 - Next generation Motion Adaptive Deinterlacer
