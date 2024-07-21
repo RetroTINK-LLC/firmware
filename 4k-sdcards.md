@@ -47,7 +47,7 @@ SHA-256: `e1b66723e16e8260a6162dafe794dce531ef23f756c174220d5605a803ce238c`
 
 ## Version 1.4.2 (2024-04-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_142_sdcard.zip)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_142_sdcardb.zip)
 CRC-32: `60728C8D`  
 SHA-256: `01b541e1a688548c63e6f7e86925de485dbc6c061334db22f1c201cac765fe25`
 
