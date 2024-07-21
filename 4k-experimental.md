@@ -45,7 +45,7 @@ CRC-32: `F96B4580`
 SHA-256: `5fe54ce60692cdea1168623c3df961dc716c4dc0c9521854bc424871dc8ec324`
 
 ### Changelog:
-- File selection box remembers previous sub-directory and cursor position when re-opened
+- File selection box remembers previous sub-directory and cursor position when recalled again
 
 <br/>
 
