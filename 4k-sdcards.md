@@ -22,7 +22,7 @@ title: RetroTINK-4K SD Card Images
 
 ## Version 1.5.4 (2024-07-21)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_154_sdcardb.zip)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_154_sdcardc.zip)
 CRC-32: `5AA655CB`  
 SHA-256: `4e37254eb642876c4140cdc76190cd950b4632d9fa0ef02357cdf8b29ec3c2fb`
 
@@ -38,7 +38,7 @@ SHA-256: `4e37254eb642876c4140cdc76190cd950b4632d9fa0ef02357cdf8b29ec3c2fb`
 - Added ability to produce interlaced outputs (e.g. 480i, 1080i)
 - Low resolution OSD rendering support to display menu when output modeline is 240p or 480i
 - Fixed minor issues with analog LPF for RGBHV sources
-- File selection menu remembers the sub-directory and cursor position when re-called again
+- File selection menu remembers the sub-directory and cursor position when recalled again
 
 
 <br/>
