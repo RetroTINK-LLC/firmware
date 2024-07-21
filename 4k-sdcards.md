@@ -22,7 +22,7 @@ title: RetroTINK-4K SD Card Images
 
 ## Version 1.5.4 (2024-07-21)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_154_sdcard.zip)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_154_sdcardb.zip)
 CRC-32: `B95B3221`  
 SHA-256: `e1b66723e16e8260a6162dafe794dce531ef23f756c174220d5605a803ce238c`
 
