@@ -40,9 +40,9 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 ## Version 1.5.4 (2024-07-20)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_154c.zip)
-CRC-32: `26971B70`  
-SHA-256: `020698c8d04b2605563053fcd1df71febe4d30199a76573b61f2f246ca143e05`
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_154d.zip)
+CRC-32: `D246896D`  
+SHA-256: `648de38e6678bbd523212ca057f58683d383dbaa209fa570159888aea1f80ad6`
 
 ### Changelog:
 - File selection box remembers previous sub-directory and cursor position when recalled again
