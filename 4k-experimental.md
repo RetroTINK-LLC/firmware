@@ -38,6 +38,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 <p style="margin:41px;"></p>
 
 
+## Version 1.5.5 (2024-08-04)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_155.zip)
+CRC-32: `00C24B25`  
+SHA-256: `b4a4fe2306d2b639978652eedde22a741d78d2c21df538df3b53bea9f6209680`
+
+### Changelog:
+- Auto mutes audio output when there is no video signal to prevent garbage being injected into the sound
+- Fixed inverse 2:2 cadence break
+
+<br/>
+
+
+
+
 ## Version 1.5.4 (2024-07-20)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_154d.zip)
