@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.5.6 (2024-08-24)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_156.zip)
+CRC-32: `6A5F1615`  
+SHA-256: `80107dca81fb5bc1f73226f72da097f14885bc4e6adc1a28a58c43ae3608168f`
+
+### Changelog:
+- Audio auto-mute only active when HDMI IN is the active audio source
+- Fixed bug where saving new profiles not not refresh the file load selection menu
+- Added built in support for detecting 1366x768 PC resolution
+
+<br/>
+
+
+
 
 ## Version 1.5.5 (2024-08-04)
 
