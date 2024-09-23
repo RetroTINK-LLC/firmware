@@ -37,7 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
-## Version 1.5.6 (2024-08-24)
+## Version 1.5.7 (2024-09-23)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_157.zip)
+CRC-32: `B3FE25CC`  
+SHA-256: `B292BFC8D976181603795365618AD546B0EB8FF376D6606AB0B0D898B3D0C823`
+
+### Changelog:
+- Fixed quirks that stopped interlaced video from RGBHV sources
+
+<br/>
+
+
+## Version 1.5.6 (2024-07-24)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_156.zip)
 CRC-32: `6A5F1615`  
@@ -49,7 +61,6 @@ SHA-256: `80107dca81fb5bc1f73226f72da097f14885bc4e6adc1a28a58c43ae3608168f`
 - Added built in support for detecting 1366x768 PC resolution
 
 <br/>
-
 
 
 
