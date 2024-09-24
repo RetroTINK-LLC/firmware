@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.5.8 (2024-09-24)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_158.zip)
+CRC-32: `CDE56C85`  
+SHA-256: `FC1196709343B7CEB5945EF511D1CDB301A6E268440174B09544CC15C99704DB`
+
+### Changelog:
+- Fixed 576i detection in RGBHV mode
+- Added placeholder for Legal/Regulatory notices
+
+<br/>
+
+
 ## Version 1.5.7 (2024-09-23)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_157.zip)
