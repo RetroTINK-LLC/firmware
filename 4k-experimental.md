@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.5.9 (2024-09-27)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_159.zip)
+CRC-32: `31852AC7`  
+SHA-256: `B9A49541FC93C654C6D07231B3297A02832387B12B7B7206FDF38A48FEED7891`
+
+### Changelog:
+- Reconcilled various sync adjustments for 480i, 576i and 1080i on RGBHV
+- Fixed various collateral damage due to accomodating interlaced video in RGBHV
+
+<br/>
+
+
 ## Version 1.5.8 (2024-09-24)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_158.zip)
