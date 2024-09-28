@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.0 (2024-09-28)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_160.zip)
+CRC-32: `0335A147`  
+SHA-256: `1f5fdd17317eef0129a2d85a3be5ff6d948da68c509e5c8772e426d2b84a35ce`
+
+### Changelog:
+- Added auto-sleep timer if no signal is detected for a specified length of time
+- Added the ability to default to sleep on cold boots (inserting USB power)
+- Settings are in the OSD/Firmware menu
+- Settings are saved on the SD card and are global, not profile specific
+
+<br/>
+
+
+
 ## Version 1.5.9 (2024-09-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_159.zip)
