@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.1 (2024-10-03)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_161.zip)
+CRC-32: `A67E183E`  
+SHA-256: `30AEDA50A5805709B2AF72C416BF085B5AB353B0FAB51A24F0512BABCD523DE4`
+
+### Changelog:
+- Possible fixes to various sleep/auto power glitches
+- Fixed some bugs that was causing S/PDIF sample rate to be detected incorrectly possibly leading to audio glitches
+
+<br/>
+
+
+
 ## Version 1.6.0 (2024-09-28)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_160.zip)
