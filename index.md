@@ -8,7 +8,7 @@ layout: default
 | Device | Release | Experimental | SD card images |
 |-------|--------|---------|---------|
 | RetroTINK-4K | [Latest: 1.5.4<br/>(2024-07-21)](4k.md) | [Latest: 1.6.1<br/>(2024-10-03)](4k-experimental.md) | [Latest: 1.5.4<br/>(2024-07-21)](4k-sdcards.md) |
-| RetroTINK-5X Pro | [Latest: 3.71<br/>(2023-10-09)](5x.md) | [Latest: 3.94<br/>(2024-04-02)](5x-experimental.md) | N/A |
+| RetroTINK-5X Pro | [Latest: 3.71<br/>(2023-10-09)](5x.md) | [Latest: 3.95<br/>(2024-10-06)](5x-experimental.md) | N/A |
 
 <p style="margin:20px;"></p>
 
