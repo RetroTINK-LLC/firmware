@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.2 (2024-10-11)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_162.zip)
+CRC-32: `D2B55610`  
+SHA-256: `691B47BAB39ECB6743D6C7F6D9FFBB12F8C9C2C512B3EA3ADE2F3D514F5481DA`
+
+### Changelog:
+- Discovered and fixed some cases where 240p -> 480i was not being detected correctly
+- Auto sleep now has a warning and can be cancelled with a button press
+
+<br/>
+
+
 ## Version 1.6.1 (2024-10-03)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_161.zip)
