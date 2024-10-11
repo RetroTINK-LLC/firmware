@@ -52,6 +52,17 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 3.95 (2024-10-06)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V395.zip)
+CRC-32: `B4C85BE7`  
+SHA-256: `03ecd7719adcec8d481130a98329c0454ea69b7693b040737b80d335031ab6d1`
+
+### Changelog:
+- Added the ability to pass 288p and 576i
+- Fixed bug to disable deinterlacer for 240p/288p/480i/576i output modes
+
+<br/>
+
 ## Version 3.94 (2024-04-02)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V394.zip)
 CRC-32: `52409426`  
