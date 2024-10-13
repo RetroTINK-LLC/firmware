@@ -52,6 +52,17 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 3.96 (2024-10-13)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V396.zip)
+CRC-32: `0F7FACE0`  
+SHA-256: `18d7154ad5465372e588bf6c5df2b861d5a11a0e6329bca8886716a3913b9deb`
+
+### Changelog:
+- Possible reduction of green screen
+
+<br/>
+
+
 ## Version 3.95 (2024-10-06)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V395.zip)
 CRC-32: `B4C85BE7`  
