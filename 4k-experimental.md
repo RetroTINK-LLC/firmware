@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.3 (2024-10-17)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_163.zip)
+CRC-32: `D5312BE2`  
+SHA-256: `2ACA22CB2AF1FE75D6255E59AE19ACAC0DBE2B670FFFD3CF1D1C13EF2F8BFF0C`
+
+### Changelog:
+- Adjusted *manual* auto-phase algorithm to look for valid phases that do not have ringing artifacts
+- Fixed cut right pixels in 640x480p60 PC mode
+
+<br/>
+
+
 ## Version 1.6.2 (2024-10-11)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_162.zip)
