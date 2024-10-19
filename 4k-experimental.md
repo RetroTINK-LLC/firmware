@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.4 (2024-10-19)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_164.zip)
+CRC-32: `E66A5BD2`  
+SHA-256: `6e73acf54b4ed616dca909f827cbd4c21296cc8c38d4b82b6ce521bef4b5941c`
+
+### Changelog:
+- Gen-Lock now uses new algorithm with enhnaced frequency locking and glitch minimization
+- May help prevent further video/audio drops during frame rate changes on picky equipment such as Avermedia capture cards
+
+<br/>
+
+
+
 ## Version 1.6.3 (2024-10-17)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_163.zip)
