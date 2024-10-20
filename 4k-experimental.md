@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.5 (2024-10-20)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_165.zip)
+CRC-32: `F76A00A3`  
+SHA-256: `9cd7cc27c2fe9a307c30b81750037ae451ead590acb3b67009e6b7ef87da6c73`
+
+### Changelog:
+- Slight modification to 240p and 288p sync processing
+- Auto auto-phase (the one used for auto decimation/auto sampling) now uses the same dynamic gradient flow optimization as the manual auto phase from 1.6.3 to minimize ringing
+
+<br/>
+
+
+
 ## Version 1.6.4 (2024-10-19)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_164.zip)
