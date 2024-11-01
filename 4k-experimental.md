@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.6 (2024-11-01)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_166.zip)
+CRC-32: `E65DEB58`  
+SHA-256: `92C9397A6921EEED05C9A9C8FDA1BD31E01367131F1F7F9E5EA056F3308AB0B9`
+
+### Changelog:
+- Added serial command infrastructure over HD15 and USB
+- HD15: RT4K TX on Pin 12, RT4K RX on Pin 15, 9600 bps 8-N-1, open drain
+- USB: FTDI RT232R, 115200 bps 8-N-1
+
+<br/>
+
+
+
+
 ## Version 1.6.5 (2024-10-20)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_165.zip)
