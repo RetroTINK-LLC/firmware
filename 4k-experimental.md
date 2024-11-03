@@ -37,6 +37,26 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.7 (2024-11-02)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_167.zip)
+CRC-32: `47AF742A`  
+SHA-256: `d2fd46f04495992fad8cb1787ef1e3e0ab53e34fbcf04220d7fc40023ceb0f4b`
+
+### Changelog:
+- Added support for SVS switch auto-loading
+- Similar function to DV1 (auto-loading enabled in the 'Profile' menu)
+- When SVS signals new input, RT4K checks the /profile/SVS subfolder for a matching profile
+- Profiles need to be named: 'S<input number>_<user defined>.rt4'
+- For example, SVS input 2 would looke for a profile that is named S2_SNES...rt4
+- If there's more than one profile that fits the pattern, the first match is used
+- Other devices may also use this system by sending SVS commands through either serial port
+- SVS NEW INPUT=<input number> triggers an auto profile load
+- SVS CURRENT INPUT=<input number> is a keep alive signal that tells the RT4K a switch is connected. This should be sent ~1-2 seconds
+
+<br/>
+
+
 ## Version 1.6.6 (2024-11-01)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_166.zip)
@@ -49,9 +69,6 @@ SHA-256: `92C9397A6921EEED05C9A9C8FDA1BD31E01367131F1F7F9E5EA056F3308AB0B9`
 - USB: FTDI RT232R, 115200 bps 8-N-1
 
 <br/>
-
-
-
 
 ## Version 1.6.5 (2024-10-20)
 
