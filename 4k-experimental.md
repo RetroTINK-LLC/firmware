@@ -37,6 +37,25 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.8 (2024-11-03)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_168.zip)
+CRC-32: `66248CB5`  
+SHA-256: `ce239e4c9adf2d3cfb179e67c07ba5aae41de5111929bfbffe69c620380c44d8`
+
+### Changelog:
+- Cleaned up IR remote control codes to conform with NEC standard
+- Diagnostic screen now reports IR address and command instead of raw bit pattern
+- Custom IR command set can be loaded from the SD card by putting the file 'ir_command.txt' on the SD card root
+- Fixed profile menu bug where power on profile was cut off
+- Fixed minor bug in SVS auto load profile name
+- Added ability for SVS switch to emulate IR commands over serial
+
+<br/>
+
+
+
+
 ## Version 1.6.7 (2024-11-02)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_167.zip)
