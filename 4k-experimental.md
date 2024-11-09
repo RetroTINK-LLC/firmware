@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.9 (2024-11-09)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_169.zip)
+CRC-32: `875D4727`  
+SHA-256: `6c1f7bfda5075cbada34edec0b02d17d6c7030642cbc97fadf42da329b722051`
+
+### Changelog:
+- Re-ordered SVS IR code command
+- Enabled BFI strobe factors that are not power of 2
+- Clean up of string code
+
+<br/>
+
+
 ## Version 1.6.8 (2024-11-03)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_168.zip)
@@ -52,8 +66,6 @@ SHA-256: `ce239e4c9adf2d3cfb179e67c07ba5aae41de5111929bfbffe69c620380c44d8`
 - Added ability for SVS switch to emulate IR commands over serial
 
 <br/>
-
-
 
 
 ## Version 1.6.7 (2024-11-02)
