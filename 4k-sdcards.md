@@ -19,6 +19,25 @@ title: RetroTINK-4K SD Card Images
 
 <p style="margin:41px;"></p>
 
+## Version 1.6.9 (2024-11-24)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_169_sdcard.zip)
+CRC-32: `F9FBD428`  
+SHA-256: `dbb7b111dd1e6e1b41bf997774cca5ed31f93da3ce0904e804a08418a9ca44f8`
+
+### Changelog:
+- Added interlaced support for RGBHV sources
+- Added auto-sleep timer support (in OSD/Firmware menu, global setting saved indepedent of profile)
+- Improved auto-phase algorithm that rejects the phase with ringing artifacts in favor of a phase with maximum flatness for both on-demand and continuous modes
+- Added support for serial communications over HD15 and USB (virtual serial ports)
+- Added commands for SVS switch profile auto-loading on new input
+- Added commands to simulate remote control actions over serial port
+- Fixed issues that caused glitches with S/PDIF audio inputs
+- Fixed edge cases related to 240p/480i mode detection 
+- Fixed issue that result in cut off pixels in 640x480 PC mnodes
+<br/>
+
+
 
 ## Version 1.5.4 (2024-07-21)
 
