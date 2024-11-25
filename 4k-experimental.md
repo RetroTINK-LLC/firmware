@@ -40,8 +40,8 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 ## Version 1.6.9 (2024-11-09)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_169.zip)
-CRC-32: `875D4727`  
-SHA-256: `6c1f7bfda5075cbada34edec0b02d17d6c7030642cbc97fadf42da329b722051`
+CRC-32: `40B12EFC`  
+SHA-256: `10edb752f03b22624fc2e2e6782752711865dcc83ca9f554028940489e7cfce7`
 
 ### Changelog:
 - Re-ordered SVS IR code command
