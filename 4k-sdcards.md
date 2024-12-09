@@ -35,6 +35,7 @@ SHA-256: `dbb7b111dd1e6e1b41bf997774cca5ed31f93da3ce0904e804a08418a9ca44f8`
 - Fixed issues that caused glitches with S/PDIF audio inputs
 - Fixed edge cases related to 240p/480i mode detection 
 - Fixed issue that result in cut off pixels in 640x480 PC modes
+
 <br/>
 
 
@@ -57,6 +58,7 @@ SHA-256: `75686dda487b0fe9cf9cfeb56e124109e71d8c58e94d60c0ce151b57a151e1f6`
 - Low resolution OSD rendering support to display menu when output modeline is 240p or 480i
 - Fixed minor issues with analog LPF for RGBHV sources
 - File selection menu remembers the sub-directory and cursor position when recalled again
+
 <br/>
 
 
