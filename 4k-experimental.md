@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.7.1 (2025-01-06)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_171.zip)
+CRC-32: `EF416BB1`  
+SHA-256: `48a9f11a84a5a3cdb1d446fd1ce79dac2a245d5099c2d928fac23116c10fe28f`
+
+### Changelog:
+- Added CRT Beam function to the list of BFI Blending modes to generate a rolling BFI
+- CRT Beam requires pipeline to have the correct input gamma and output gamma to be set (usually 2.2 - 2.4) or in HDR mode
+- Fixed null pointer bug when decoding 'remote' serial commands with no argument
+- Added cop to disable previous field reads when Bob deinterlacer is used
+
+<br/>
+
+
 ## Version 1.7.0 (2024-11-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_170b.zip)
