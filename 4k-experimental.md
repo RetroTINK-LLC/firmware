@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+
+## Version 1.7.2 (2025-01-11)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_172.zip)
+CRC-32: `2EA850F2`  
+SHA-256: `bb2c56f963379e02e723b7b9d8d54284779c7efce380cd9aebe0da1a5e8cc1e9`
+
+### Changelog:
+- Added Beam Steepness and Phospher Glow controls to Rolling BFI
+- Higher Beam Steepness results in less blending between each phase for increased motion clarity but more tearing
+- Phospher Glow implements a version of Timothy Lottes MPRT to simulate phospher decay and restore lost brightness but higher levels reduce motion clarity
+- Added explicit phase resynchronizer to unify the inverse 3:2 and 2:2 counters
+- Fixed edge crop shift due to new pipeline additions
+
+<br/>
+
+
 ## Version 1.7.1 (2025-01-06)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_171.zip)
