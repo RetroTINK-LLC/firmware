@@ -38,6 +38,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 <p style="margin:41px;"></p>
 
 
+## Version 1.7.6 (2025-03-01)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_176.zip)
+CRC-32: `A4CB5124`  
+SHA-256: `9b5cbbda68877334233603b7ea5f3b215c56676c4d020aec228dbd01f4752273`
+
+### Changelog:
+- Fixed some issues related to audio and HDR glitching through HDMI switches
+
+<br/>
+
+
+
+
 ## Version 1.7.5 (2025-02-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_175.zip)
