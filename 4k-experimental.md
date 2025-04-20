@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.8.0 (2025-04-19)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_180.zip)
+CRC-32: `749BA614`  
+SHA-256: `96749cd92dc56f36e0b8da89fa0077fc46409bae9dfd091463dbe7edc728bbc7`
+
+### Changelog:
+- Internal bug fixes
+- Addressed issue with green lines in SDP mode (found in a small number of units)
+
+<br/>
+
+
+
 ## Version 1.7.9 (2025-03-30)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_179b.zip)
