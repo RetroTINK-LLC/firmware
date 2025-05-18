@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.8.0 (2025-05-19)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_181.zip)
+CRC-32: `A90953B5`  
+SHA-256: `aa5d0cc2f08f298cd875b3310ae1ffd1f01445f6f51e20dca83c7926956b973d`
+
+### Changelog:
+- Expanded CRT beam sim from 1:4 to 1:8 (output frame rate can be 8x input)
+- Clean up of auto phase algorithm to reject false positives
+- On demand autophase and continuous autophase use identical methods
+
+<br/>
+
 ## Version 1.8.0 (2025-04-19)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_180.zip)
