@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.8.2 (2025-05-24)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_182.zip)
+CRC-32: `4628B522`  
+SHA-256: `4bf2a7b005b7b245d2ded9a2af9a13db2ef350b03ea7c38a67de4b5606d7284b`
+
+### Changelog:
+- Added 192 kHz and 384 kHz analog audio sample rates
+- 384 kHz may be out of spec
+- Audio gain levels now equalized between 48 kHz, 96 kHz and 192 kHz
+- Fixed bug where changing the audio sample rate resets the gain
+
+<br/>
+
+
+
 ## Version 1.8.1 (2025-05-19)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_181.zip)
