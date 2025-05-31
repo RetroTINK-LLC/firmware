@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.8.2 (2025-05-30)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_183.zip)
+CRC-32: `AC5053C3`  
+SHA-256: `d5d046438492397a2c14684af5d17504f7fba982905f9451eb7332270e019e07`
+
+### Changelog:
+- Added de-blur function for Decimation Factors 8/4
+- Enabled in Sample Date Detection Menu -> De-blur Dec. 8/4
+- Analyzes image to see if Decimation Factor 4 (e.g., N64 640 wide) is the result of simple bilinear upscaling
+- If bilinear upscaling is found, Decimation Factor 8 will be used (e.g., de-burring N64 640 -> 320)
+
+<br/>
+
+
 ## Version 1.8.2 (2025-05-24)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_182.zip)
@@ -50,8 +65,6 @@ SHA-256: `4bf2a7b005b7b245d2ded9a2af9a13db2ef350b03ea7c38a67de4b5606d7284b`
 - Fixed bug where changing the audio sample rate resets the gain
 
 <br/>
-
-
 
 ## Version 1.8.1 (2025-05-19)
 
