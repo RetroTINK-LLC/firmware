@@ -51,7 +51,6 @@ SHA-256: `d5d046438492397a2c14684af5d17504f7fba982905f9451eb7332270e019e07`
 
 <br/>
 
-
 ## Version 1.8.2 (2025-05-24)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_182.zip)
@@ -91,8 +90,6 @@ SHA-256: `96749cd92dc56f36e0b8da89fa0077fc46409bae9dfd091463dbe7edc728bbc7`
 
 <br/>
 
-
-
 ## Version 1.7.9 (2025-03-30)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_179b.zip)
@@ -103,7 +100,6 @@ SHA-256: `15559087d48504e01af83dc7e05e27b5b5c6b6333cc6eb79be3435a4fbe7ee77`
 - Further internal optimizations
 
 <br/>
-
 
 ## Version 1.7.8 (2025-03-26)
 
@@ -116,8 +112,6 @@ SHA-256: `595a500ce0818fd2394153c06a7b476cf15ccce4696a0020226a983fdf124679`
 
 <br/>
 
-
-
 ## Version 1.7.7 (2025-03-21)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_177.zip)
@@ -129,7 +123,6 @@ SHA-256: `57a3b0f3ca864bb829c26404fa47fda2648f0327313f518d2ca24d7c42b3bced`
 
 <br/>
 
-
 ## Version 1.7.6 (2025-03-01)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_176.zip)
@@ -140,9 +133,6 @@ SHA-256: `9b5cbbda68877334233603b7ea5f3b215c56676c4d020aec228dbd01f4752273`
 - Fixed some issues related to audio and HDR glitching through HDMI switches
 
 <br/>
-
-
-
 
 ## Version 1.7.5 (2025-02-27)
 
@@ -157,9 +147,6 @@ SHA-256: `d1db97f67d1b094b2f87218c876e46d89d96a3c8ec02a70fbd4e9c3c4f06b5fb`
 
 <br/>
 
-
-
-
 ## Version 1.7.4 (2025-02-17)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_174.zip)
@@ -171,9 +158,6 @@ SHA-256: `9ad552b6880d686d513b764d8ce7ffcdf464491ec42a3bb981c67ff688696ae2`
 - Added RT4KCE image to this package
 
 <br/>
-
-
-
 
 ## Version 1.7.2 (2025-01-11)
 
@@ -190,7 +174,6 @@ SHA-256: `bb2c56f963379e02e723b7b9d8d54284779c7efce380cd9aebe0da1a5e8cc1e9`
 
 <br/>
 
-
 ## Version 1.7.1 (2025-01-06)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_171.zip)
@@ -205,7 +188,6 @@ SHA-256: `48a9f11a84a5a3cdb1d446fd1ce79dac2a245d5099c2d928fac23116c10fe28f`
 
 <br/>
 
-
 ## Version 1.7.0 (2024-11-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_170b.zip)
@@ -216,7 +198,6 @@ SHA-256: `61a986f27ced4556250c726d8e6d1cadd2adbc6c96e58ae65e74e028325a9137`
 - Modifed S/PDIF sample rate detection
 
 <br/>
-
 
 ## Version 1.6.9 (2024-11-09)
 
@@ -230,7 +211,6 @@ SHA-256: `10edb752f03b22624fc2e2e6782752711865dcc83ca9f554028940489e7cfce7`
 - Clean up of string code
 
 <br/>
-
 
 ## Version 1.6.8 (2024-11-03)
 
@@ -247,7 +227,6 @@ SHA-256: `ce239e4c9adf2d3cfb179e67c07ba5aae41de5111929bfbffe69c620380c44d8`
 - Added ability for SVS switch to emulate IR commands over serial
 
 <br/>
-
 
 ## Version 1.6.7 (2024-11-02)
 
@@ -267,7 +246,6 @@ SHA-256: `d2fd46f04495992fad8cb1787ef1e3e0ab53e34fbcf04220d7fc40023ceb0f4b`
 - SVS CURRENT INPUT=\<input number\> is a keep alive signal that tells the RT4K a switch is connected. This should be sent ~1-2 seconds
 
 <br/>
-
 
 ## Version 1.6.6 (2024-11-01)
 
@@ -294,8 +272,6 @@ SHA-256: `9cd7cc27c2fe9a307c30b81750037ae451ead590acb3b67009e6b7ef87da6c73`
 
 <br/>
 
-
-
 ## Version 1.6.4 (2024-10-19)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_164.zip)
@@ -307,8 +283,6 @@ SHA-256: `6e73acf54b4ed616dca909f827cbd4c21296cc8c38d4b82b6ce521bef4b5941c`
 - May help prevent further video/audio drops during frame rate changes on picky equipment such as Avermedia capture cards
 
 <br/>
-
-
 
 ## Version 1.6.3 (2024-10-17)
 
@@ -322,7 +296,6 @@ SHA-256: `2ACA22CB2AF1FE75D6255E59AE19ACAC0DBE2B670FFFD3CF1D1C13EF2F8BFF0C`
 
 <br/>
 
-
 ## Version 1.6.2 (2024-10-11)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_162.zip)
@@ -335,7 +308,6 @@ SHA-256: `691B47BAB39ECB6743D6C7F6D9FFBB12F8C9C2C512B3EA3ADE2F3D514F5481DA`
 
 <br/>
 
-
 ## Version 1.6.1 (2024-10-03)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_161.zip)
@@ -347,8 +319,6 @@ SHA-256: `30AEDA50A5805709B2AF72C416BF085B5AB353B0FAB51A24F0512BABCD523DE4`
 - Fixed some bugs that was causing S/PDIF sample rate to be detected incorrectly possibly leading to audio glitches
 
 <br/>
-
-
 
 ## Version 1.6.0 (2024-09-28)
 
@@ -364,8 +334,6 @@ SHA-256: `1f5fdd17317eef0129a2d85a3be5ff6d948da68c509e5c8772e426d2b84a35ce`
 
 <br/>
 
-
-
 ## Version 1.5.9 (2024-09-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_159.zip)
@@ -377,7 +345,6 @@ SHA-256: `B9A49541FC93C654C6D07231B3297A02832387B12B7B7206FDF38A48FEED7891`
 - Fixed various collateral damage due to accomodating interlaced video in RGBHV
 
 <br/>
-
 
 ## Version 1.5.8 (2024-09-24)
 
@@ -391,7 +358,6 @@ SHA-256: `FC1196709343B7CEB5945EF511D1CDB301A6E268440174B09544CC15C99704DB`
 
 <br/>
 
-
 ## Version 1.5.7 (2024-09-23)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_157.zip)
@@ -402,7 +368,6 @@ SHA-256: `B292BFC8D976181603795365618AD546B0EB8FF376D6606AB0B0D898B3D0C823`
 - Fixed quirks that stopped interlaced video from RGBHV sources
 
 <br/>
-
 
 ## Version 1.5.6 (2024-07-24)
 
@@ -417,8 +382,6 @@ SHA-256: `80107dca81fb5bc1f73226f72da097f14885bc4e6adc1a28a58c43ae3608168f`
 
 <br/>
 
-
-
 ## Version 1.5.5 (2024-08-04)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_155.zip)
@@ -431,9 +394,6 @@ SHA-256: `b4a4fe2306d2b639978652eedde22a741d78d2c21df538df3b53bea9f6209680`
 
 <br/>
 
-
-
-
 ## Version 1.5.4 (2024-07-20)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_154d.zip)
@@ -444,7 +404,6 @@ SHA-256: `648de38e6678bbd523212ca057f58683d383dbaa209fa570159888aea1f80ad6`
 - File selection box remembers previous sub-directory and cursor position when recalled again
 
 <br/>
-
 
 ## Version 1.5.3 (2024-07-17)
 
@@ -458,9 +417,6 @@ SHA-256: `B20E8A3E520FC631BDF34394AE06EB510F27BE7E6E0C37154ECD8186C5097299`
 
 <br/>
 
-
-
-
 ## Version 1.5.2 (2024-07-14)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_152.zip)
@@ -473,9 +429,6 @@ SHA-256: `60841e9f6309f0638348a244c9073af44c17a2be7868cfd411988513ef8e30ef`
 - Shifted mask by one pipeline clock
 
 <br/>
-
-
-
 
 ## Version 1.5.1 (2024-07-12)
 
@@ -522,7 +475,6 @@ SHA-256: `39bb2edfa67585cd6c8062095cc1b09dd5f1f2f6e0695dc71eaab8c66e80581d`
 
 <br/>
 
-
 ## Version 1.4.8 (2024-06-23)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_148.zip)
@@ -534,9 +486,6 @@ SHA-256: `88cd08726be5a096a5ce959279e6b7cffd88930f4a8e1d17127c9fff552319fb`
 - Disabled 3D comb when S-Video is used
 
 <br/>
-
-
-
 
 ## Version 1.4.7 (2024-06-05)
 
@@ -554,7 +503,6 @@ SHA-256: `D7FCAA51191271BCE7CC6FC07027F95BC49976C81C27B76E6C2533AA3039C561`
 
 <br/>
 
-
 ## Version 1.4.5 (2024-05-11)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_145.zip)
@@ -567,7 +515,6 @@ SHA-256: `62db970b9608e93c266925346e62d7ed9ac5a90b28ff92ba43862a4f0ea355d8`
 - Automatic detection of out-of-order HDMI output and reset
 
 <br/>
-
 
 ## Version 1.4.4 (2024-05-09)
 
@@ -582,7 +529,6 @@ SHA-256: `7dfae4c388e44b8af86392ca3b831f3567af9a4f5facd2b5356817525d9c54c9`
 
 <br/>
 
-
 ## Version 1.4.3 (2024-05-06)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_143.zip)
@@ -594,7 +540,6 @@ SHA-256: `b42db528b24b9872fd4089e8243545baf259ca640046268cad9b96ec2d277bae`
 - Increased GENLOCK capture range to +19% to capture 70 Hz DOS sources with a 60 Hz modeline (reminder 4K70 is not supported)
 
 <br/>
-
 
 ## Version 1.4.2 (2024-04-27)
 
@@ -608,7 +553,6 @@ SHA-256: `0be711173c5b22b82d9b1643f01f7518bf07e22ce9bc2c7a9e24ab936aecbcc2`
 - Candidate for next "Official" release (again)
 
 <br/>
-
 
 ## Version 1.4.1 (2024-04-13)
 
@@ -651,7 +595,6 @@ SHA-256: `b1b61de04f32c8d8faa7e5331ebc688941ab51fb53db4f20e72eb42dcb17b284`
 
 <br/>
 
-
 ## Version 1.3.8 (2024-04-09)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_138.zip)
@@ -663,8 +606,6 @@ SHA-256: `53fbad0ce852709ed8100825dded823c479b4789f5c15b1974866cef94d1a308`
 - This feature is not Extrems Approved (tm), pls no troll
 
 <br/>
-
-
 
 ## Version 1.3.7 (2024-04-02)
 
@@ -679,8 +620,6 @@ SHA-256: `bc343aaba8b1e818292e39020d80ad49e9bcff11b5679a12182c64b39f27e9f2`
 - Max threshold added back in
 
 <br/>
-
-
 
 ## Version 1.3.6 (2024-04-01)
 
@@ -698,8 +637,6 @@ SHA-256: `4fe67d58280d160c24ef8aeb1ed1bd1d8c1a70e573dd52a5de74931b40b1e6a7`
 
 <br/>
 
-
-
 ## Version 1.3.5 (2024-03-25)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_135.zip)
@@ -712,7 +649,6 @@ SHA-256: `e41ee680f9958812126bf88ee89e1cad540b4a360df6ed272953d02d8593edf9`
 
 <br/>
 
-
 ## Version 1.3.4 (2024-03-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_134.zip)
@@ -723,7 +659,6 @@ SHA-256: `e07f92bcbe02cde0769add99b18b59d7acc4d74c1f9b712d0460bf31aae0d3f4`
 - Fixed small OSD bug in 1080p
 
 <br/>
-
 
 ## Version 1.3.3 (2024-03-13)
 
@@ -738,7 +673,6 @@ SHA-256: `b811621c6fba8e6729c0acca6b658593192ef4421cfd7b48efa309cf931db46e`
 
 <br/>
 
-
 ## Version 1.3.2 (2024-03-09)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_132.zip)
@@ -749,7 +683,6 @@ SHA-256: `ecf965ad42f3d43ef13f1c4dd51269d45633d2589566c81e3ff8c0b027ca5a98`
 - Fixed bug that broke enhanced S-video luma/chroma registration for NTSC-type sources
 
 <br/>
-
 
 ## Version 1.3.1 (2024-03-08)
 
@@ -866,7 +799,6 @@ SHA-256: `fcd9a1a7a44f02807585bc0b10c7b5ee564932133f3cd3a61b0d92529887941f`
 - Very rough draft of XBR smoothing filter (in the Image Proc. Menu)
 
 <br/>
-
 
 ## Version 1.2.3 (2024-02-11)
 
