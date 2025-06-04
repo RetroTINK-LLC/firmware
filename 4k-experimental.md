@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.8.4 (2025-06-04)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_184.zip)
+CRC-32: `428D1FFA`  
+SHA-256: `4860b93ac6adac84f29bbfbcf8456dbbcfad850e3ecc31263fc58b681813860c`
+
+### Changelog:
+- Added audio VU (peak) meter to the audio input menu
+- Real time display of audio levels for analog audio inputs to help identify clipping
+- RT4KCE looks for 'default_ce_fbx.bmp' (thank you FirebrandX for cleaning up the banner)
+- Banner supports 1 layer of subfolders
+
+<br/>
+
+
+
 ## Version 1.8.3 (2025-05-30)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_183.zip)
