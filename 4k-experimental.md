@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.8.5 (2025-06-05)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_185.zip)
+CRC-32: `1564376C`  
+SHA-256: `0101f1612eaddbeb509c689846ac2ef501d1d71f847a759aaa0ae4a4298227fa`
+
+### Changelog:
+- Added audio right/left balance control for analog sources
+
+<br/>
+
+
 ## Version 1.8.4 (2025-06-04)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_184.zip)
