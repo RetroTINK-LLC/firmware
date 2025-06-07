@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.8.6 (2025-06-07)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_186.zip)
+CRC-32: `1AF32B66`  
+SHA-256: `5450073d9a0d983214d292cbdec6d7e2bac80b0ea0498ee843ff3589254569ce`
+
+### Changelog:
+- Fixed audio balance min/max bug
+- Fixed Decimation control GUI display bug for the RT4KCE when auto sampling is enabled
+- New analog pixel edge detection algorithm to align decimation phase selection, minimizing annoying horizontal shifts when auto-phase selects a new phase position
+
+<br/>
+
+
+
 ## Version 1.8.5 (2025-06-05)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_185.zip)
