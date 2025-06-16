@@ -49,6 +49,19 @@ SHA-256: `1dfb1f1032b67994362d3115ac79c7c36d92d83f60170c5ea15f1a589bd0aa58`
 <br/>
 
 
+## Version 1.8.8 (2025-06-16)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_188.zip)
+CRC-32: `89766584`  
+SHA-256: `fdf9bb002e8837bf96b19e5b8869c36b689e1d6c967e263166269d706b384d55`
+
+### Changelog:
+- Further tuning of N64 de-blur algorithm
+- Minor optimization of Decimation 10/5 and 8/4 disambiguation
+- Modified 384 kHz audio init mode
+
+<br/>
+
 
 ## Version 1.8.6 (2025-06-07)
 
