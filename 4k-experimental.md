@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.8.9 (2025-06-17)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_189.zip)
+CRC-32: `86EC8831`  
+SHA-256: `8a106ff73dead927abfdd3bd7860cbae0feb75b4318e556e173e4bd309d3d0c9`
+
+### Changelog:
+- Further refined pixel phase detection algorithm to minimize shifting between related decimation factors (8/4, 10/5)
+- Horizontal crops and scales should be matched between the factors to minimize shifting
+- For example if decimation factor has horizontal crops of Right: 42, Left: 69 at decimation factor 8, the crop should be Right: 82, Left: 138 at decimation factor 4
+- It may be easiest to just leave all crops at 0/0 unless there is a specific need to trim the horizontal edges
+
+<br/>
+
+
+
+
 ## Version 1.8.8 (2025-06-16)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_188.zip)
