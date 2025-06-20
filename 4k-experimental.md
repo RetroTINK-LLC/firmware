@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.1 (2025-06-20)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_191.zip)
+CRC-32: `5BF7977A`  
+SHA-256: `841dc9a81a4bed33657ab291f33cf77e9a4de6eecd83382d19f443b66424e456`
+
+### Changelog:
+- New feature: Seamless 240p <-> 480i and 288p <-> 576i switches for analog video
+- Deinterlacer Menu -> Smooth I/P Switch
+- Note: once enabled, 240p/288p use the same profile settings and storage as 480i/576i
+- Note: 240p/288p will now report as 480i/576i, just like on a PVM
+
+
+<br/>
+
+
 
 ## Version 1.9.0 (2025-06-19)
 
