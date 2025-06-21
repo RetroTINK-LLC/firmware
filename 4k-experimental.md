@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.2 (2025-06-21)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_192.zip)
+CRC-32: `551D1CEB`  
+SHA-256: `be781bc22601f216af10835e8093d1779e53740062d4122847c7a0bc551db8b1`
+
+### Changelog:
+- Fixed bug that prevented smooth I/P from working on 288p/576i sources
+- Tweaks to auto decimation detection algorithm
+- Cleaned up SDP menu layout for CE model to expose sync and standard controls
+
+<br/>
+
+
+
 ## Version 1.9.1 (2025-06-20)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_191.zip)
@@ -48,8 +63,6 @@ SHA-256: `841dc9a81a4bed33657ab291f33cf77e9a4de6eecd83382d19f443b66424e456`
 - Deinterlacer Menu -> Smooth I/P Switch
 - Note: once enabled, 240p/288p use the same profile settings and storage as 480i/576i
 - Note: 240p/288p will now report as 480i/576i, just like on a PVM
-
-
 <br/>
 
 
