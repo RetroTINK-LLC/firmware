@@ -52,6 +52,19 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 3.97 (2025-06-25)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V397.zip)
+CRC-32: `EC4D2AC6`  
+SHA-256: `9869d3478842528fc6b5d1075a4fcc7de803e822564a194e252e1c8da4e8c923`
+
+### Changelog:
+- Added Smooth I/P change feature in the Vertical Interpolation menu
+- Minimizes 240p/288p <-> 480/576i glitches
+- For proper CRT-style scanlines, set Deinterlacer to Bob and turn on CRT-sim
+
+<br/>
+
+
 ## Version 3.96 (2024-10-13)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V396.zip)
 CRC-32: `0F7FACE0`  
