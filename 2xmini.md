@@ -48,6 +48,19 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+## Version 1.3
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Mini/RT2X_MINI_V13.hex)
+CRC-32: `D92233C0`  
+SHA-256: `004f8ceeb9b8a130e1b736936fc4f8289826dd78d3c5b690f560d46533060c7e`
+
+### Changelog:
+-Fixed issue with loss of filter state on signal loss.
+
+<br/>
+
+
+
 ## Version 1.2
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-2X%20Mini/RT2X_MINI_V12.hex)
