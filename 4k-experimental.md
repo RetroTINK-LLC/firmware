@@ -39,9 +39,9 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 ## Version 1.9.4 (2025-07-17)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_194b.zip)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_194c.zip)
 CRC-32: `3998F3E4`  
-SHA-256: `bfac76d9c78a5a709557e056ca004356f96a2d6bf1ee5a77e68d39d412926530`
+SHA-256: `9678956084c7b672ee703da83c8b86ffb7186ae5995c4aa7b464b9c6145c3c56`
 
 ### Changelog:
 - Adjusted analog sync parameters
@@ -53,7 +53,7 @@ SHA-256: `bfac76d9c78a5a709557e056ca004356f96a2d6bf1ee5a77e68d39d412926530`
 ## Version 1.9.3 (2025-06-22)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_193.zip)
-CRC-32: `C76F8E44`  
+CRC-32: `D25C9C9C`  
 SHA-256: `ea3586fbdf3eba2cdcc2f7c713076c710b263437a6f01f3c690df583972eeabc`
 
 ### Changelog:
