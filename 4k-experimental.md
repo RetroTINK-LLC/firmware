@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.4 (2025-07-17)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_194.zip)
+CRC-32: `BA287940`  
+SHA-256: `e75e82726fccf3eae3db389b15f8451c1c7456ddf95467fa56637a3967d6a46c`
+
+### Changelog:
+- Adjusted analog sync parameters
+- Redistributed quantization error for Biliner Soft filtering
+
+<br/>
+
+
 ## Version 1.9.3 (2025-06-22)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_193.zip)
@@ -50,8 +63,6 @@ SHA-256: `ea3586fbdf3eba2cdcc2f7c713076c710b263437a6f01f3c690df583972eeabc`
 - Enabled Smooth I/P for HDMI sources. Note: slow response on the HDMI source side as well as functions like DV1 auto crop may cause the transition to have glitches.
 
 <br/>
-
-
 
 
 ## Version 1.9.2 (2025-06-21)
