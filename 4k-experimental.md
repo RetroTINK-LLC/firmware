@@ -46,6 +46,7 @@ SHA-256: `9678956084c7b672ee703da83c8b86ffb7186ae5995c4aa7b464b9c6145c3c56`
 ### Changelog:
 - Adjusted analog sync parameters
 - Redistributed quantization error for Biliner Soft filtering
+- Sub-verson c
 
 <br/>
 
