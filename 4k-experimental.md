@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.7 (2025-09-04)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_197.zip)
+CRC-32: `39D7B736`  
+SHA-256: `25cf947b90e30ba1d44f3c4155dc1efd99c9efc4f6dfc277a4e8911fe9965c56`
+
+### Changelog:
+- Modified auto-gain analyze post-decimation data rather than pre-decimation data to avoid false detecting on artifacts
+- Added NTSC-50 support (untested)
+- Added the ability to decode SDP signals into an expanded Rec. 2020 gamut to preserve "illegal" colors from invalid YCbCr values (e.g., blue-purple sky in SMB1)
+- Recoded Rec. 709 RGB values less than 0 and greater than 255 are preserved and converted to Rec. 2020
+- Mimics the behavior of a purely analog decoder/CRT where the electron guns can be overdriven
+- A linear light pipeline (e.g., input gamma = 2.2) MUST be used for this to work properly
+- Two example profiles are included
+
+<br/>
+
+
 ## Version 1.9.6 (2025-08-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_196.zip)
