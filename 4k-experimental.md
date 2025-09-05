@@ -44,6 +44,7 @@ CRC-32: `39D7B736`
 SHA-256: `25cf947b90e30ba1d44f3c4155dc1efd99c9efc4f6dfc277a4e8911fe9965c56`
 
 ### Changelog:
+- WARNING: HIGHLY EXPERIMENTAL BUILD, PLEASE USE 1.9.6 UNLESS YOU WANT TO TRY THE EXPANDED GAMUT
 - Modified auto-gain analyze post-decimation data rather than pre-decimation data to avoid false detecting on artifacts
 - Added NTSC-50 support (untested)
 - Added the ability to decode SDP signals into an expanded Rec. 2020 gamut to preserve "illegal" colors from invalid YCbCr values (e.g., blue-purple sky in SMB1)
