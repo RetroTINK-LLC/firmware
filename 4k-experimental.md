@@ -37,6 +37,26 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.8 (2025-09-06)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_198.zip)
+CRC-32: `BDEDEA0E`  
+SHA-256: `8ef21766c10c0299b66969110dd36f46552b13514267b738c898b45c165ca195`
+
+### Changelog:
+- Reworked the expanded gamut pipeline due to some math errors and reduce resource usage
+- Linear light (e.g., input gamma = 2.2/2.4) or HDR pipeline must be enabled for this to work
+- Check SMB1 sky or NES Kirby sky (and other blue-ish tones)
+- Biggest difference found thus far is allowing the blue channel to be overddriven as a result of NES illegal colors
+- Pale purple/blue from clipped illegal colors -> intense blue (with slight purple cast)
+- Three example profiles are included
+- Still considered highly experimental until further notice
+
+<br/>
+
+
+
+
 ## Version 1.9.7 (2025-09-04)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_197.zip)
