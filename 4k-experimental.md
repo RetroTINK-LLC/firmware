@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.9 (2025-09-14)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199.zip)
+CRC-32: `943EFA43`  
+SHA-256: `f0503a7e646994cd50cbab5b90c92603d0ed170f1d2f967ddc9222822c163418`
+
+### Changelog:
+- Increased the headroom for the SDP expanded gamut due to feedback about how high the illegal RGB codes can get from sources like the NES
+- Set the default SDP contrast (gain) to -20 (old) to 0 (new), old profiles are automatically adjusted upon loading
+- SD card removal exits the file load menu and causes the directory to be re-read to avoid stale data
+
+<br/>
+
+
 ## Version 1.9.8 (2025-09-06)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_198.zip)
@@ -53,9 +67,6 @@ SHA-256: `8ef21766c10c0299b66969110dd36f46552b13514267b738c898b45c165ca195`
 - Still considered highly experimental until further notice
 
 <br/>
-
-
-
 
 ## Version 1.9.7 (2025-09-04)
 
