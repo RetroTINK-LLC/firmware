@@ -8,7 +8,9 @@ Palette Files:
 
 2. 'rt4k_nes_hdr_soft_clamp' - Applies a knee function to RGB values >1.0 to reduce the oversaturation of the illegal color codes and may more accurately simulate how an analog TV would have responded.
 
-3. 'rtk4_news_hdr_med_clamp' - A stronger knee function to further limit the excurision of the illegal color codes.
+3. 'rtk4_nes_hdr_med_clamp' - A stronger knee function to further limit the excurision of the illegal color codes.
+
+4. 'rt4k_sony_hdr_no_knee' - Palette based on 'Sony' NTSC decoders, which produce a less color saturated result.
 
 
 Instructions:
