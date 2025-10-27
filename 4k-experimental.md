@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.9.1 (2025-10-27)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1991.zip)
+CRC-32: `C26A721A`  
+SHA-256: `71833408930131e96fdc60d54b94adc8309bcb90e2a7d462a841bcb6148a65bb`
+
+### Changelog:
+- (re) Fixed 1024 x 768 but off in RT4KCE
+- Enabled AUD and COL buttons on RT4KCE
+- RT4KCE confirmed uses the same multi-field motion detection for Motion Adaptive Deinterlace as RT4KPRO
+- Migration to Quartus 24.1 toolchain and IP blocks
+- Clean up and re-work of edge adaptive interpoaltion code that caused timing congestion
+
+<br/>
+
+
+
 ## Version 1.9.9 (2025-09-14)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199.zip)
