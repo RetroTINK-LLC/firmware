@@ -19,6 +19,27 @@ title: RetroTINK-4K SD Card Images
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.6 (2025-11-04)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_196_sdcard.zip)
+CRC-32: `E117390F`  
+SHA-256: `81d19f88bff2c950f2bc72e01299ab7fc89bdbc1157efd1817db048bc24800e6`
+
+### Changelog:
+- Added "Smooth I/P" to enable nearly seamless and glitch free 240p <-> 480i transistions
+- Added "TBC" to the list of sync options: similar to Gen-Lock but with additional filtering and slower convergence
+- Added "Adaptive Triple Buffer" that switches to a buffered 50 Hz mode when the source switches from ~60 Hz to ~50 Hz
+- Added "Target Decimate" to the HDMI Input menu for Analogue and MiSTer use to keep the output pixels within a certain range for CRT effects
+- Added 192 kHz the the list of possible audio ADC sample rates
+- Added a VU meter to the Audio menu to help calibrate audio sources and avoid clipping
+- Added CRT beam simulation to the BFI modes to generate a rolling BFI with control of "phospher" glow and steepness
+- Many thanks to the community for the updated profiles! Check the folders for detailed notes
+
+<br/>
+
+
+
+
 ## Version 1.6.9 (2024-11-24)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_169_sdcard.zip)
@@ -41,7 +62,7 @@ SHA-256: `dbb7b111dd1e6e1b41bf997774cca5ed31f93da3ce0904e804a08418a9ca44f8`
 
 ## Version 1.5.4 (2024-07-21)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_154_sdcardd.zip)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_154_sdcard.zip)
 CRC-32: `1B098F3B`  
 SHA-256: `75686dda487b0fe9cf9cfeb56e124109e71d8c58e94d60c0ce151b57a151e1f6`
 
