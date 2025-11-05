@@ -22,8 +22,8 @@ title: RetroTINK-4K SD Card Images
 ## Version 1.9.6 (2025-11-04)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_196_sdcard.zip)
-CRC-32: `E117390F`  
-SHA-256: `81d19f88bff2c950f2bc72e01299ab7fc89bdbc1157efd1817db048bc24800e6`
+CRC-32: `1E1F5AF3`  
+SHA-256: `c47b53a486b46fda7e8d017f50aab020b0790a0d748185bb0e779a5c383208b8`
 
 ### Changelog:
 - Added "Smooth I/P" to enable nearly seamless and glitch free 240p <-> 480i transistions
