@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.9.2 (2025-11-08)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1992.zip)
+CRC-32: `56EB2A4D`  
+SHA-256: `8c03c844651790184ad1bf5eecf56ae60c7e9f21360279098649bd8e2494c35d`
+
+### Changelog:
+- Added real time clipping indicators when adjusting ADC offset, gain and SDP contrast, brightness
+- Red indicates pixel is at maximum value, blue indicates pixel is at minimum value
+- Threshold is 0 to 255 for analog RGB/YPbPr
+- Threshold is 16 to 235 for decoder
+
+<br/>
+
+
+
 ## Version 1.9.9.1 (2025-10-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1991.zip)
@@ -51,7 +67,6 @@ SHA-256: `71833408930131e96fdc60d54b94adc8309bcb90e2a7d462a841bcb6148a65bb`
 - Clean up and re-work of edge adaptive interpoaltion code that caused timing congestion
 
 <br/>
-
 
 
 ## Version 1.9.9 (2025-09-14)
