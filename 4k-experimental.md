@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.9.3 (2025-11-12)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1993.zip)
+CRC-32: `2BF01028`  
+SHA-256: `57489ab3fe33c2d23bae09de3cc02b96f975812885c1b4d862c101faf968b673`
+
+### Changelog:
+- Added "Variable MPRT" to the BFI modes [RT4K Pro Only] credit to Timothy Lottes for the algorithm and Blur Busters for his advice
+- Reduces loss of brightness while still maintaining motion clarity compared to standard BFI modes
+- Similar overall effect to CRT phospher decay
+- Use the gain control to adjust the overall brightness
+- Need to be in linear light mode (e.g., input/output gamma = 2.2)
+- Fixed bug that programmed the wrong CSC for the front S-video port
+
+<br/>
+
+
+
 ## Version 1.9.9.2 (2025-11-08)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1992.zip)
@@ -50,8 +68,6 @@ SHA-256: `8c03c844651790184ad1bf5eecf56ae60c7e9f21360279098649bd8e2494c35d`
 - Threshold is 16 to 235 for decoder
 
 <br/>
-
-
 
 ## Version 1.9.9.1 (2025-10-27)
 
