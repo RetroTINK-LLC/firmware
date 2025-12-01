@@ -37,6 +37,32 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+
+## Version 1.9.9.5 (2025-12-01)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1995.zip)
+CRC-32: `03992353`  
+SHA-256: `6f6101668fa0d6c203cfdc2da66ff57ac27c65b436b855f211e12a7e5340d23b`
+
+### Changelog:
+- Added Energy Conservation Scanlines (credit to Tim Lottes for the algorithm)
+- Energy Conservation allows for scanline effects WITHOUT losing (much) brightness or shifting the gamma curve unlike standard methods
+- Bright enough to use in SDR, without relying on HDR modes, which not all displays support or support accurately
+- For analog sources, be sure to properly calibrate the gain first, otherwise scanline will be too thin
+- Energy Conservation Scanline generation works seperately from the Vertical Interpolator
+- Use the Vertical Interpolator can be used to further shape the response (suggested Cubic or Biliner Soft)
+- Processing pipeline MUST be operating in linear light mode (input gamma = 2.2/2.4, output gamma = 2.2/2.4)
+- Example profiles included for energy conservation as well as use with MPRT in a 3840 x 1080p modeline (see below)
+- Added support to automatically for non-square output pixels such as 3840 x 1080p
+- Example Modeline: "3840, 176, 88, 560, 1, 1080, 4, 5, 45, 1, 120, "3840x1080p120", 0, 2.0"
+- New parameter at the end "2.0" tells the scaler to stretch by 2x in the horizontal
+- Added support for auto-rotation in MiSTer DV1 (untested)
+- Possibly fixed a bug with incorrect frame being latched in some BFI modes causing a skip as the genlock converges
+
+<br/>
+
+
+
 ## Version 1.9.9.4 (2025-11-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1994.zip)
@@ -47,7 +73,6 @@ SHA-256: `a536f2093be5235beec75591dd56d71a6a85fc481a8cff10d2cf4d0d31ffb692`
 - Variable MPRT Black Frame Insertion added to the RT4KCE
 
 <br/>
-
 
 ## Version 1.9.9.3 (2025-11-12)
 
