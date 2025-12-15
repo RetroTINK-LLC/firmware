@@ -37,6 +37,30 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.9.6 (2025-12-15)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1996.zip)
+CRC-32: `FBE95928`  
+SHA-256: `02c8ed818ce793b6fa6eb7165fc22bb4b41fb7e5018944d3c78dc01df2f3e5fc`
+
+### Changelog:
+- Added Spatial Redistribution Masks (credit to Tim Lottes for the algorithm)
+- Mask enable now has 'Multiply' (previous algoirthm) and the new 'Spatial Redistribution' which minimizes brightness loss
+- Same mask format (BMP_ as before with a few restrictions
+- The same color cannot be on at both the left and right edge of the mask
+- The same color cannot be on more than two pixels in a row
+- Any value >0 will be interpreted as 'On' while a value of 0 is 'off'
+- Alpha mask is not applicable for Spatial Redistribution
+- Invalid masks will be automatically detected and the 'Multiply' algorithm applied instead
+- Spatial Redistribution works best for dense Aperture Grille type masks
+- Adjusted Energy Conservation beam spread algorithm to make it more effective
+- Tweaked 240p/288p/480i/576i sync thresholds
+- Tweaked Wide Tolerance field detection
+- Fixed inverted logic for auto DV1 RoTATE
+- Includes a few example profiles combining Energy Conservation scanlines and Spatial Redistribution Masks
+
+<br/>
+
 
 ## Version 1.9.9.5 (2025-12-01)
 
