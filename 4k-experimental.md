@@ -37,6 +37,26 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.9.7 (2025-12-30)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1997.zip)
+CRC-32: `25E41F4C`  
+SHA-256: `63c09f6474db3331368ebe913cedc9c2092ee4009416e927d1759139a125c767`
+
+### Changelog:
+- Removed the 'Red Bleed' function (which was always marginal)
+- Replaced with 'Normalize Energy'
+- Applies Energy Conservation to the standard scanline system
+- Best of both worlds: standard scanlines are better at fractional scales, have softer edges/superior blending
+- 'Normalize Energy' restores the brightness lost/gamma shift/black crush once 'Intensity Modulation' is applied
+- Need to be in linear light (input gamma = 2.2 to 2.4, output gamma = 2.2 to 2.4)
+- Works in HDR
+
+<br/>
+
+
+
+
 ## Version 1.9.9.6 (2025-12-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1996.zip)
