@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.9.9 (2026-04-29)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1999.zip)
+CRC-32: `EA38A114`  
+SHA-256: `37cd5c7857ee32a24d8236f418a74258a14a49afcb8c6e2be94251e04cae7577`
+
+### Changelog:
+- Internal optimizations / bug fixes
+- Adjusted RAM read/write size calculations further for analog video sources
+- Stable candidate incoproating all the changes since 1.9.6
+
+<br/>
+
+
 ## Version 1.9.9.8 (2026-02-14)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1998ffs.zip)
