@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.9.9.9.9 (2026-05-06)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19999.zip)
+CRC-32: `DDB344D5`  
+SHA-256: `15936424b290da8ff916554acfcefca26cf95dc4fd12175cad58d10b0adf24cd`
+
+### Changelog:
+- Rolled back VESA freesync to old format. Thanks to everyone in the Tink discord who helped test.
+
+<br/>
+
+
 ## Version 1.9.9.A (2026-05-04)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199A.zip)
