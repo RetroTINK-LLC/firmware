@@ -52,6 +52,29 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 <br/>
 
+
+## Version 4.00 (2026-05-16)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V400.zip)
+CRC-32: `25BE5E02`  
+SHA-256: `987bb1ed5ff61b79044104194115f57ea7b11c0481dc297036d7b1e011200708`
+
+### Changelog:
+- Version 4.0 "CRT Simulation Edition"
+- Ported RT4K RGB 4:4:4 12bpc Linear Light pipeline
+- Outputs true HDR10/HLG with Rec. 2020 conversion and adjustable PQ
+- Scanline engine supports Energy Normalization
+- RGB Shadowmask and new CRT presets
+- "Quasi-4K" modes with 3880x960, 2880x1200, 2880x1080 output for full native horizontal resolution on 4K TVs to preserve mask quality
+- Limitations
+--Rev A (Launch PCBs) may be capped to 1080p until the Gen Lock code is rewritten
+--Rev B (before mid-2022) have degraded shadow mask quality, the mask may need to be changed to a mono type
+--Rev C, the majority of units made, have no limits
+--Current build does not have inverse telecine or MADI, which requires further and extensive re-optimization and memory management.
+-This branch is focused on maximizing the quality of CRT effects and plug and play operation (generic sampling, CRT-sim deinterlace, etc.)
+
+<br/>
+
+
 ## Version 3.97 (2025-06-25)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V397.zip)
 CRC-32: `EC4D2AC6`  
