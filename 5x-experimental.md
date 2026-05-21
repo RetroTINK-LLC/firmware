@@ -53,6 +53,23 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 <br/>
 
 
+## Version 4.01 (2026-05-21)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V401.zip)
+CRC-32: `918EC3A9`  
+SHA-256: `e337ffc7277c8c5e78833d90c77ecc4431a19bc4b774976033f0f4244f3efb9d`
+
+### Changelog:
+- 1080p50 modes now all use the canonical CEA-861 timings at 148.5 MHz instead of the 60 Hz version.
+- 60 Hz and 50 Hz sources have independent output resolution selection.
+- "Lock to 60 Hz" behavior is cleaned up - enabling means 50 Hz sources use the 60 Hz selected output mode and triple buffer to 60 Hz.
+- Sink EDID is parsed to detect if HDR10 is supported.
+- HDR setting in the HDMI menu is now default "Auto". If a display supports HDR10, it is automatically enabled for CRT presets only if the display supports it. The HDR mode can also be forced to HDR10, HLG or off for all cases.
+
+<br/>
+
+
+
+
 ## Version 4.00 (2026-05-16)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V400.zip)
 CRC-32: `25BE5E02`  
@@ -64,7 +81,7 @@ SHA-256: `987bb1ed5ff61b79044104194115f57ea7b11c0481dc297036d7b1e011200708`
 - Outputs true HDR10/HLG with Rec. 2020 conversion and adjustable PQ
 - Scanline engine supports Energy Normalization
 - RGB Shadowmask and new CRT presets
-- "Quasi-4K" modes with 3880x960, 2880x1200, 2880x1080 output for full native horizontal resolution on 4K TVs to preserve mask quality
+- "Quasi-4K" modes with 3840x960, 2880x1200, 2880x1080 output for full native horizontal resolution on 4K TVs to preserve mask quality
 - Limitations
 --Rev A (Launch PCBs) may be capped to 1080p until the Gen Lock code is rewritten
 --Rev B (before mid-2022) have degraded shadow mask quality, the mask may need to be changed to a mono type
