@@ -47,7 +47,7 @@ SHA-256: `bb8f0e5a0e098f0647d48d360aafd5a98ba329ebdb70b6c162f1728038f0857d`
 ### Changelog:
 - Fixed deep buried logic error that prevented CRT simulation (alternating scanlines) deinterlacing from working in 120 Hz / 240 Hz / etc
 - Internal clean up
-- Reset the verion count system
+- Reset the version count system
 
 <br/>
 
