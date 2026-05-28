@@ -40,9 +40,9 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 ## Version 1.10.0 (2026-05-26)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1100.zip)
-CRC-32: `C157F3F7`  
-SHA-256: `bb8f0e5a0e098f0647d48d360aafd5a98ba329ebdb70b6c162f1728038f0857d`
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1100b.zip)
+CRC-32: `D6EB7FB0`  
+SHA-256: `7d0ab781f7bb06ff59477686d2309d45dfb692ee796acc228e6ec5fc7461357a`
 
 ### Changelog:
 - Fixed deep buried logic error that prevented CRT simulation (alternating scanlines) deinterlacing from working in 120 Hz / 240 Hz / etc
