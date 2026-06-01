@@ -54,8 +54,8 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 
 ## Version 4.02 (2026-06-01)
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V402.zip)
-CRC-32: `4C75B56E`  
-SHA-256: `e19e4f474af6d86ef701f7f77eb26cfbbc3d8928f04c94b87521277932d2e166`
+CRC-32: `EDF0753E`  
+SHA-256: `17e20d52bc88bb525c4d517893d7d005b8bf197005feca6a0bfa9ade120bc114`
 
 ### Changelog:
 - Removed "Smoothing" (not present) from the vertical interpolation options and repalced with with Off/Nearest Neighbor
