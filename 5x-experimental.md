@@ -53,7 +53,7 @@ Big thanks to [RetroRGB](https://www.retrorgb.com/how-to-update-your-retrotinks-
 <br/>
 
 ## Version 4.02 (2026-06-01)
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V401.zip)
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-5X%20Pro/Experimental/RT5X SDRAM V402.zip)
 CRC-32: `4C75B56E`  
 SHA-256: `e19e4f474af6d86ef701f7f77eb26cfbbc3d8928f04c94b87521277932d2e166`
 
