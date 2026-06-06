@@ -37,6 +37,25 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.21.0 (2026-06-05)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1210.zip)
+CRC-32: `CA5B15CC`  
+SHA-256: `eef625d6e756375d336dbb9d9c3a30069f168e5cb0be8757bc80ee9829581423`
+
+### Changelog:
+- Modeline slots 3/4 are now user definable by loading a file from the /modelines folder
+- 3/4 opens a file dialog box after which the selectede modeline is immediately loaded
+- Once loaded, it can also be recalled with custom resolution 3/4 button on the remote
+- If nothing is specified, 3/4 loads custom3/4.txt as before
+- 3/4 are saved on a per profile basis
+- BFI menu now displays the exact BFI pattern to help visualize blur/strobe
+
+
+<br/>
+
+
+
 ## Version 1.17.0 (2026-05-31)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1170.zip)
