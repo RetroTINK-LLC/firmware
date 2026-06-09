@@ -37,6 +37,27 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.23.0 (2026-06-08)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1230.zip)
+CRC-32: `4FDBFCDE`  
+SHA-256: `2a1ec85b1462e4b0fc350f75a28a98960e507079673a4c9ac08b17c29e3eedd5`
+
+### Changelog:
+- Fixed custom modeline loading glitch that caused the incorrect paramters to be loaded when the same slot is used twice in a row
+- Cleaned up BFI menu: Blur is no longer adjustable in MPRT and CRT Sim modes since Blur is not applicable
+- Cleaned up BFI pattern visualization for MPRT and CRT Sim modes
+- Added new scaling modes: Auto Fill Int+, Auto Fill Int HV, Auto Fill Int HV+ (useful for console optimal sampling modes)
+--Auto Fill Int+ rounds the vertical factor: similar to 1080pOver on the 5X
+--Auto Fill Int HV is takes the Auto Fill Int result, calculates the horizontal based on the PAR, and rounds the Horizontal to the nearest integer value
+--Auto Fill Int HV+ is the same idea but overscans the vertical factor
+--Useful to acheive ultra sharp pixels while attempting to maintain a reasonable final AR approximation
+
+
+<br/>
+
+
+
 ## Version 1.21.0 (2026-06-05)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1210.zip)
