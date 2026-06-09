@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.24.0 (2026-06-09)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1240.zip)
+CRC-32: `AF7943B1`  
+SHA-256: `e5d677fb0e62e1371046322bc4397370422cb369d44f4003c216d4ab24fd5994`
+
+### Changelog:
+- New "Keep Cur. Input" and "Keep Cur. Res" options in the Load Profile menu. When you manually load a profile, these let you stay on your current input and/or resolution instead of switching to whatever the profile was saved with.
+- "Keep Cur. Res" has "Off", "On" and "On + Auto Scale".
+- "On + Auto Scale" analyzes the scaling mode and settings in the profiles and resizes the picture proportionally to intelligently translate the scaling settings from the profile's output resolution to the current output resolution.
+- These two settings are profile invariant (globally applied not locked to a profile).
+- These two settings do NOT apply to profiles autoloaded for SVS or DV1 (for obvious reasons).
+
+<br/>
+
+
+
 ## Version 1.23.0 (2026-06-08)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1230.zip)
