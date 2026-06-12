@@ -37,6 +37,26 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+
+## Version 1.27.0 (2026-06-12)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1270.zip)
+CRC-32: `0ABFCCD6`  
+SHA-256: `22b499006d40a96dcaa70ce9dfd8b3036b51ef279e513c0ef33cf6de0668f3ca`
+
+### Changelog:
+- Fixed edge case in Int+ and Int HV+ mode where if the factor is already a perfect integer, the scaling does not jump up to the next highest integer factor.
+- New "Vertical Pan" control for the Auto Fill Int+ and Auto Fill Int HV+ scaling modes. Slides the picture up or down within the vertical overscan to help optimize the viewable portion without having to go through the more complex process of manually trimming both the top and bottom crop controls.
+- New "Simple Mode" (Beta): a streamlined, single-page menu with the basics (input source, output resolution, profiles, and basic picture controls) plus a short on-screen tip for whatever item is highlighted. Turn it on under OSD/Firmware by selecting "Switch to Simple Mode", and use "Switch to Regular Mode" to leave. Your choice is remembered across power cycles.
+- Simple Mode is an opt-in beta we're putting out for feedback. Please report anything confusing or unclear, especially the on-screen tips and the way profiles load and save.
+- "Browse Starter Packs" loads ready-made profiles from the /profile/_starter folder on the SD card. Currently this folder is mostly empty with a few new CRT profiles for fun and some example console profiles. If this feature rolls out permanently, we will need to curate it.
+- In Simple Mode, loading a profile that wasn't saved on this unit (for example a Starter Pack, or a profile made on another device) keeps your current input and output resolution and only applies the picture settings, so a Starter Pack won't unexpectedly change your input or screen resolution.
+- In Simple Mode, once you save a profile on this exact unit, loading it afterward also restores its saved input source and output resolution.
+
+<br/>
+
+
+
 ## Version 1.24.0 (2026-06-09)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1240.zip)
