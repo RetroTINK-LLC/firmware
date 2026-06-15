@@ -37,6 +37,27 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.28.0 (2026-06-15)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1280.zip)
+CRC-32: `80F341DE`  
+SHA-256: `8e8b4066c597b8db4aaa9794bb8c78c6f6c992bade6cc5b54b640679816f8519`
+
+### Changelog:
+- Adaptive Triple Buffer is now the default mode.
+- Adaptive Triple Buffer now also selects the true 50 Hz or 60 Hz CEA-861 variant rather than simply adjusting the clock.
+- This should eliminate edge cases where some TVs reject for example, 4K60 CEA-861 timings but clocked at 50 Hz.
+- Automatic timing switching also applied to Gen Lock and Frame Lock modes.
+- Buffering menu reordered: Adaptive Triple Buffer (default), Gen Lock, Frame Lock, TBC, Triple Buffer (last). Existing profiles migrate automatically.
+- AUX 8 button is now mapped to pull up the Regular menu if in Simple Mode and vice versa. This allows users quick access to the alternate system without switching modes.
+- Fixed loading custom IR remote code sets (ir_remote.txt) from the SD card, including remotes that use higher address codes.
+- Vertical Pan readout now shows the scale factor (e.g. 6x).
+
+<br/>
+
+
+
+
 
 ## Version 1.27.0 (2026-06-12)
 
