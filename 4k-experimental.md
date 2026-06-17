@@ -37,6 +37,27 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.31.0 (2026-06-17)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1310.zip)
+CRC-32: `527697DC`  
+SHA-256: `120b525dd83a3186014a7a44f33578f6cbc48adbc059a6b21650b0477b3640fc`
+
+### Changelog:
+- "Simple" and "Regular" mode now unified.
+- "Simple mode" replaces page 1 of the "Regular" menu.
+- As before, profiles loaded via Browse Starter Packs retains the current input and resolution until it is saved on the same unit.
+- Accordingly, the HDMI output link goes to the full HDMI menu and the Profiles link goes to the full profile management menu.
+- AUX 8 remains a quick shortcut to the Advanced Settings page.
+- EDTV mode added to the "Sample Rate Detection" menu. Enabling EDTV mode sets the sample rate to 3432 (480p) and 3456 (576p) with a decimation factor of 4 with auto phase possible (Pro models)
+- Folders may optionally contain an "_info.txt". If present, the contents will be rendered at the bottom of the file selection menu.
+
+
+<br/>
+
+
+
+
 ## Version 1.28.0 (2026-06-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1280.zip)
