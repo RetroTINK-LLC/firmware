@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.37.0 (2026-06-23)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1370.zip)
+CRC-32: `2C7CB7A4`  
+SHA-256: `eeef4ffa79217da94f4139af34e680fc27f9c74870192978ed70ec356d237595`
+
+### Changelog:
+- Smooth I/P no longer incurs a vertical sharpness loss when Bilinear Sharp is used and the underlying source image is progressive.
+- Folder notes (_info.txt) ncan now take up nearly the entire height of the OSD.
+- Reworked the scaler mode help/tips thanks to Mr. Moro.
+
+
+<br/>
+
+
+
+
 ## Version 1.31.0 (2026-06-17)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1310.zip)
