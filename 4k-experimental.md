@@ -39,9 +39,9 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 ## Version 1.42.0 (2026-06-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1420.zip)
-CRC-32: `E4A32D14`  
-SHA-256: `5b58f3800dabc2df6ba89911ebdf0f745e6319c08bc4962ee4712d96b86d089d`
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1420b.zip)
+CRC-32: `FD153E62`  
+SHA-256: `ab5772baef45420690f0667273cca3296e8b9cecc8d2cc072b3fb367841104db`
 
 ### Changelog:
 - EDTV Sample Rate Detection is now Off/On/On+VGA.
