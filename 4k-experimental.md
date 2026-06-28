@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.42.0 (2026-06-27)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1420.zip)
+CRC-32: `E4A32D14`  
+SHA-256: `5b58f3800dabc2df6ba89911ebdf0f745e6319c08bc4962ee4712d96b86d089d`
+
+### Changelog:
+- EDTV Sample Rate Detection is now Off/On/On+VGA.
+- On+VGA applies the CEA-861 timing when 480p type signals are detected on RGBHV (useful for Dreamcast).
+- Sample Rate Detection adds Link Scaler/Vert.
+- Turning Link Scaler/Vert. means that all decimation factors use the same base scaling mode and vertical scaling factor.
+- Useful if you only want to define the horizontal settings for each decimation factor but want the vertical settings to be universal.
+
+<br/>
+
+
+
 ## Version 1.40.0 (2026-06-25)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1400.zip)
