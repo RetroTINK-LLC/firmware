@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.44.0 (2026-06-29)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1440.zip)
+CRC-32: `55AFCDC4`  
+SHA-256: `71854f25d001e8e77b99264c940d484e425ae368097827110a1a1efb3b5abd91`
+
+### Changelog:
+- Fixed bug introduced a few versions ago where horizontal scaling changes were no long smooth
+- AUX4 now resets input crops to their base position
+- Fixed edge case handling of custom modelines from the sd card. Keep Cur. Res. only works for slots 1/2 (the universal ones) since otherwise it would overwrite the profile's existing data.
+- Added "Native Sampling" to Video ADC menu. For applicable modes (Auto Fill, Proportional, Auto Fill Int/+ and where a know PAR is present or Free Form), the ADC sample rate will automatically track such that no horizontal scaling is needed.
+- Note: the ADC has a maximum sample rate of 4095 and that CE models have a maximum input width of ~2048, so at 4K resolutions, this feature works only on the Pro model. For out of bound values, the ADC sample rate is set to the maximum and the horizontal scaler is used.
+
+<br/>
+
+
+
+
 ## Version 1.42.0 (2026-06-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1420b.zip)
@@ -53,7 +71,6 @@ SHA-256: `ab5772baef45420690f0667273cca3296e8b9cecc8d2cc072b3fb367841104db`
 <br/>
 
 
-
 ## Version 1.40.0 (2026-06-25)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1400.zip)
@@ -64,7 +81,6 @@ SHA-256: `e3ca75c3974fc950bdaa9b0807db6b96e1095c431f9c4474624a52197e0c0f4c`
 - Internal optimizations
 
 <br/>
-
 
 
 ## Version 1.37.0 (2026-06-23)
