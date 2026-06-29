@@ -44,8 +44,8 @@ CRC-32: `55AFCDC4`
 SHA-256: `71854f25d001e8e77b99264c940d484e425ae368097827110a1a1efb3b5abd91`
 
 ### Changelog:
-- Fixed bug introduced a few versions ago where horizontal scaling changes were no long smooth
-- AUX4 now resets input crops to their base position
+- Fixed bug introduced a few versions ago where horizontal scaling changes were no long smooth.
+- AUX4 now resets input crops to their base position (thank you cobhc for the idea).
 - Fixed edge case handling of custom modelines from the sd card. Keep Cur. Res. only works for slots 1/2 (the universal ones) since otherwise it would overwrite the profile's existing data.
 - Added "Native Sampling" to Video ADC menu. For applicable modes (Auto Fill, Proportional, Auto Fill Int/+ and where a know PAR is present or Free Form), the ADC sample rate will automatically track such that no horizontal scaling is needed.
 - Note: the ADC has a maximum sample rate of 4095 and that CE models have a maximum input width of ~2048, so at 4K resolutions, this feature works only on the Pro model. For out of bound values, the ADC sample rate is set to the maximum and the horizontal scaler is used.
