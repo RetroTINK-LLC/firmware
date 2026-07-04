@@ -57,4 +57,14 @@ plugins:
 #   - vendor/ruby/
 
 exclude:
-   - ./README.md
+   - README.md
+   - RetroTINK-4K
+   - RetroTINK-5X Pro
+   - RetroTINK-2X Mini
+   - RetroTINK-2X Pro
+   - RetroTINK-2X Pro Multiformat
+   - RetroTINK-2X SCART
+   - RetroTINK FW Tool.zip
+   - notify-discord
+   - requirements.txt
+   - misc
