@@ -37,6 +37,28 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.48.0 (2026-07-04)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1480.zip)
+CRC-32: `1D01557B`  
+SHA-256: `1e6573a906178410725375ef7e57725b9c1b79a71c5d6a3b76b5ced650ba4c9f`
+
+### Changelog:
+- The Horizontal Blur filter engine has been rewritten from the ground up [RT4K Pro Only]. The old first-order filter is now a true second-order design, which enables a whole family of new filter types with no change in processing latency.
+- The original two modes are still there, renamed to reflect what they actually are: "IIR LPF" is now "RC Lowpass" and "IIR HPF" is now "RC Peaking". They behave the same as before and existing profiles carry over automatically.
+- Three new lowpass types, in order of steepness: Gaussian (zero ringing by construction, the gentlest), Butterworth (maximally flat), and Elliptic (the sharpest cutoff).
+- Three new notch types: Notch, Notch Wide, and Notch + Low. Instead of rolling off everything above the cutoff, these remove a narrow frequency band and leave the rest of the picture alone.
+- Notch filters are aimed at cancelling dither patterns at their exact frequency. For example, Notch + Low at 3.35 MHz is well suited for cancelling Genesis/Mega Drive dithering -- the "+ Low" variant also gently shelves everything above the notch to mop up the leftover high-frequency residue.
+- The filter frequency control now adjusts in 0.05 MHz steps for much finer tuning. Existing profile values are migrated automatically.
+- Corrected the filter frequency calibration on the composite/S-video decoder path (it was previously off by a factor of 2).
+- Fixed two long-standing bugs in the edge detection of the motion adaptive deinterlacer. Diagonal edges should now resolve more consistently.
+- Internal optimizations.
+
+<br/>
+
+
+
+
 ## Version 1.44.0 (2026-06-29)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1440.zip)
