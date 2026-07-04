@@ -52,12 +52,9 @@ SHA-256: `1e6573a906178410725375ef7e57725b9c1b79a71c5d6a3b76b5ced650ba4c9f`
 - The filter frequency control now adjusts in 0.05 MHz steps for much finer tuning. Existing profile values are migrated automatically.
 - Corrected the filter frequency calibration on the composite/S-video decoder path (it was previously off by a factor of 2).
 - Fixed two long-standing bugs in the edge detection of the motion adaptive deinterlacer. Diagonal edges should now resolve more consistently.
-- Internal optimizations.
+- Internal optimizations for timing.
 
 <br/>
-
-
-
 
 ## Version 1.44.0 (2026-06-29)
 
@@ -73,8 +70,6 @@ SHA-256: `71854f25d001e8e77b99264c940d484e425ae368097827110a1a1efb3b5abd91`
 - Note: the ADC has a maximum sample rate of 4095 and that CE models have a maximum input width of ~2048, so at 4K resolutions, this feature works only on the Pro model. For out of bound values, the ADC sample rate is set to the maximum and the horizontal scaler is used.
 
 <br/>
-
-
 
 
 ## Version 1.42.0 (2026-06-27)
