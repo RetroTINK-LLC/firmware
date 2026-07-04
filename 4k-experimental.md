@@ -39,9 +39,9 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 ## Version 1.48.0 (2026-07-04)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1480.zip)
-CRC-32: `1D01557B`  
-SHA-256: `1e6573a906178410725375ef7e57725b9c1b79a71c5d6a3b76b5ced650ba4c9f`
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1480b.zip)
+CRC-32: `2DC11FA2`  
+SHA-256: `dbd4274b2f9fec14f50af967d075637c8290eb24ee1cd96c3eba43fcd33be089`
 
 ### Changelog:
 - The Horizontal Blur filter engine has been rewritten from the ground up [RT4K Pro Only]. The old first-order filter is now a true second-order design, which enables a whole family of new filter types with no change in processing latency.
