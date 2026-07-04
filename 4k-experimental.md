@@ -52,7 +52,7 @@ SHA-256: `1e6573a906178410725375ef7e57725b9c1b79a71c5d6a3b76b5ced650ba4c9f`
 - The filter frequency control now adjusts in 0.05 MHz steps for much finer tuning. Existing profile values are migrated automatically.
 - Corrected the filter frequency calibration on the composite/S-video decoder path (it was previously off by a factor of 2).
 - Fixed two long-standing bugs in the edge detection of the motion adaptive deinterlacer. Diagonal edges should now resolve more consistently.
-- Internal optimizations for timing.
+- Internal optimizations.
 
 <br/>
 
