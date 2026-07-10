@@ -37,23 +37,17 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
-## Version 1.51.0 (2026-07-07)
+## Version 1.53.0 (2026-07-10)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1510.zip)
-CRC-32: `F8114246`  
-SHA-256: `bfa1c7ef90b80d50506093c8d4c68f8efebc234a8098cc0cf8e73a57f437f0f9`
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1530.zip)
+CRC-32: `70C8F993`  
+SHA-256: `771b225f6f614822544aed8a428eaa893906a2f4b36ff525239eeff4479367d8`
 
 ### Changelog:
-- First attempt at LumaCode support. Both Pro and CE models are supported.
-- Enable LumaCode in the Sample Rate Detection -> LumaCode -> Enable.
-- Select a system preset. You will need to copy the lumacode directory over to the SD card.
-- Currently only the NES presets have been tested.
-- Preset file format first line dictates the sample rate, decimation factor and palette (LumaCode pixels/word implict in the number of palette entries).
-- Sample rate/decimation = LumaCode symbol rate. Higher decimation factors give more room for the auto phase.
-- Run auto-gain. If needed adjust ADC pre-gain further to tweak the slicer thresholds.
-- Limitations: only NES tested so far. GTIAdigitizer (Atari 8bit) 12-bit/pixel is not supported.
-- More internal optimizations to clawback resources.
-- As always, testing of these experimental builds is greating appreciated because they contain both new features and under the hood optimizations that don't offer anything new, but clear resources for future development.
+- RT4KCE now supports continuous auto decimation phase.
+- De-blur 8/4 removed from the Sample Rate Detection: experimental feature that was not reliable in the field to clawback resources.
+- Lumacode Enable is now: Off/On (AGC)/On (Manual). On (AGC) automatically analyzes the distribution of codes and calibrates slicer thresholds accordingly in real time. You can leave the ADC gain in its defaault position.
+- Internal optimization and timing cleanup.
 
 <br/>
 
