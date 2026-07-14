@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.56.0 (2026-07-14)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1560.zip)
+CRC-32: `03CDB9F7`  
+SHA-256: `9fbbf43bdb15e4f906a04056b538405725f22a5a7f592d4469f12968e9e974a7`
+
+### Changelog:
+- File selection UI now has small arrows on the left hand side indicating more files off page in their respective directions.
+- Scrolling happens now in the middle of the page, before hitting the very end, so you can see files before and after the current selection.
+- DRAM controller carefully re-calibrated to improve upon the settings found in 2022.
+- Further infernal optimizations.
+
+<br/>
+
+
+
 ## Version 1.53.0 (2026-07-10)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1530.zip)
