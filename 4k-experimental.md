@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.59.0 (2026-07-16)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1590.zip)
+CRC-32: `E7D5EB66`  
+SHA-256: `5569148dddd0c5d6d59b50dffcedff0a6df54e86e4f52e84676a6458fca1029e`
+
+### Changelog:
+- On screen keyboard for entering profile file name on save.
+- If a current profile is loaded, a new save will be placed in the current folder instead of root.
+- Further massive infernal optimizations.
+
+<br/>
+
+
+
 ## Version 1.56.0 (2026-07-14)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1560.zip)
