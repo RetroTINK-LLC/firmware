@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.61.0 (2026-07-24)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1610.zip)
+CRC-32: `1E1E0C2B`  
+SHA-256: `21386f29c74585f38b4d0f6e2d7683b8b74d663bb72fb21855746c349ebb69b7`
+
+### Changelog:
+- Implementation of tiled framebuffer for Rotation mode.
+- Implementation of quad banked interleaved DRAM acccess.
+- Max allowed input resolution for rotatable images is approx. 720x480p or 800x600. Interlaced inputs not yet supported.
+- Note: the cop for disabling illegal sized inputs is not fully implemented. For example if you try to rotate 1440x480p, you may see glitches. If you are rotating 480p sources, make sure the decimation is set so that the active input size is 720x480.
+
+<br/>
+
+
+
 ## Version 1.59.0 (2026-07-16)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1590.zip)
@@ -49,7 +65,6 @@ SHA-256: `5569148dddd0c5d6d59b50dffcedff0a6df54e86e4f52e84676a6458fca1029e`
 - Further massive infernal optimizations.
 
 <br/>
-
 
 
 ## Version 1.56.0 (2026-07-14)
