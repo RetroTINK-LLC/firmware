@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.62.0 (2026-07-25)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1620.zip)
+CRC-32: `E7F30A70`  
+SHA-256: `5a399250cdb2f4e8a463b54a73cc3d9e82cf5194490f0cdcd444eb47e9da137b`
+
+### Changelog:
+- Fixed interpolation kernel miscalculation in RoTATE mode.
+- Added ASRC audio re-sampler for HDMI (stereo only) and TOSLINK inputs.
+- Audio re-sampler is capable to taking off spec modes such as the SNES 32 kHz or the Gamecube 44.042 kHz and outputting a standard 48 kHz or 96 kHz.
+- Found in the audio menu. RT4K Pro only. 
+
+<br/>
+
+
+
+
 ## Version 1.62.0 (2026-07-24)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1620.zip)
