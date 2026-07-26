@@ -39,9 +39,9 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 ## Version 1.63.0 (2026-07-25)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1630.zip)
-CRC-32: `144C7E77`  
-SHA-256: `f44d1262d4e778fbaf7706c696a87bd4165caacee5c1d3cd96b18faa2585173a`
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1630c.zip)
+CRC-32: `48D69071`  
+SHA-256: `0479036bf15cb01b1700c4cd427206288c3567f536c2e68886ccc926c5a3b354`
 
 ### Changelog:
 - Fixed interpolation kernel miscalculation in RoTATE mode.
