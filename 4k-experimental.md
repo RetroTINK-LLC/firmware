@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.64.1 (2026-07-26)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1641.zip)
+CRC-32: `AFA20EE4`  
+SHA-256: `d090f0898ecba75aff03a5ecc9f7963b3524a2d001117f95990f625aa1c3ee6d`
+
+### Changelog:
+- Clean compile after cleaning some lingering issues in the timing constraints.
+- Fixed I2S alignment issue when the audio resampler is used with HDMI inputs.
+
+<br/>
+
+
+
 ## Version 1.63.0 (2026-07-25)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1630c.zip)
@@ -50,8 +64,6 @@ SHA-256: `0479036bf15cb01b1700c4cd427206288c3567f536c2e68886ccc926c5a3b354`
 - Found in the audio menu. RT4K Pro only. 
 
 <br/>
-
-
 
 
 ## Version 1.62.0 (2026-07-24)
