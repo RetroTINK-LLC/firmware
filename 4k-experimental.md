@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.65.1 (2026-07-28)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1651.zip)
+CRC-32: `3E5CC34D`  
+SHA-256: `62b6aadbd6b8b1953f352d9c1bf041222cca70d708ceedad1c7d34a2c4b01339`
+
+### Changelog:
+- Cleaned up HDMI Transmit side audio configuration settings.
+- Improved audio resampler lock speed.
+- VU meter now works and can monitor the levels coming out of the resampler.
+- More massive infernal optimizations, MCU side FW now uses less RAM and Flash than launch day.
+
+<br/>
+
+
+
 ## Version 1.64.1 (2026-07-26)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1641.zip)
