@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.70.0 (2026-07-31)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1670.zip)
+CRC-32: `70C5AC9B`  
+SHA-256: `ba9335fd3e98e2ec41941751fd6d868c6dfeaf69b41ac4b7ef22aeccea9b08cb`
+
+### Changelog:
+- NTSC-50 fully enabled by going to the SDP menu and forcing the mode manually.
+- Massive FPGA side infernal optimizations to reclaim ALMs for future use.
+
+<br/>
+
+
+
 ## Version 1.65.1 (2026-07-28)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1651.zip)
