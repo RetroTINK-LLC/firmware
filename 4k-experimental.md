@@ -37,7 +37,7 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
-## Version 1.67.1 (2026-08-01)
+## Version 1.67.1b (2026-08-02)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1671.zip)
 CRC-32: `9921AF38`  
