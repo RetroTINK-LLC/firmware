@@ -10,6 +10,7 @@ on:
       - '4k-sdcards.md'
       - '5x.md'
       - '5x-experimental.md'
+      - '.github/workflows/notify-discord.yml'
 
 concurrency:
   group: notify-discord-${{ github.ref }}
@@ -44,22 +45,37 @@ jobs:
       - name: Determine Updated Files
         id: files
         run: |
+          changed_files="$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md' || true)"
           echo "Changed files:"
-          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md'
+          if [[ -n "$changed_files" ]]; then
+            printf '%s\n' "$changed_files"
+          else
+            echo "No firmware markdown files changed."
+          fi
+          {
+            echo "changed_files<<EOF"
+            printf '%s\n' "$changed_files"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
 
       - name: Run Script for Each Updated File
+        env:
+          CHANGED_FILES: ${{ steps.files.outputs.changed_files }}
+          RT5X_WEBHOOK: ${{ secrets.RT5X_COMMUNITY_WEBHOOK }}
+          RT4K_WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
+          SDCARD_WEBHOOK: ${{ secrets.SDCARD_COMMUNITY_WEBHOOK }}
+          TESTER_WEBHOOK: ${{ secrets.TINK_TESTERS_WEBHOOK }}
         run: |
-          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -e '4k.md' -e '4k-experimental.md' -e '4k-sdcards.md' -e '5x.md' -e '5x-experimental.md' | while read file; do
+          if [[ -z "$CHANGED_FILES" ]]; then
+            echo "No matching firmware markdown files to process."
+            exit 0
+          fi
+          printf '%s\n' "$CHANGED_FILES" | while read -r file; do
             if [[ -n "$file" ]]; then
               echo "Processing $file"
               python3 notify-discord/webhook.py --target "$file"
             fi
           done
-        env:
-          RT5X_WEBHOOK: ${{ secrets.RT5X_COMMUNITY_WEBHOOK }}
-          RT4K_WEBHOOK: ${{ secrets.RT4K_COMMUNITY_WEBHOOK }}
-          SDCARD_WEBHOOK: ${{ secrets.SDCARD_COMMUNITY_WEBHOOK }}
-          TESTER_WEBHOOK: ${{ secrets.TINK_TESTERS_WEBHOOK }}
 
       - name: Commit and Push Changes
         run: |
