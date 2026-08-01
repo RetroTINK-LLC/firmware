@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.67.1 (2026-08-01)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1671.zip)
+CRC-32: `9921AF38`  
+SHA-256: `fe90fe271c343aa3e000c3bf41eb39aa621d9c3265ff8a3b5b504df632077f19`
+
+### Changelog:
+- Fixed uptime counter bug where very long uptimes interfere with the SD card timeout.
+- Fixed DV1 auto load from 1.67.0.
+- Fixed glitch that caused stale IIR filter settings during mode changes.
+- Main loop timing cleanup.
+
+<br/>
+
+
+
+
 ## Version 1.67.0 (2026-07-31)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1670.zip)
