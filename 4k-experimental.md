@@ -37,7 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
-## Version 1.67.1b (2026-08-02)
+
+## Version 1.71.0 (2026-08-02)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1710.zip)
+CRC-32: `5D99E5AC`  
+SHA-256: `f26770444abe00ee5f45a9c666ec3cbec5d51eabaed2b96e19a8bff0d9695c42`
+
+### Changelog:
+- Further ALM recovery.
+- Fixed misroute which prevented 192 kHz audio from HDMI sources from working.
+
+<br/>
+
+
+
+## Version 1.67.1b (2026-08-01)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1671.zip)
 CRC-32: `9921AF38`  
