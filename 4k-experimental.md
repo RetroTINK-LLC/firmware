@@ -38,6 +38,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 <p style="margin:41px;"></p>
 
 
+## Version 1.72.0 (2026-08-07)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1720.zip)
+CRC-32: `41839944`  
+SHA-256: `e9787d60e92f84a20c7fe9a5b5612ab5855f1525cae8d4ee8e010532313ca55f`
+
+### Changelog:
+- Improved speed of the SMPTE 2084 calculation and LUT upload making the menu more repsonsive
+- Fixed the issue that broke vertical decimiation beyond factor 4
+- Added 640 mode to Saturn Detection
+
+<br/>
+
+
 ## Version 1.71.0 (2026-08-02)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1710.zip)
