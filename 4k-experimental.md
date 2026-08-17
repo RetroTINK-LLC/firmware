@@ -38,6 +38,26 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 <p style="margin:41px;"></p>
 
 
+
+## Version 1.75.0 (2026-08-16)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1750.zip)
+CRC-32: `9CD45542`  
+SHA-256: `b46a93411843f4d6f50aacfa15db36697a53057fdf5cb1cd17ea067b095e6fb5`
+
+### Changelog:
+- Default USB-Serial baud rate now 2,000,000 instead of 115,200
+- Implemented significantly expanded serial control interface on both USB and HD15 ports (example software and documentation pending)
+- Banner now operates on an 8-bit palette: 24-bit BMPs are palletized automatically while 8-bit BMPs are directly loaded with the embedded palette
+- Improved banner image quality, while using less FPGA BRAM resources, allowing RT4KCE to have the same quality as the Pro model
+- Banner now automatically color corrected when HDR is activated
+
+<br/>
+
+
+
+
+
 ## Version 1.72.0 (2026-08-07)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1720.zip)
