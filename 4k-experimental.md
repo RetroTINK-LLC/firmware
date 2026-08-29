@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.77.0 (2026-08-28)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1770.zip)
+CRC-32: `D17B6712`  
+SHA-256: `79dd79826c9013a0b7d3c6c4b3496a4aecf218850e63bbffa6823c7b7fafa488`
+
+### Changelog:
+- Deployed RT6X FPGA images / Compatible with RT6X
+- Improved compatibility with legacy SD / MMC cards
+- Fixed off by 1 pixel alignment issue with the upgraded banner
+
+<br/>
+
 
 
 ## Version 1.75.0 (2026-08-16)
