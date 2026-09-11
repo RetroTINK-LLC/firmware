@@ -37,6 +37,28 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+
+## Version 1.80.0 (2026-09-11)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1800.zip)
+CRC-32: `2851F5E2`  
+SHA-256: `aa2d5f0ea7dd6efedeffdee959b990a0eb9360fc5dc8b91a06443a86f12c3e58`
+
+### Changelog:
+- Recalibrated RT6XCE SDRAM controller eliminating glitch on a small subset of units
+- RT6XCE SDRAM controller now uses gearbox
+- Overall stability improvements in HDMI output transmitter and self-healing, especially at lower resolutions
+- Fixed excessive dwell time on querying HDMI transmitter status
+- (Related to above) solved data transmission errors when flow control is not used due to stall
+- Increased serial TX / RX buffer such that the ACK mode is safe by construction across all baud rates
+- Added CRC16 only ACK mode to avoid SHA256 penalty per block
+- Added ability to transfer the video input measurement struct across the serial link
+- Fixed VGA detection rules for DOS 400p and 1600x1200
+
+<br/>
+
+
+
 ## Version 1.77.0 (2026-08-28)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1770.zip)
