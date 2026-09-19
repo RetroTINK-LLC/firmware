@@ -48,6 +48,22 @@ SHA-256: `06eda61c71c57cec82c48f1709e056be4a8725a3d5d4a6b3b3d69fbea88d6118`
 
 <br/>
 
+## Version 1.82.1 (2026-09-18)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1821.zip)
+CRC-32: `D953ED66`  
+SHA-256: `006cb18908685c54fdccc9770221ce5aa4269ee450eac1558ccff11f5df20cfd`
+
+### Changelog:
+- Further re-write of the HDMI transmitter drive
+- Second generation lumacode decoder engine implemented
+- Improved automatic symbol learning and calibration
+- Try leaving it in the defaults settings: On (AGC), auto decimation phase, auto word phase
+- Zip file contains updated lumacode .lmc files fixing errors including the NES blacker than black entry and default word alignments for each system
+
+<br/>
+
+
 
 
 ## Version 1.80.0 (2026-09-11)
