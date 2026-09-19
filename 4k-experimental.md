@@ -37,17 +37,6 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
-## Version 1.80.1 (2026-09-12)
-
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1801.zip)
-CRC-32: `C748447C`  
-SHA-256: `06eda61c71c57cec82c48f1709e056be4a8725a3d5d4a6b3b3d69fbea88d6118`
-
-### Changelog:
-- Fixed screw-up with banner image alignment on the last RT6XCE FPGA build
-
-<br/>
-
 ## Version 1.82.1 (2026-09-18)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1821.zip)
@@ -63,6 +52,18 @@ SHA-256: `006cb18908685c54fdccc9770221ce5aa4269ee450eac1558ccff11f5df20cfd`
 
 <br/>
 
+
+
+## Version 1.80.1 (2026-09-12)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1801.zip)
+CRC-32: `C748447C`  
+SHA-256: `06eda61c71c57cec82c48f1709e056be4a8725a3d5d4a6b3b3d69fbea88d6118`
+
+### Changelog:
+- Fixed screw-up with banner image alignment on the last RT6XCE FPGA build
+
+<br/>
 
 
 
