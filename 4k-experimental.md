@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.84.0 (2026-09-20)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1840.zip)
+CRC-32: `127C3B64`  
+SHA-256: `becc41e81d9423517644349dc93231314efd04e51a54b288dfb54a4d12c4078f`
+
+### Changelog:
+- All-new third-generation auto decimation and auto phase engine
+- Far more reliable decimation factor detection
+- Sharper phase detection
+- No more hunting between multiple valid phases
+- Applies to all 4K and 6X models
+
+<br/>
+
+
 ## Version 1.82.1 (2026-09-18)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1821.zip)
