@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.86.0 (2026-09-22)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1860.zip)
+CRC-32: `61A444D9`  
+SHA-256: `feb55cf3c7082223e94ccd12d1948883671621c6c293fea1e0780bc27c1cdcf8`
+
+### Changelog:
+- Added N64 mode (Sample Rate menu, Detection Mode = N64): locks the sample rate for the N64 and automatically detects when deblur can be applied
+- Fixed horizontal dynamic calibration alignment against the selected phase index
+- Fixed Saturn 320 and 352 scaling settings colliding (previously tuned Saturn settings may need a one-time re-tune)
+- HDMI output driver optimizations
+- All three bitstreams rebuilt: rt4k_1860, rt4kce_1860, rt6x_1860 -- copy ALL rbf files to your SD card together with this firmware (it only loads the *_1860 bitstreams)
+
+<br/>
+
+
 ## Version 1.85.0 (2026-09-21)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1850.zip)
