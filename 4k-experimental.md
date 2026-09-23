@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.87.0 (2026-09-22)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1870.zip)
+CRC-32: `3B627800`  
+SHA-256: `f17197366df5e1ed0140db60a0b28086c2fef214f673dad28be63871e26533f5`
+
+### Changelog:
+- Second-generation Enhanced S-Video engine
+- Vastly improved automatic luma and chroma alignment across all sample rates
+- Set Trim to 0 (it should not be needed)
+- Enhanced S-Video now supports very high sample rate PAL sources
+
+<br/>
+
+
 ## Version 1.86.0 (2026-09-22)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1860.zip)
