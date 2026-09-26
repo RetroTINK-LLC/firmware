@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.87.3 (2026-09-25)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1873.zip)
+CRC-32: `6DCE6294`  
+SHA-256: `b90be0e654322d6f41119827ff5c3ed6d1493c2565bb3484753158d406400a21`
+
+### Changelog:
+- Third-generation LumaCode engine
+- Replace the lumacode folder on your SD card with the one in this zip
+- Start from the default profile, set LumaCode Enable to On (AGC), and adjust Word Trim only if needed
+- The revised AGC and automatic word alignment should make further adjustment unnecessary
+- All systems recalibrated against the reference implementation
+
+<br/>
+
+
 ## Version 1.87.2 (2026-09-24)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1872.zip)
