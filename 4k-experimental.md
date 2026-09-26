@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.87.4 (2026-09-26)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1874.zip)
+CRC-32: `0F1969CA`  
+SHA-256: `ac42b66884b88cb9fc1c944f7fd575bfe3f3e4a0e23e8a6ac272c9e45737430f`
+
+### Changelog:
+- Further SDP alignment optimizations
+- Renamed N64 mode to N64 Auto Deblur to indicate detection of interpolated output and reconstruction of the original 320-wide source
+
+<br/>
+
+
 ## Version 1.87.3 (2026-09-25)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1873.zip)
