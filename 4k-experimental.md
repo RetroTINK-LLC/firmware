@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.89.0 (2026-09-28)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1890.zip)
+CRC-32: `642D61D4`  
+SHA-256: `ebb8969600d4ce945540d18871e817ab43298560fdcbe3ceff8c1056877204a7`
+
+### Changelog:
+- Wavelet-domain edge discrimination with harmonic nulling for decimation and phase detection
+
+<br/>
+
+
 ## Version 1.88.0 (2026-09-27)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1880.zip)
