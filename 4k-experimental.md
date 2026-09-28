@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.88.0 (2026-09-27)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1880.zip)
+CRC-32: `31A1B22A`  
+SHA-256: `b8ec458b949522c5a62236ed5519f046cb5c66f9e02fdbdda7d31f7de385693b`
+
+### Changelog:
+- Rotate can now accept up to 1280x720p input sources
+- Fixed RT6X issue where 1920x1080p may glitch when used in Gen Lock + a buffer delay of a full frame
+- DRAM controller optimizations to clean up glitches that may have been encountered on edge cases / rarely used non-standard resolutions
+- Further cleanup of edge cases that caused edge garbage pixels on the left and right sides for rarely used sample rates / input sizes
+- Slightly faster Enhanced S-Video chroma alignment lock when pathological conditions are encountered
+
+<br/>
+
+
 ## Version 1.87.4 (2026-09-26)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1874.zip)
