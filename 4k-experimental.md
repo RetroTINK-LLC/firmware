@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.90.1 (2026-09-29)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1901.zip)
+CRC-32: `3ABB8190`  
+SHA-256: `dab960404c64382daa3ef069f66ad8e949c21c7cad8b367dc143eeb355dffbd9`
+
+### Changelog:
+- Sparse-lattice coherence voting for sample rate detection (i.e. faster response to game resolution changes during dim/cut/fades)
+- Further improvement in the sample rate detection engine combined with 1.90.0 and 1.89.0
+
+<br/>
+
+
 ## Version 1.90.0 (2026-09-28)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1900.zip)
