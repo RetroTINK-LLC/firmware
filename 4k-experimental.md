@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.90.0 (2026-09-28)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1900.zip)
+CRC-32: `4286F284`  
+SHA-256: `ee918b6e6fea30f952675e50a5ac3c39ca2484edf143c81880478312c74743de`
+
+### Changelog:
+- Adaptive cancellation of secondary artifacts for auto decimation and phase detection
+- Combined with the 1.89.0 harmonic nulling, this should result in reliable sample rate detection even under ambiguous and poor signal conditions
+
+<br/>
+
+
 ## Version 1.89.0 (2026-09-28)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1890.zip)
