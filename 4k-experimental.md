@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.91.0 (2026-09-29)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1910.zip)
+CRC-32: `3531B5F7`  
+SHA-256: `4578df82ee9ad165be2347e9f7f67700ad7dfd622207eae116e60848c0bfd179`
+
+### Changelog:
+- Rotation now supports 480i and 576i sources (RT4K Pro)
+
+<br/>
+
+
 ## Version 1.90.1 (2026-09-29)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1901.zip)
