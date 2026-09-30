@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.92.0 (2026-09-30)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1920.zip)
+CRC-32: `C73216E7`  
+SHA-256: `89667ec5c7941aca86cd6c261fd03adb544e84ebdf7153878fc4d4ddf860ff90`
+
+### Changelog:
+- True VRR capability added, the best of all worlds for supported displays: minimal lag, glitch-free resolution changes and a perfectly stable clock
+- Better than Gen Lock: the pixel clock stays completely stable, so the momentary blip in video or audio on some less tolerant displays is completely avoided with true VRR
+- True VRR available for all models: RT4K Pro, RT4K CE and RT6X CE
+- To enable, go to the HDMI Output menu and select FreeSync or VESA
+- Automatic fallback for non-VRR displays: the mode stays injection only
+- Currently does not support BFI: a significant rework of the BFI engine is required
+- Minor remote control optimizations
+
+<br/>
+
+
 ## Version 1.91.0 (2026-09-29)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1910.zip)
