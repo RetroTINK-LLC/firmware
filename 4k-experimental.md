@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.93.0 (2026-10-02)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1930.zip)
+CRC-32: `8B7457F0`  
+SHA-256: `95d0b3effc69931518d85f9c1488235469e3625f75d41d388351c75115a7e66b`
+
+### Changelog:
+- Improved VRR compatibility
+- True VRR now works with BFI (same as Gen Lock)
+
+<br/>
+
+
 ## Version 1.92.0 (2026-09-30)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1920.zip)
