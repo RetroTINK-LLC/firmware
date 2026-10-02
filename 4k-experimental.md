@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.93.1 (2026-10-02)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1931.zip)
+CRC-32: `9B8A6E05`  
+SHA-256: `fabbb79da7a0f21c5f55917a3354bc914465be3e539c287e81f3dfc73cfd2c22`
+
+### Changelog:
+- Further cleanup of true VRR generation
+- ALLM automatically enabled when the display reports support
+
+<br/>
+
+
 ## Version 1.93.0 (2026-10-02)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1930.zip)
