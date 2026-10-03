@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.93.2 (2026-10-03)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1932.zip)
+CRC-32: `5E8D3899`  
+SHA-256: `7ec1b081b38f96da4cdfb5d561c5741466b1b0073cb83de5508022bb0d1aa4ca`
+
+### Changelog:
+- Fixed issue where the ALLM bit was not being transmitted
+- Increased blanking period during VRR enable to try and force badly implemented TVs to resync to the new VRR stream
+- At this point, VRR appears to work on the majority of setups but due to the many variations in switches, TV, TV settings and firmware YMMV
+
+<br/>
+
+
 ## Version 1.93.1 (2026-10-02)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1931.zip)
