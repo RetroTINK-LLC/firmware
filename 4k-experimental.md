@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.94.0 (2026-10-04)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1940.zip)
+CRC-32: `D5C2F930`  
+SHA-256: `0fff11ea27a0c8a5e0c8ec42696d761dc4311855915ad5716aad64b6a6508ab0`
+
+### Changelog:
+- Further cleanup of the VRR controls
+- In the HDMI menu, "VRR" is now called "VRR Format" and selects which type of VRR signal, if any, is sent to the display (Off, FreeSync or VESA)
+- Sync Lock now has a "VRR" mode, after "Triple Buffer". When the display supports the selected VRR Format it starts True VRR frame locking with the source; otherwise it acts like Adaptive Triple Buffer and the Sync Lock line shows why
+- The other Sync Lock modes send the VRR infoframe to instruct the TV but do not alter the length of the frames
+- Want the old behavior (VRR injection only)? Set VRR Format to FreeSync or VESA and pick the Sync Lock method you were using before (i.e., Gen Lock)
+- Want True VRR? Set Sync Lock to VRR and set VRR Format to the type your display supports (FreeSync or VESA)
+- As before, VRR implementations vary widely in quality and robustness between manufacturers and models. Some displays require several settings to be changed before VRR works, and switches and AV receivers in the chain may also block VRR. Please utilize the support resources provided by your display manufacturer as needed.
+
+<br/>
+
+
 ## Version 1.93.2 (2026-10-03)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1932.zip)
