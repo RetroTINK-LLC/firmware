@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.95.0 (2026-10-08)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1950.zip)
+CRC-32: `5C1208FB`  
+SHA-256: `28e46bd713d594dd798a42ec2bfe03bdbc258326fdea19c0353730b60844c564`
+
+### Changelog:
+- Many bug fixes for edge cases and rarely used modes and functions
+- Cleaned-up HDMI output audio mute policy: no more garbage audio when no valid audio input is present
+- Improved handling and scaling of content when 1080i is selected as the output mode
+- Fixed Auto Fill Int and Int HV behavior at higher decimation rates
+
+<br/>
+
+
 ## Version 1.94.0 (2026-10-04)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1940.zip)
