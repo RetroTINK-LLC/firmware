@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.96.0 (2026-10-09)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1960.zip)
+CRC-32: `B414787F`  
+SHA-256: `0ad8c8c0fa5597ee054d87f45b882e3fc47c76a5fb26089678527aec5c71c8e5`
+
+### Changelog:
+- Second-generation inverse telecine engine for RT4KPRO with two field look back decorrelation analysis and multi-tap filter bank artifact detection
+- Dual FPGA and MCU detection state machines for fast lock / unlock
+- Result is significantly improved inverse 3:2 and 2:2 reliability
+- For example, Final Fantasy X cutscenes should be nearly free of artifacts and adapt quickly to changing frame rates
+- New inverse telecine engine does not need manually tuned thresholds (removed from menu)
+- Minor fixes to the XBR smoother plus optimization to reduce the amount of resources used
+
+<br/>
+
+
 ## Version 1.95.0 (2026-10-08)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1950.zip)
