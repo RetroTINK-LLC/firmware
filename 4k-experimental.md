@@ -37,6 +37,25 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.98.1 (2026-10-13)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1981.zip)
+CRC-32: `B9E8DF75`  
+SHA-256: `bcaaa29949c4738c54a0155c8d098df76259379645191a0dfbba89f9d6b871cb`
+
+### Changelog:
+- Revised CRT beam BFI mode
+- Beam Steepness Smooth now aligns more closely with Blur Busters reference implementation
+- Phosphor Glow replaced by Beam Gain; Beam Steepness is now Smooth / Sharp 1-6 / Hard
+- VRR: sources slower than the output mode now run at their own rate instead of showing VRR Out of Range
+- Inverse 3:2 now holds lock through brief processing pauses
+- Fixed minor CSC coefficient rounding error in enhanced s-video
+- Various menu, file browser and stability fixes
+- Major infernal optimizations to reclaim resources consumed over the past few months
+
+<br/>
+
+
 ## Version 1.96.1 (2026-10-10)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1961.zip)
