@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.98.2 (2026-10-13)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1982.zip)
+CRC-32: `7AF748C9`  
+SHA-256: `076d76d37081161c747c4b66023843b90a0140ae36fa12c06900d50b80e001bb`
+
+### Changelog:
+- Auto gain measures only active picture on post decimated pixels
+- Fixed auto gain loop of death when used on no signal
+
+<br/>
+
+
 ## Version 1.98.1 (2026-10-13)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1981.zip)
