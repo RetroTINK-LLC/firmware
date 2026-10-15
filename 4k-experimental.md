@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.0 (2026-10-15)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1990.zip)
+CRC-32: `7D5B6BE8`  
+SHA-256: `476cad225a8cab37317179690f416d5118d2584139f90f90c1ae05824eca0dbf`
+
+### Changelog:
+- Added Multi-frame Glow to CRT Beam BFI (4K Pro, off by default): the previous frame keeps trailing below the beam while the new frame is scanned in at the top, like taking a photograph of a CRT
+- With Multi-frame Glow on, CRT Beam aligns with the Blur Busters / Timothy Lottes reference GPU shader
+- CRT Beam "Beam Gain" is now "Motion Clarity" (0 to 12): the default (0) matches the default GAIN_VS_BLUR of the Blur Busters GPU shader; increasing Motion Clarity reduces blur at the expense of brightness
+
+<br/>
+
+
 ## Version 1.98.2 (2026-10-13)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1982.zip)
