@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.1 (2026-10-16)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19910.zip)
+CRC-32: `7A690E36`  
+SHA-256: `df0d6da41b94fe9c1f3daa904424d6523e64644e3d1053837f04f8d6d7d5362b`
+
+### Changelog:
+- Added support for HDMI 2.1 style extended EDID
+- VRR gating no longer uses the strict VICs declared by the display's EDID
+- True VRR pacing will engage as long as the frame rate is within the display's declared minimum and maximum
+- However, this may result in some displays rejecting the modelines if they strictly enforce the declared VIC
+- CRT Motion Clarity can now go negative (down to -12) for brighter output (but more blurry)
+- This falls outside the reference GPU shader, so negative values may cause seams depending on the specific beam pattern and/or BFI rate
+
+<br/>
+
+
 ## Version 1.99.0 (2026-10-15)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1990.zip)
