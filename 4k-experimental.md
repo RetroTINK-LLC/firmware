@@ -37,6 +37,19 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.2 (2026-10-18)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19920.zip)
+CRC-32: `74E7CE83`  
+SHA-256: `1a764a5a07cdb21eedd72d1c0e311d77095c9aad7dbf27f134299989d9982822`
+
+### Changelog:
+- Added a serial command for burst I2C reads
+- Non-4K Pro models use an alternative S/PDIF detection function to fix an issue where the menu incorrectly reports no signal
+
+<br/>
+
+
 ## Version 1.99.1 (2026-10-16)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19910.zip)
