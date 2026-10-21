@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.5 (2026-10-20)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19950.zip)
+CRC-32: `C6313A57`  
+SHA-256: `8db286aad4c34c3b8e627bf3d2f6d6d20948c0e089b0939cf494f98b3b2e2e58`
+
+### Changelog:
+- OSD scaling engine implemented
+- The menus, on-screen keyboard and info messages now keep the same size and shape at every output resolution and refresh rate (high refresh rate modes such as 1080p144 and 1440p120 are no longer stretched)
+- Custom modelines with a wide pixel aspect ratio (e.g. 3840x1080) now show the menus at the correct proportions
+- Restored LCD Blending on the 4K CE and RetroTINK 6X
+
+<br/>
+
+
 ## Version 1.99.2 (2026-10-18)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19920.zip)
