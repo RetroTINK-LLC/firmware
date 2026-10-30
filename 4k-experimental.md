@@ -37,6 +37,25 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.7 (2026-10-29)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19970.zip)
+CRC-32: `F1BAC5C1`  
+SHA-256: `f2059582a6ef05e8dc924b4594be3868818b1082fe0e318d70a0deb6966553d3`
+
+### Changelog:
+- New "Advanced CRT Effects" page on the 4K Pro, 4K CE and RetroTINK 6X
+- Minor modifications to scaler to add tube curvature (spherical and cylindrical), glass glow / scatter, a bezel with reflections, tube sag / breathing and corner misconvergence
+- 4K Pro also adds composite video simulation: encodes the picture to composite video and decodes it back using a virtual decoder (source must be 240p/480i/288p/576i)
+- CRT effects work best with 240p and 480i sources using CRT Simulation
+- 480p sources and Motion Adaptive deinterlaced 480i sources also work, with a more limited curvature range
+- For CRT effects, use a linear light or HDR mode and regular scanlines (Energy Conservation does not support curvature)
+- LCD Blending now also works at 480p and 576p on the RetroTINK 6X
+- XBR is on hold for now on the 4K Pro
+
+<br/>
+
+
 ## Version 1.99.5 (2026-10-20)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19950.zip)
