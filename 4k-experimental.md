@@ -37,6 +37,23 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.8 (2026-10-31)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19980.zip)
+CRC-32: `C662FE56`  
+SHA-256: `77d1d4f9e66e06f12b27b27b72c0ac346fdb313b1256962c69db4abf753d7c54`
+
+### Changelog:
+- Optimizations to bezel behavior: rounder outer corners, smoother corner reflections and a new bevel look
+- Bezel Style is now On / Scatter (reflections only) / No Bezel, plus Off for the whole glass stage
+- CRT effects can now run without the bezel: set Bezel Style to No Bezel
+- New Bezel Zoom adjusts the bezel size, from -30 to +12 percent
+- Reorganized the "Advanced CRT Effects" page into Tube, Bezel & Glass and Composite Video sections
+- Lip Reflection is now Bezel Reflection, and the Status row is visible again on the 4K Pro
+
+<br/>
+
+
 ## Version 1.99.7 (2026-10-29)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19970.zip)
