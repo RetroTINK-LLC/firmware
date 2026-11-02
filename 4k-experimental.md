@@ -37,6 +37,24 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.9 (2026-11-01)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19990.zip)
+CRC-32: `4AAF4EA1`  
+SHA-256: `631c49e35882332b4a456ac77c632658df04c158762d77e6a85f4bdbedb0832e`
+
+### Changelog:
+- Various bug fixes to the bezel and lighting: breathing no longer gets stuck in a loop, the lighting follows the picture with Int+ Vert. Pan, and the wavy pattern with positive crop values is gone
+- The bezel's top and bottom now follow a shorter picture, and the black inner border is slightly wider
+- Bezel Zoom now steps in 1 percent increments
+- Added screenshots: Capture Input saves the source picture and Capture Output saves the output picture, as a PNG in the screenshots folder on the SD card
+- Capture from the OSD/Firmware page, or with AUX 5 (input) and AUX 6 (output)
+- The image pauses during capture: saving at the input source resolution is fast, but full 4K uncompressed output images may take some time
+- HDR pictures keep their HDR tag
+
+<br/>
+
+
 ## Version 1.99.8 (2026-10-31)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19980.zip)
