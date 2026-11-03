@@ -37,6 +37,21 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.10 (2026-11-02)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199100.zip)
+CRC-32: `5B80DBC3`  
+SHA-256: `324f98c3f1a7fc0dc7164f7af5aa9ed65691bf52afe13673600515bec6c4d9b5`
+
+### Changelog:
+- Fixed the CRT glow occasionally freezing on an old image until the unit was reset
+- The Consumer bezel is a little thicker: a wider black inner border and a longer light fall-off
+- New Bezel Size option, Crop: the bezel follows the picture (your crop settings) and Bezel Zoom adjusts around it
+- Fixed a stepped dark edge that could show along the top or bottom of the picture near the corners with a strong glow
+
+<br/>
+
+
 ## Version 1.99.9 (2026-11-01)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19990.zip)
