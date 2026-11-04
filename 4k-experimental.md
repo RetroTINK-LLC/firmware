@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.11 (2026-11-03)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199110.zip)
+CRC-32: `F09B9CCF`  
+SHA-256: `d07c1df215628c3607e523d1b555084bfd0226cabe3103a2eb6dc6aaf3b242e0`
+
+### Changelog:
+- Minor update reducing the base brightness of the bezel
+- Bezel reflection strength can be increased to 200%
+- Glass Glow capped to 50% (note: 50% is already extremely strong, realistic values are well under 10%)
+
+<br/>
+
+
 ## Version 1.99.10 (2026-11-02)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199100.zip)
