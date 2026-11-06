@@ -37,6 +37,22 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.12 (2026-11-06)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199120.zip)
+CRC-32: `F74A30C8`  
+SHA-256: `5bcae7eec0b201bb809a0ab33683c9801c5c9ad4954a7b5cb19637efd0efab99`
+
+### Changelog:
+- CRT curvature, glass glow and bezel effects enabled for RoTATE, clockwise and counter-clockwise (RT4K Pro)
+- Composite video simulation enabled for higher resolution sources such as 480p, 720p and 1080p (RT4K Pro)
+- Note: the composite engine only has a limited time to process each line, so higher resolution sources need Vert. Pre-Scale, which captures only every 2nd, 3rd or 4th line (for example 1/2 for 480p, 1/3 for 720p, 1/4 for 1080p). This suits retro games that a console, scaler or emulator has line-doubled or upscaled, since Pre-Scale returns them to their original line count. If a source is too fast, Composite Video switches itself off and the on-screen message tells you why, and which Vert. Pre-Scale setting to use when one will help
+- Glass glow no longer lights up lines skipped by Vert. Pre-Scale
+- Composite video simulation and Vert. Pre-Scale now also work with RoTATE (RT4K Pro)
+
+<br/>
+
+
 ## Version 1.99.11 (2026-11-03)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199110.zip)
