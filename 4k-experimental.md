@@ -37,6 +37,20 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.14 (2026-11-11)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199140.zip)
+CRC-32: `4002528E`  
+SHA-256: `df14e1424cb40d4f98b415fa4ffbaa5dd0aa750580fb80f3ff293e7b9c62d699`
+
+### Changelog:
+- New Bezel styles with more advanced geometry and lighting/reflection effects: Consumer, PVM, Slim and Rounded
+- Bezel adds a sub menu with fine tuning of details: Bezel Thickness, Inner Border, Tube Corner, Mitre Light, Outer Rim, Refl. Spread, Refl. Inset and Corner Dimming
+- RF noise has 7 levels (Pro only)
+
+<br/>
+
+
 ## Version 1.99.12 (2026-11-06)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199120.zip)
