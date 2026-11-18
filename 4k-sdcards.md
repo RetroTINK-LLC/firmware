@@ -21,7 +21,7 @@ title: RetroTINK-4K SD Card Images
 
 ## Version 1.9.6 (2025-11-04)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_196_sdcard.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/SD%20card%20images/Rt4k_196_sdcard.zip)
 CRC-32: `1E1F5AF3`  
 SHA-256: `c47b53a486b46fda7e8d017f50aab020b0790a0d748185bb0e779a5c383208b8`
 
@@ -42,7 +42,7 @@ SHA-256: `c47b53a486b46fda7e8d017f50aab020b0790a0d748185bb0e779a5c383208b8`
 
 ## Version 1.6.9 (2024-11-24)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_169_sdcard.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/SD%20card%20images/Rt4k_169_sdcard.zip)
 CRC-32: `F9FBD428`  
 SHA-256: `dbb7b111dd1e6e1b41bf997774cca5ed31f93da3ce0904e804a08418a9ca44f8`
 
@@ -62,7 +62,7 @@ SHA-256: `dbb7b111dd1e6e1b41bf997774cca5ed31f93da3ce0904e804a08418a9ca44f8`
 
 ## Version 1.5.4 (2024-07-21)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_154_sdcard.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/SD%20card%20images/Rt4k_154_sdcard.zip)
 CRC-32: `1B098F3B`  
 SHA-256: `75686dda487b0fe9cf9cfeb56e124109e71d8c58e94d60c0ce151b57a151e1f6`
 
@@ -85,7 +85,7 @@ SHA-256: `75686dda487b0fe9cf9cfeb56e124109e71d8c58e94d60c0ce151b57a151e1f6`
 
 ## Version 1.4.2 (2024-04-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_142_sdcard.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/SD%20card%20images/Rt4k_142_sdcard.zip)
 CRC-32: `60728C8D`  
 SHA-256: `01b541e1a688548c63e6f7e86925de485dbc6c061334db22f1c201cac765fe25`
 
@@ -104,7 +104,7 @@ SHA-256: `01b541e1a688548c63e6f7e86925de485dbc6c061334db22f1c201cac765fe25`
 
 ## Version 1.3.4 (2024-03-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_134_sdcard.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/SD%20card%20images/Rt4k_134_sdcard.zip)
 CRC-32: `6EA7BEB3`  
 SHA-256: `9b94a06b5ae6c26959f6d25996bee662745a242cd7919ce4a539d10925d2d1df`
 
@@ -127,7 +127,7 @@ SHA-256: `9b94a06b5ae6c26959f6d25996bee662745a242cd7919ce4a539d10925d2d1df`
 
 ## Version 1.2.1 (2024-02-02)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_121_sdcard.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/SD%20card%20images/Rt4k_121_sdcard.zip)
 CRC-32: `A5021E4A`  
 SHA-256: `74128161f3164c831b82f87a119b70bb657c4b6157d94b5f35600691dd870f1e`
 
@@ -143,7 +143,7 @@ SHA-256: `74128161f3164c831b82f87a119b70bb657c4b6157d94b5f35600691dd870f1e`
 
 ## Version 1.1.0 (2024-01-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_110_sdcard.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/SD%20card%20images/Rt4k_110_sdcard.zip)
 CRC-32: `3338FFB0`  
 SHA-256: `24fb1e3320b708df933831212032b6a5a47511f789f19c328f12f046b9e0be90`
 
@@ -162,7 +162,7 @@ SHA-256: `24fb1e3320b708df933831212032b6a5a47511f789f19c328f12f046b9e0be90`
 
 ## Version 1.0 RC26 (2023-12-09)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/SD%20card%20images/Rt4k_10rc26_sdcard.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/SD%20card%20images/Rt4k_10rc26_sdcard.zip)
 CRC-32: `4D571806`  
 SHA-256: `f4c7cc7334f1968e83d050dd455d85ee55e37bd0b00a03dc37634a26d9495099`
 

@@ -39,7 +39,7 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 ## Version 1.99.14 (2026-11-11)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199140.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_199140.zip)
 CRC-32: `4002528E`  
 SHA-256: `df14e1424cb40d4f98b415fa4ffbaa5dd0aa750580fb80f3ff293e7b9c62d699`
 
@@ -53,7 +53,7 @@ SHA-256: `df14e1424cb40d4f98b415fa4ffbaa5dd0aa750580fb80f3ff293e7b9c62d699`
 
 ## Version 1.99.12 (2026-11-06)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199120.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_199120.zip)
 CRC-32: `F74A30C8`  
 SHA-256: `5bcae7eec0b201bb809a0ab33683c9801c5c9ad4954a7b5cb19637efd0efab99`
 
@@ -69,7 +69,7 @@ SHA-256: `5bcae7eec0b201bb809a0ab33683c9801c5c9ad4954a7b5cb19637efd0efab99`
 
 ## Version 1.99.11 (2026-11-03)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199110.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_199110.zip)
 CRC-32: `F09B9CCF`  
 SHA-256: `d07c1df215628c3607e523d1b555084bfd0226cabe3103a2eb6dc6aaf3b242e0`
 
@@ -83,7 +83,7 @@ SHA-256: `d07c1df215628c3607e523d1b555084bfd0226cabe3103a2eb6dc6aaf3b242e0`
 
 ## Version 1.99.10 (2026-11-02)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199100.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_199100.zip)
 CRC-32: `5B80DBC3`  
 SHA-256: `324f98c3f1a7fc0dc7164f7af5aa9ed65691bf52afe13673600515bec6c4d9b5`
 
@@ -98,7 +98,7 @@ SHA-256: `324f98c3f1a7fc0dc7164f7af5aa9ed65691bf52afe13673600515bec6c4d9b5`
 
 ## Version 1.99.9 (2026-11-01)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19990.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_19990.zip)
 CRC-32: `4AAF4EA1`  
 SHA-256: `631c49e35882332b4a456ac77c632658df04c158762d77e6a85f4bdbedb0832e`
 
@@ -116,7 +116,7 @@ SHA-256: `631c49e35882332b4a456ac77c632658df04c158762d77e6a85f4bdbedb0832e`
 
 ## Version 1.99.8 (2026-10-31)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19980.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_19980.zip)
 CRC-32: `C662FE56`  
 SHA-256: `77d1d4f9e66e06f12b27b27b72c0ac346fdb313b1256962c69db4abf753d7c54`
 
@@ -133,7 +133,7 @@ SHA-256: `77d1d4f9e66e06f12b27b27b72c0ac346fdb313b1256962c69db4abf753d7c54`
 
 ## Version 1.99.7 (2026-10-29)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19970.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_19970.zip)
 CRC-32: `F1BAC5C1`  
 SHA-256: `f2059582a6ef05e8dc924b4594be3868818b1082fe0e318d70a0deb6966553d3`
 
@@ -152,7 +152,7 @@ SHA-256: `f2059582a6ef05e8dc924b4594be3868818b1082fe0e318d70a0deb6966553d3`
 
 ## Version 1.99.5 (2026-10-20)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19950.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_19950.zip)
 CRC-32: `C6313A57`  
 SHA-256: `8db286aad4c34c3b8e627bf3d2f6d6d20948c0e089b0939cf494f98b3b2e2e58`
 
@@ -167,7 +167,7 @@ SHA-256: `8db286aad4c34c3b8e627bf3d2f6d6d20948c0e089b0939cf494f98b3b2e2e58`
 
 ## Version 1.99.2 (2026-10-18)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19920.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_19920.zip)
 CRC-32: `74E7CE83`  
 SHA-256: `1a764a5a07cdb21eedd72d1c0e311d77095c9aad7dbf27f134299989d9982822`
 
@@ -180,7 +180,7 @@ SHA-256: `1a764a5a07cdb21eedd72d1c0e311d77095c9aad7dbf27f134299989d9982822`
 
 ## Version 1.99.1 (2026-10-16)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19910.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_19910.zip)
 CRC-32: `7A690E36`  
 SHA-256: `df0d6da41b94fe9c1f3daa904424d6523e64644e3d1053837f04f8d6d7d5362b`
 
@@ -197,7 +197,7 @@ SHA-256: `df0d6da41b94fe9c1f3daa904424d6523e64644e3d1053837f04f8d6d7d5362b`
 
 ## Version 1.99.0 (2026-10-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1990.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1990.zip)
 CRC-32: `7D5B6BE8`  
 SHA-256: `476cad225a8cab37317179690f416d5118d2584139f90f90c1ae05824eca0dbf`
 
@@ -211,7 +211,7 @@ SHA-256: `476cad225a8cab37317179690f416d5118d2584139f90f90c1ae05824eca0dbf`
 
 ## Version 1.98.2 (2026-10-13)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1982.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1982.zip)
 CRC-32: `7AF748C9`  
 SHA-256: `076d76d37081161c747c4b66023843b90a0140ae36fa12c06900d50b80e001bb`
 
@@ -224,7 +224,7 @@ SHA-256: `076d76d37081161c747c4b66023843b90a0140ae36fa12c06900d50b80e001bb`
 
 ## Version 1.98.1 (2026-10-13)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1981.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1981.zip)
 CRC-32: `B9E8DF75`  
 SHA-256: `bcaaa29949c4738c54a0155c8d098df76259379645191a0dfbba89f9d6b871cb`
 
@@ -243,7 +243,7 @@ SHA-256: `bcaaa29949c4738c54a0155c8d098df76259379645191a0dfbba89f9d6b871cb`
 
 ## Version 1.96.1 (2026-10-10)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1961.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1961.zip)
 CRC-32: `783ADB18`  
 SHA-256: `a85bb16c2b7854d04bc043760a0e747c0b63ae4dd222cf0b64b179ce1dfb8916`
 
@@ -256,7 +256,7 @@ SHA-256: `a85bb16c2b7854d04bc043760a0e747c0b63ae4dd222cf0b64b179ce1dfb8916`
 
 ## Version 1.96.0 (2026-10-09)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1960.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1960.zip)
 CRC-32: `B414787F`  
 SHA-256: `0ad8c8c0fa5597ee054d87f45b882e3fc47c76a5fb26089678527aec5c71c8e5`
 
@@ -273,7 +273,7 @@ SHA-256: `0ad8c8c0fa5597ee054d87f45b882e3fc47c76a5fb26089678527aec5c71c8e5`
 
 ## Version 1.95.0 (2026-10-08)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1950.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1950.zip)
 CRC-32: `5C1208FB`  
 SHA-256: `28e46bd713d594dd798a42ec2bfe03bdbc258326fdea19c0353730b60844c564`
 
@@ -288,7 +288,7 @@ SHA-256: `28e46bd713d594dd798a42ec2bfe03bdbc258326fdea19c0353730b60844c564`
 
 ## Version 1.94.0 (2026-10-04)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1940.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1940.zip)
 CRC-32: `D5C2F930`  
 SHA-256: `0fff11ea27a0c8a5e0c8ec42696d761dc4311855915ad5716aad64b6a6508ab0`
 
@@ -306,7 +306,7 @@ SHA-256: `0fff11ea27a0c8a5e0c8ec42696d761dc4311855915ad5716aad64b6a6508ab0`
 
 ## Version 1.93.2 (2026-10-03)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1932.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1932.zip)
 CRC-32: `5E8D3899`  
 SHA-256: `7ec1b081b38f96da4cdfb5d561c5741466b1b0073cb83de5508022bb0d1aa4ca`
 
@@ -320,7 +320,7 @@ SHA-256: `7ec1b081b38f96da4cdfb5d561c5741466b1b0073cb83de5508022bb0d1aa4ca`
 
 ## Version 1.93.1 (2026-10-02)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1931.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1931.zip)
 CRC-32: `9B8A6E05`  
 SHA-256: `fabbb79da7a0f21c5f55917a3354bc914465be3e539c287e81f3dfc73cfd2c22`
 
@@ -333,7 +333,7 @@ SHA-256: `fabbb79da7a0f21c5f55917a3354bc914465be3e539c287e81f3dfc73cfd2c22`
 
 ## Version 1.93.0 (2026-10-02)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1930.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1930.zip)
 CRC-32: `8B7457F0`  
 SHA-256: `95d0b3effc69931518d85f9c1488235469e3625f75d41d388351c75115a7e66b`
 
@@ -346,7 +346,7 @@ SHA-256: `95d0b3effc69931518d85f9c1488235469e3625f75d41d388351c75115a7e66b`
 
 ## Version 1.92.0 (2026-09-30)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1920.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1920.zip)
 CRC-32: `C73216E7`  
 SHA-256: `89667ec5c7941aca86cd6c261fd03adb544e84ebdf7153878fc4d4ddf860ff90`
 
@@ -364,7 +364,7 @@ SHA-256: `89667ec5c7941aca86cd6c261fd03adb544e84ebdf7153878fc4d4ddf860ff90`
 
 ## Version 1.91.0 (2026-09-29)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1910.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1910.zip)
 CRC-32: `3531B5F7`  
 SHA-256: `4578df82ee9ad165be2347e9f7f67700ad7dfd622207eae116e60848c0bfd179`
 
@@ -376,7 +376,7 @@ SHA-256: `4578df82ee9ad165be2347e9f7f67700ad7dfd622207eae116e60848c0bfd179`
 
 ## Version 1.90.1 (2026-09-29)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1901.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1901.zip)
 CRC-32: `3ABB8190`  
 SHA-256: `dab960404c64382daa3ef069f66ad8e949c21c7cad8b367dc143eeb355dffbd9`
 
@@ -389,7 +389,7 @@ SHA-256: `dab960404c64382daa3ef069f66ad8e949c21c7cad8b367dc143eeb355dffbd9`
 
 ## Version 1.90.0 (2026-09-28)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1900.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1900.zip)
 CRC-32: `4286F284`  
 SHA-256: `ee918b6e6fea30f952675e50a5ac3c39ca2484edf143c81880478312c74743de`
 
@@ -402,7 +402,7 @@ SHA-256: `ee918b6e6fea30f952675e50a5ac3c39ca2484edf143c81880478312c74743de`
 
 ## Version 1.89.0 (2026-09-28)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1890.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1890.zip)
 CRC-32: `642D61D4`  
 SHA-256: `ebb8969600d4ce945540d18871e817ab43298560fdcbe3ceff8c1056877204a7`
 
@@ -414,7 +414,7 @@ SHA-256: `ebb8969600d4ce945540d18871e817ab43298560fdcbe3ceff8c1056877204a7`
 
 ## Version 1.88.0 (2026-09-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1880.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1880.zip)
 CRC-32: `31A1B22A`  
 SHA-256: `b8ec458b949522c5a62236ed5519f046cb5c66f9e02fdbdda7d31f7de385693b`
 
@@ -430,7 +430,7 @@ SHA-256: `b8ec458b949522c5a62236ed5519f046cb5c66f9e02fdbdda7d31f7de385693b`
 
 ## Version 1.87.4 (2026-09-26)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1874.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1874.zip)
 CRC-32: `0F1969CA`  
 SHA-256: `ac42b66884b88cb9fc1c944f7fd575bfe3f3e4a0e23e8a6ac272c9e45737430f`
 
@@ -443,7 +443,7 @@ SHA-256: `ac42b66884b88cb9fc1c944f7fd575bfe3f3e4a0e23e8a6ac272c9e45737430f`
 
 ## Version 1.87.3 (2026-09-25)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1873.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1873.zip)
 CRC-32: `6DCE6294`  
 SHA-256: `b90be0e654322d6f41119827ff5c3ed6d1493c2565bb3484753158d406400a21`
 
@@ -459,7 +459,7 @@ SHA-256: `b90be0e654322d6f41119827ff5c3ed6d1493c2565bb3484753158d406400a21`
 
 ## Version 1.87.2 (2026-09-24)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1872.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1872.zip)
 CRC-32: `15D705CA`  
 SHA-256: `58e5ceef02fbf4bfd262ec7e48f5bf0154cf48ff7ba0ce557d2bc3e8f5df8559`
 
@@ -471,7 +471,7 @@ SHA-256: `58e5ceef02fbf4bfd262ec7e48f5bf0154cf48ff7ba0ce557d2bc3e8f5df8559`
 
 ## Version 1.87.1 (2026-09-23)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1871.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1871.zip)
 CRC-32: `F33C0970`  
 SHA-256: `85f859e4e1098117ece81621d48dc88e3c2d605fff535163439022693ddf10d5`
 
@@ -483,7 +483,7 @@ SHA-256: `85f859e4e1098117ece81621d48dc88e3c2d605fff535163439022693ddf10d5`
 
 ## Version 1.87.0 (2026-09-22)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1870.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1870.zip)
 CRC-32: `3B627800`  
 SHA-256: `f17197366df5e1ed0140db60a0b28086c2fef214f673dad28be63871e26533f5`
 
@@ -498,7 +498,7 @@ SHA-256: `f17197366df5e1ed0140db60a0b28086c2fef214f673dad28be63871e26533f5`
 
 ## Version 1.86.0 (2026-09-22)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1860.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1860.zip)
 CRC-32: `61A444D9`  
 SHA-256: `feb55cf3c7082223e94ccd12d1948883671621c6c293fea1e0780bc27c1cdcf8`
 
@@ -514,7 +514,7 @@ SHA-256: `feb55cf3c7082223e94ccd12d1948883671621c6c293fea1e0780bc27c1cdcf8`
 
 ## Version 1.85.0 (2026-09-21)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1850.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1850.zip)
 CRC-32: `D23B038C`  
 SHA-256: `af877da5e9ffb8f0ac825e4976a296b448e1bdc48cbec4be138bff0d737ba427`
 
@@ -526,7 +526,7 @@ SHA-256: `af877da5e9ffb8f0ac825e4976a296b448e1bdc48cbec4be138bff0d737ba427`
 
 ## Version 1.84.0 (2026-09-20)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1840.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1840.zip)
 CRC-32: `127C3B64`  
 SHA-256: `becc41e81d9423517644349dc93231314efd04e51a54b288dfb54a4d12c4078f`
 
@@ -542,7 +542,7 @@ SHA-256: `becc41e81d9423517644349dc93231314efd04e51a54b288dfb54a4d12c4078f`
 
 ## Version 1.82.1 (2026-09-18)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1821.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1821.zip)
 CRC-32: `D953ED66`  
 SHA-256: `006cb18908685c54fdccc9770221ce5aa4269ee450eac1558ccff11f5df20cfd`
 
@@ -559,7 +559,7 @@ SHA-256: `006cb18908685c54fdccc9770221ce5aa4269ee450eac1558ccff11f5df20cfd`
 
 ## Version 1.80.1 (2026-09-12)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1801.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1801.zip)
 CRC-32: `C748447C`  
 SHA-256: `06eda61c71c57cec82c48f1709e056be4a8725a3d5d4a6b3b3d69fbea88d6118`
 
@@ -572,7 +572,7 @@ SHA-256: `06eda61c71c57cec82c48f1709e056be4a8725a3d5d4a6b3b3d69fbea88d6118`
 
 ## Version 1.80.0 (2026-09-11)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1800.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1800.zip)
 CRC-32: `2851F5E2`  
 SHA-256: `aa2d5f0ea7dd6efedeffdee959b990a0eb9360fc5dc8b91a06443a86f12c3e58`
 
@@ -593,7 +593,7 @@ SHA-256: `aa2d5f0ea7dd6efedeffdee959b990a0eb9360fc5dc8b91a06443a86f12c3e58`
 
 ## Version 1.77.0 (2026-08-28)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1770.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1770.zip)
 CRC-32: `D17B6712`  
 SHA-256: `79dd79826c9013a0b7d3c6c4b3496a4aecf218850e63bbffa6823c7b7fafa488`
 
@@ -608,7 +608,7 @@ SHA-256: `79dd79826c9013a0b7d3c6c4b3496a4aecf218850e63bbffa6823c7b7fafa488`
 
 ## Version 1.75.0 (2026-08-16)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1750.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1750.zip)
 CRC-32: `9CD45542`  
 SHA-256: `b46a93411843f4d6f50aacfa15db36697a53057fdf5cb1cd17ea067b095e6fb5`
 
@@ -627,7 +627,7 @@ SHA-256: `b46a93411843f4d6f50aacfa15db36697a53057fdf5cb1cd17ea067b095e6fb5`
 
 ## Version 1.72.0 (2026-08-07)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1720.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1720.zip)
 CRC-32: `41839944`  
 SHA-256: `e9787d60e92f84a20c7fe9a5b5612ab5855f1525cae8d4ee8e010532313ca55f`
 
@@ -641,7 +641,7 @@ SHA-256: `e9787d60e92f84a20c7fe9a5b5612ab5855f1525cae8d4ee8e010532313ca55f`
 
 ## Version 1.71.0 (2026-08-02)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1710.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1710.zip)
 CRC-32: `5D99E5AC`  
 SHA-256: `f26770444abe00ee5f45a9c666ec3cbec5d51eabaed2b96e19a8bff0d9695c42`
 
@@ -655,7 +655,7 @@ SHA-256: `f26770444abe00ee5f45a9c666ec3cbec5d51eabaed2b96e19a8bff0d9695c42`
 
 ## Version 1.67.1b (2026-08-01)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1671.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1671.zip)
 CRC-32: `9921AF38`  
 SHA-256: `fe90fe271c343aa3e000c3bf41eb39aa621d9c3265ff8a3b5b504df632077f19`
 
@@ -672,7 +672,7 @@ SHA-256: `fe90fe271c343aa3e000c3bf41eb39aa621d9c3265ff8a3b5b504df632077f19`
 
 ## Version 1.67.0 (2026-07-31)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1670.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1670.zip)
 CRC-32: `70C5AC9B`  
 SHA-256: `ba9335fd3e98e2ec41941751fd6d868c6dfeaf69b41ac4b7ef22aeccea9b08cb`
 
@@ -686,7 +686,7 @@ SHA-256: `ba9335fd3e98e2ec41941751fd6d868c6dfeaf69b41ac4b7ef22aeccea9b08cb`
 
 ## Version 1.65.1 (2026-07-28)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1651.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1651.zip)
 CRC-32: `3E5CC34D`  
 SHA-256: `62b6aadbd6b8b1953f352d9c1bf041222cca70d708ceedad1c7d34a2c4b01339`
 
@@ -702,7 +702,7 @@ SHA-256: `62b6aadbd6b8b1953f352d9c1bf041222cca70d708ceedad1c7d34a2c4b01339`
 
 ## Version 1.64.1 (2026-07-26)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1641.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1641.zip)
 CRC-32: `AFA20EE4`  
 SHA-256: `d090f0898ecba75aff03a5ecc9f7963b3524a2d001117f95990f625aa1c3ee6d`
 
@@ -716,7 +716,7 @@ SHA-256: `d090f0898ecba75aff03a5ecc9f7963b3524a2d001117f95990f625aa1c3ee6d`
 
 ## Version 1.63.0 (2026-07-25)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1630c.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1630c.zip)
 CRC-32: `48D69071`  
 SHA-256: `0479036bf15cb01b1700c4cd427206288c3567f536c2e68886ccc926c5a3b354`
 
@@ -731,7 +731,7 @@ SHA-256: `0479036bf15cb01b1700c4cd427206288c3567f536c2e68886ccc926c5a3b354`
 
 ## Version 1.62.0 (2026-07-24)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1620.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1620.zip)
 CRC-32: `1E1E0C2B`  
 SHA-256: `21386f29c74585f38b4d0f6e2d7683b8b74d663bb72fb21855746c349ebb69b7`
 
@@ -747,7 +747,7 @@ SHA-256: `21386f29c74585f38b4d0f6e2d7683b8b74d663bb72fb21855746c349ebb69b7`
 
 ## Version 1.59.0 (2026-07-16)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1590.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1590.zip)
 CRC-32: `E7D5EB66`  
 SHA-256: `5569148dddd0c5d6d59b50dffcedff0a6df54e86e4f52e84676a6458fca1029e`
 
@@ -761,7 +761,7 @@ SHA-256: `5569148dddd0c5d6d59b50dffcedff0a6df54e86e4f52e84676a6458fca1029e`
 
 ## Version 1.56.0 (2026-07-14)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1560.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1560.zip)
 CRC-32: `03CDB9F7`  
 SHA-256: `9fbbf43bdb15e4f906a04056b538405725f22a5a7f592d4469f12968e9e974a7`
 
@@ -777,7 +777,7 @@ SHA-256: `9fbbf43bdb15e4f906a04056b538405725f22a5a7f592d4469f12968e9e974a7`
 
 ## Version 1.53.0 (2026-07-10)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1530.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1530.zip)
 CRC-32: `70C8F993`  
 SHA-256: `771b225f6f614822544aed8a428eaa893906a2f4b36ff525239eeff4479367d8`
 
@@ -791,7 +791,7 @@ SHA-256: `771b225f6f614822544aed8a428eaa893906a2f4b36ff525239eeff4479367d8`
 
 ## Version 1.51.0 (2026-07-07)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1510.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1510.zip)
 CRC-32: `F8114246`  
 SHA-256: `bfa1c7ef90b80d50506093c8d4c68f8efebc234a8098cc0cf8e73a57f437f0f9`
 
@@ -812,7 +812,7 @@ SHA-256: `bfa1c7ef90b80d50506093c8d4c68f8efebc234a8098cc0cf8e73a57f437f0f9`
 
 ## Version 1.48.0 (2026-07-04)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1480b.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1480b.zip)
 CRC-32: `2DC11FA2`  
 SHA-256: `dbd4274b2f9fec14f50af967d075637c8290eb24ee1cd96c3eba43fcd33be089`
 
@@ -831,7 +831,7 @@ SHA-256: `dbd4274b2f9fec14f50af967d075637c8290eb24ee1cd96c3eba43fcd33be089`
 
 ## Version 1.44.0 (2026-06-29)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1440.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1440.zip)
 CRC-32: `55AFCDC4`  
 SHA-256: `71854f25d001e8e77b99264c940d484e425ae368097827110a1a1efb3b5abd91`
 
@@ -847,7 +847,7 @@ SHA-256: `71854f25d001e8e77b99264c940d484e425ae368097827110a1a1efb3b5abd91`
 
 ## Version 1.42.0 (2026-06-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1420b.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1420b.zip)
 CRC-32: `FD153E62`  
 SHA-256: `ab5772baef45420690f0667273cca3296e8b9cecc8d2cc072b3fb367841104db`
 
@@ -863,7 +863,7 @@ SHA-256: `ab5772baef45420690f0667273cca3296e8b9cecc8d2cc072b3fb367841104db`
 
 ## Version 1.40.0 (2026-06-25)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1400.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1400.zip)
 CRC-32: `FA82B0B2`  
 SHA-256: `e3ca75c3974fc950bdaa9b0807db6b96e1095c431f9c4474624a52197e0c0f4c`
 
@@ -875,7 +875,7 @@ SHA-256: `e3ca75c3974fc950bdaa9b0807db6b96e1095c431f9c4474624a52197e0c0f4c`
 
 ## Version 1.37.0 (2026-06-23)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1370.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1370.zip)
 CRC-32: `2C7CB7A4`  
 SHA-256: `eeef4ffa79217da94f4139af34e680fc27f9c74870192978ed70ec356d237595`
 
@@ -892,7 +892,7 @@ SHA-256: `eeef4ffa79217da94f4139af34e680fc27f9c74870192978ed70ec356d237595`
 
 ## Version 1.31.0 (2026-06-17)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1310.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1310.zip)
 CRC-32: `527697DC`  
 SHA-256: `120b525dd83a3186014a7a44f33578f6cbc48adbc059a6b21650b0477b3640fc`
 
@@ -913,7 +913,7 @@ SHA-256: `120b525dd83a3186014a7a44f33578f6cbc48adbc059a6b21650b0477b3640fc`
 
 ## Version 1.28.0 (2026-06-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1280.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1280.zip)
 CRC-32: `80F341DE`  
 SHA-256: `8e8b4066c597b8db4aaa9794bb8c78c6f6c992bade6cc5b54b640679816f8519`
 
@@ -935,7 +935,7 @@ SHA-256: `8e8b4066c597b8db4aaa9794bb8c78c6f6c992bade6cc5b54b640679816f8519`
 
 ## Version 1.27.0 (2026-06-12)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1270.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1270.zip)
 CRC-32: `0ABFCCD6`  
 SHA-256: `22b499006d40a96dcaa70ce9dfd8b3036b51ef279e513c0ef33cf6de0668f3ca`
 
@@ -954,7 +954,7 @@ SHA-256: `22b499006d40a96dcaa70ce9dfd8b3036b51ef279e513c0ef33cf6de0668f3ca`
 
 ## Version 1.24.0 (2026-06-09)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1240.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1240.zip)
 CRC-32: `AF7943B1`  
 SHA-256: `e5d677fb0e62e1371046322bc4397370422cb369d44f4003c216d4ab24fd5994`
 
@@ -971,7 +971,7 @@ SHA-256: `e5d677fb0e62e1371046322bc4397370422cb369d44f4003c216d4ab24fd5994`
 
 ## Version 1.23.0 (2026-06-08)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1230.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1230.zip)
 CRC-32: `4FDBFCDE`  
 SHA-256: `2a1ec85b1462e4b0fc350f75a28a98960e507079673a4c9ac08b17c29e3eedd5`
 
@@ -992,7 +992,7 @@ SHA-256: `2a1ec85b1462e4b0fc350f75a28a98960e507079673a4c9ac08b17c29e3eedd5`
 
 ## Version 1.21.0 (2026-06-05)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1210.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1210.zip)
 CRC-32: `CA5B15CC`  
 SHA-256: `eef625d6e756375d336dbb9d9c3a30069f168e5cb0be8757bc80ee9829581423`
 
@@ -1011,7 +1011,7 @@ SHA-256: `eef625d6e756375d336dbb9d9c3a30069f168e5cb0be8757bc80ee9829581423`
 
 ## Version 1.17.0 (2026-05-31)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1170.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1170.zip)
 CRC-32: `B4258D24`  
 SHA-256: `0fb32a35ad03d4a92f219b6c07497dfef9fc27313c0254053c0e9aa20aed19c3`
 
@@ -1027,7 +1027,7 @@ SHA-256: `0fb32a35ad03d4a92f219b6c07497dfef9fc27313c0254053c0e9aa20aed19c3`
 
 ## Version 1.10.0 (2026-05-26)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1100b.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1100b.zip)
 CRC-32: `D6EB7FB0`  
 SHA-256: `7d0ab781f7bb06ff59477686d2309d45dfb692ee796acc228e6ec5fc7461357a`
 
@@ -1042,7 +1042,7 @@ SHA-256: `7d0ab781f7bb06ff59477686d2309d45dfb692ee796acc228e6ec5fc7461357a`
 
 ## Version 1.9.9.9.9 (2026-05-06)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_19999.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_19999.zip)
 CRC-32: `DDB344D5`  
 SHA-256: `15936424b290da8ff916554acfcefca26cf95dc4fd12175cad58d10b0adf24cd`
 
@@ -1054,7 +1054,7 @@ SHA-256: `15936424b290da8ff916554acfcefca26cf95dc4fd12175cad58d10b0adf24cd`
 
 ## Version 1.9.9.A (2026-05-04)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199A.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_199A.zip)
 CRC-32: `24C7FF00`  
 SHA-256: `57155fced6fc19879683d009b4f5ede5ea36a034d0365e70b91087bf0e5bbc08`
 
@@ -1067,7 +1067,7 @@ SHA-256: `57155fced6fc19879683d009b4f5ede5ea36a034d0365e70b91087bf0e5bbc08`
 
 ## Version 1.9.9.9 (2026-04-29)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1999.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1999.zip)
 CRC-32: `EA38A114`  
 SHA-256: `37cd5c7857ee32a24d8236f418a74258a14a49afcb8c6e2be94251e04cae7577`
 
@@ -1081,7 +1081,7 @@ SHA-256: `37cd5c7857ee32a24d8236f418a74258a14a49afcb8c6e2be94251e04cae7577`
 
 ## Version 1.9.9.8 (2026-02-14)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1998ffs.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1998ffs.zip)
 CRC-32: `D5014541`  
 SHA-256: `a3fe3e0d73f3789c166a84e0b399231bead5d621462812ad5c7448853f1412a5`
 
@@ -1100,7 +1100,7 @@ SHA-256: `a3fe3e0d73f3789c166a84e0b399231bead5d621462812ad5c7448853f1412a5`
 
 ## Version 1.9.9.7 (2025-12-30)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1997.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1997.zip)
 CRC-32: `25E41F4C`  
 SHA-256: `63c09f6474db3331368ebe913cedc9c2092ee4009416e927d1759139a125c767`
 
@@ -1120,7 +1120,7 @@ SHA-256: `63c09f6474db3331368ebe913cedc9c2092ee4009416e927d1759139a125c767`
 
 ## Version 1.9.9.6 (2025-12-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1996.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1996.zip)
 CRC-32: `FBE95928`  
 SHA-256: `02c8ed818ce793b6fa6eb7165fc22bb4b41fb7e5018944d3c78dc01df2f3e5fc`
 
@@ -1145,7 +1145,7 @@ SHA-256: `02c8ed818ce793b6fa6eb7165fc22bb4b41fb7e5018944d3c78dc01df2f3e5fc`
 
 ## Version 1.9.9.5 (2025-12-01)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1995.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1995.zip)
 CRC-32: `03992353`  
 SHA-256: `6f6101668fa0d6c203cfdc2da66ff57ac27c65b436b855f211e12a7e5340d23b`
 
@@ -1170,7 +1170,7 @@ SHA-256: `6f6101668fa0d6c203cfdc2da66ff57ac27c65b436b855f211e12a7e5340d23b`
 
 ## Version 1.9.9.4 (2025-11-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1994.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1994.zip)
 CRC-32: `08460144`  
 SHA-256: `a536f2093be5235beec75591dd56d71a6a85fc481a8cff10d2cf4d0d31ffb692`
 
@@ -1181,7 +1181,7 @@ SHA-256: `a536f2093be5235beec75591dd56d71a6a85fc481a8cff10d2cf4d0d31ffb692`
 
 ## Version 1.9.9.3 (2025-11-12)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1993.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1993.zip)
 CRC-32: `2BF01028`  
 SHA-256: `57489ab3fe33c2d23bae09de3cc02b96f975812885c1b4d862c101faf968b673`
 
@@ -1199,7 +1199,7 @@ SHA-256: `57489ab3fe33c2d23bae09de3cc02b96f975812885c1b4d862c101faf968b673`
 
 ## Version 1.9.9.2 (2025-11-08)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1992.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1992.zip)
 CRC-32: `56EB2A4D`  
 SHA-256: `8c03c844651790184ad1bf5eecf56ae60c7e9f21360279098649bd8e2494c35d`
 
@@ -1213,7 +1213,7 @@ SHA-256: `8c03c844651790184ad1bf5eecf56ae60c7e9f21360279098649bd8e2494c35d`
 
 ## Version 1.9.9.1 (2025-10-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_1991.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_1991.zip)
 CRC-32: `C26A721A`  
 SHA-256: `71833408930131e96fdc60d54b94adc8309bcb90e2a7d462a841bcb6148a65bb`
 
@@ -1229,7 +1229,7 @@ SHA-256: `71833408930131e96fdc60d54b94adc8309bcb90e2a7d462a841bcb6148a65bb`
 
 ## Version 1.9.9 (2025-09-14)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_199.zip)
 CRC-32: `943EFA43`  
 SHA-256: `f0503a7e646994cd50cbab5b90c92603d0ed170f1d2f967ddc9222822c163418`
 
@@ -1243,7 +1243,7 @@ SHA-256: `f0503a7e646994cd50cbab5b90c92603d0ed170f1d2f967ddc9222822c163418`
 
 ## Version 1.9.8 (2025-09-06)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_198.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_198.zip)
 CRC-32: `BDEDEA0E`  
 SHA-256: `8ef21766c10c0299b66969110dd36f46552b13514267b738c898b45c165ca195`
 
@@ -1260,7 +1260,7 @@ SHA-256: `8ef21766c10c0299b66969110dd36f46552b13514267b738c898b45c165ca195`
 
 ## Version 1.9.7 (2025-09-04)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_197.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_197.zip)
 CRC-32: `39D7B736`  
 SHA-256: `25cf947b90e30ba1d44f3c4155dc1efd99c9efc4f6dfc277a4e8911fe9965c56`
 
@@ -1279,7 +1279,7 @@ SHA-256: `25cf947b90e30ba1d44f3c4155dc1efd99c9efc4f6dfc277a4e8911fe9965c56`
 
 ## Version 1.9.6 (2025-08-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_196.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_196.zip)
 CRC-32: `62E848CB`  
 SHA-256: `20d244a0bba4ee630afa2cf2bc4c946af8ef7637e8d69d723d6b42c4d0ab94b1`
 
@@ -1292,7 +1292,7 @@ SHA-256: `20d244a0bba4ee630afa2cf2bc4c946af8ef7637e8d69d723d6b42c4d0ab94b1`
 
 ## Version 1.9.5 (2025-07-21)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_195.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_195.zip)
 CRC-32: `BE3560BF`  
 SHA-256: `23fe446ddbda7ac1467a6496e37221b7c91cb5fa1f4c79213a37874c2c1bc696`
 
@@ -1303,7 +1303,7 @@ SHA-256: `23fe446ddbda7ac1467a6496e37221b7c91cb5fa1f4c79213a37874c2c1bc696`
 
 ## Version 1.9.4 (2025-07-17)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_194d.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_194d.zip)
 CRC-32: `B279B308`  
 SHA-256: `e4e48360e7ab89be2d521de30f1d99faaa967de052fdd12923e1b9bd09135941`
 
@@ -1317,7 +1317,7 @@ SHA-256: `e4e48360e7ab89be2d521de30f1d99faaa967de052fdd12923e1b9bd09135941`
 
 ## Version 1.9.3 (2025-06-22)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_193.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_193.zip)
 CRC-32: `D25C9C9C`  
 SHA-256: `ea3586fbdf3eba2cdcc2f7c713076c710b263437a6f01f3c690df583972eeabc`
 
@@ -1332,7 +1332,7 @@ SHA-256: `ea3586fbdf3eba2cdcc2f7c713076c710b263437a6f01f3c690df583972eeabc`
 
 ## Version 1.9.2 (2025-06-21)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_192.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_192.zip)
 CRC-32: `551D1CEB`  
 SHA-256: `be781bc22601f216af10835e8093d1779e53740062d4122847c7a0bc551db8b1`
 
@@ -1347,7 +1347,7 @@ SHA-256: `be781bc22601f216af10835e8093d1779e53740062d4122847c7a0bc551db8b1`
 
 ## Version 1.9.1 (2025-06-20)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_191.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_191.zip)
 CRC-32: `5BF7977A`  
 SHA-256: `841dc9a81a4bed33657ab291f33cf77e9a4de6eecd83382d19f443b66424e456`
 
@@ -1362,7 +1362,7 @@ SHA-256: `841dc9a81a4bed33657ab291f33cf77e9a4de6eecd83382d19f443b66424e456`
 
 ## Version 1.9.0 (2025-06-19)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_190.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_190.zip)
 CRC-32: `B8E14D87`  
 SHA-256: `24452cc74fe256cebc60f318bd241d6678501b4012dca250fe7b1645e68c6217`
 
@@ -1375,7 +1375,7 @@ SHA-256: `24452cc74fe256cebc60f318bd241d6678501b4012dca250fe7b1645e68c6217`
 
 ## Version 1.8.9 (2025-06-17)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_189.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_189.zip)
 CRC-32: `86EC8831`  
 SHA-256: `8a106ff73dead927abfdd3bd7860cbae0feb75b4318e556e173e4bd309d3d0c9`
 
@@ -1392,7 +1392,7 @@ SHA-256: `8a106ff73dead927abfdd3bd7860cbae0feb75b4318e556e173e4bd309d3d0c9`
 
 ## Version 1.8.8 (2025-06-16)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_188.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_188.zip)
 CRC-32: `89766584`  
 SHA-256: `fdf9bb002e8837bf96b19e5b8869c36b689e1d6c967e263166269d706b384d55`
 
@@ -1405,7 +1405,7 @@ SHA-256: `fdf9bb002e8837bf96b19e5b8869c36b689e1d6c967e263166269d706b384d55`
 
 ## Version 1.8.7 (2025-06-11)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_187.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_187.zip)
 CRC-32: `0D41F819`  
 SHA-256: `1dfb1f1032b67994362d3115ac79c7c36d92d83f60170c5ea15f1a589bd0aa58`
 
@@ -1417,7 +1417,7 @@ SHA-256: `1dfb1f1032b67994362d3115ac79c7c36d92d83f60170c5ea15f1a589bd0aa58`
 
 ## Version 1.8.6 (2025-06-07)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_186.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_186.zip)
 CRC-32: `1AF32B66`  
 SHA-256: `5450073d9a0d983214d292cbdec6d7e2bac80b0ea0498ee843ff3589254569ce`
 
@@ -1432,7 +1432,7 @@ SHA-256: `5450073d9a0d983214d292cbdec6d7e2bac80b0ea0498ee843ff3589254569ce`
 
 ## Version 1.8.5 (2025-06-05)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_185.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_185.zip)
 CRC-32: `1564376C`  
 SHA-256: `0101f1612eaddbeb509c689846ac2ef501d1d71f847a759aaa0ae4a4298227fa`
 
@@ -1444,7 +1444,7 @@ SHA-256: `0101f1612eaddbeb509c689846ac2ef501d1d71f847a759aaa0ae4a4298227fa`
 
 ## Version 1.8.4 (2025-06-04)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_184.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_184.zip)
 CRC-32: `428D1FFA`  
 SHA-256: `4860b93ac6adac84f29bbfbcf8456dbbcfad850e3ecc31263fc58b681813860c`
 
@@ -1460,7 +1460,7 @@ SHA-256: `4860b93ac6adac84f29bbfbcf8456dbbcfad850e3ecc31263fc58b681813860c`
 
 ## Version 1.8.3 (2025-05-30)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_183.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_183.zip)
 CRC-32: `AC5053C3`  
 SHA-256: `d5d046438492397a2c14684af5d17504f7fba982905f9451eb7332270e019e07`
 
@@ -1474,7 +1474,7 @@ SHA-256: `d5d046438492397a2c14684af5d17504f7fba982905f9451eb7332270e019e07`
 
 ## Version 1.8.2 (2025-05-24)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_182.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_182.zip)
 CRC-32: `4628B522`  
 SHA-256: `4bf2a7b005b7b245d2ded9a2af9a13db2ef350b03ea7c38a67de4b5606d7284b`
 
@@ -1488,7 +1488,7 @@ SHA-256: `4bf2a7b005b7b245d2ded9a2af9a13db2ef350b03ea7c38a67de4b5606d7284b`
 
 ## Version 1.8.1 (2025-05-19)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_181.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_181.zip)
 CRC-32: `A90953B5`  
 SHA-256: `aa5d0cc2f08f298cd875b3310ae1ffd1f01445f6f51e20dca83c7926956b973d`
 
@@ -1501,7 +1501,7 @@ SHA-256: `aa5d0cc2f08f298cd875b3310ae1ffd1f01445f6f51e20dca83c7926956b973d`
 
 ## Version 1.8.0 (2025-04-19)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_180.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_180.zip)
 CRC-32: `749BA614`  
 SHA-256: `96749cd92dc56f36e0b8da89fa0077fc46409bae9dfd091463dbe7edc728bbc7`
 
@@ -1513,7 +1513,7 @@ SHA-256: `96749cd92dc56f36e0b8da89fa0077fc46409bae9dfd091463dbe7edc728bbc7`
 
 ## Version 1.7.9 (2025-03-30)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_179b.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_179b.zip)
 CRC-32: `45052FFE`  
 SHA-256: `15559087d48504e01af83dc7e05e27b5b5c6b6333cc6eb79be3435a4fbe7ee77`
 
@@ -1524,7 +1524,7 @@ SHA-256: `15559087d48504e01af83dc7e05e27b5b5c6b6333cc6eb79be3435a4fbe7ee77`
 
 ## Version 1.7.8 (2025-03-26)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_178.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_178.zip)
 CRC-32: `4464E165`  
 SHA-256: `595a500ce0818fd2394153c06a7b476cf15ccce4696a0020226a983fdf124679`
 
@@ -1535,7 +1535,7 @@ SHA-256: `595a500ce0818fd2394153c06a7b476cf15ccce4696a0020226a983fdf124679`
 
 ## Version 1.7.7 (2025-03-21)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_177.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_177.zip)
 CRC-32: `BE9653A4`  
 SHA-256: `57a3b0f3ca864bb829c26404fa47fda2648f0327313f518d2ca24d7c42b3bced`
 
@@ -1546,7 +1546,7 @@ SHA-256: `57a3b0f3ca864bb829c26404fa47fda2648f0327313f518d2ca24d7c42b3bced`
 
 ## Version 1.7.6 (2025-03-01)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_176.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_176.zip)
 CRC-32: `A4CB5124`  
 SHA-256: `9b5cbbda68877334233603b7ea5f3b215c56676c4d020aec228dbd01f4752273`
 
@@ -1557,7 +1557,7 @@ SHA-256: `9b5cbbda68877334233603b7ea5f3b215c56676c4d020aec228dbd01f4752273`
 
 ## Version 1.7.5 (2025-02-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_175.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_175.zip)
 CRC-32: `C4F55C29`  
 SHA-256: `d1db97f67d1b094b2f87218c876e46d89d96a3c8ec02a70fbd4e9c3c4f06b5fb`
 
@@ -1570,7 +1570,7 @@ SHA-256: `d1db97f67d1b094b2f87218c876e46d89d96a3c8ec02a70fbd4e9c3c4f06b5fb`
 
 ## Version 1.7.4 (2025-02-17)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_174.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_174.zip)
 CRC-32: `A7C07F7A`  
 SHA-256: `9ad552b6880d686d513b764d8ce7ffcdf464491ec42a3bb981c67ff688696ae2`
 
@@ -1582,7 +1582,7 @@ SHA-256: `9ad552b6880d686d513b764d8ce7ffcdf464491ec42a3bb981c67ff688696ae2`
 
 ## Version 1.7.2 (2025-01-11)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_172.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_172.zip)
 CRC-32: `2EA850F2`  
 SHA-256: `bb2c56f963379e02e723b7b9d8d54284779c7efce380cd9aebe0da1a5e8cc1e9`
 
@@ -1597,7 +1597,7 @@ SHA-256: `bb2c56f963379e02e723b7b9d8d54284779c7efce380cd9aebe0da1a5e8cc1e9`
 
 ## Version 1.7.1 (2025-01-06)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_171.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_171.zip)
 CRC-32: `EF416BB1`  
 SHA-256: `48a9f11a84a5a3cdb1d446fd1ce79dac2a245d5099c2d928fac23116c10fe28f`
 
@@ -1611,7 +1611,7 @@ SHA-256: `48a9f11a84a5a3cdb1d446fd1ce79dac2a245d5099c2d928fac23116c10fe28f`
 
 ## Version 1.7.0 (2024-11-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_170b.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_170b.zip)
 CRC-32: `4D8EC4B6`  
 SHA-256: `61a986f27ced4556250c726d8e6d1cadd2adbc6c96e58ae65e74e028325a9137`
 
@@ -1622,7 +1622,7 @@ SHA-256: `61a986f27ced4556250c726d8e6d1cadd2adbc6c96e58ae65e74e028325a9137`
 
 ## Version 1.6.9 (2024-11-09)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_169.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_169.zip)
 CRC-32: `40B12EFC`  
 SHA-256: `10edb752f03b22624fc2e2e6782752711865dcc83ca9f554028940489e7cfce7`
 
@@ -1635,7 +1635,7 @@ SHA-256: `10edb752f03b22624fc2e2e6782752711865dcc83ca9f554028940489e7cfce7`
 
 ## Version 1.6.8 (2024-11-03)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_168.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_168.zip)
 CRC-32: `66248CB5`  
 SHA-256: `ce239e4c9adf2d3cfb179e67c07ba5aae41de5111929bfbffe69c620380c44d8`
 
@@ -1651,7 +1651,7 @@ SHA-256: `ce239e4c9adf2d3cfb179e67c07ba5aae41de5111929bfbffe69c620380c44d8`
 
 ## Version 1.6.7 (2024-11-02)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_167.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_167.zip)
 CRC-32: `47AF742A`  
 SHA-256: `d2fd46f04495992fad8cb1787ef1e3e0ab53e34fbcf04220d7fc40023ceb0f4b`
 
@@ -1670,7 +1670,7 @@ SHA-256: `d2fd46f04495992fad8cb1787ef1e3e0ab53e34fbcf04220d7fc40023ceb0f4b`
 
 ## Version 1.6.6 (2024-11-01)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_166.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_166.zip)
 CRC-32: `E65DEB58`  
 SHA-256: `92C9397A6921EEED05C9A9C8FDA1BD31E01367131F1F7F9E5EA056F3308AB0B9`
 
@@ -1683,7 +1683,7 @@ SHA-256: `92C9397A6921EEED05C9A9C8FDA1BD31E01367131F1F7F9E5EA056F3308AB0B9`
 
 ## Version 1.6.5 (2024-10-20)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_165.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_165.zip)
 CRC-32: `F76A00A3`  
 SHA-256: `9cd7cc27c2fe9a307c30b81750037ae451ead590acb3b67009e6b7ef87da6c73`
 
@@ -1695,7 +1695,7 @@ SHA-256: `9cd7cc27c2fe9a307c30b81750037ae451ead590acb3b67009e6b7ef87da6c73`
 
 ## Version 1.6.4 (2024-10-19)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_164.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_164.zip)
 CRC-32: `E66A5BD2`  
 SHA-256: `6e73acf54b4ed616dca909f827cbd4c21296cc8c38d4b82b6ce521bef4b5941c`
 
@@ -1707,7 +1707,7 @@ SHA-256: `6e73acf54b4ed616dca909f827cbd4c21296cc8c38d4b82b6ce521bef4b5941c`
 
 ## Version 1.6.3 (2024-10-17)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_163.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_163.zip)
 CRC-32: `D5312BE2`  
 SHA-256: `2ACA22CB2AF1FE75D6255E59AE19ACAC0DBE2B670FFFD3CF1D1C13EF2F8BFF0C`
 
@@ -1719,7 +1719,7 @@ SHA-256: `2ACA22CB2AF1FE75D6255E59AE19ACAC0DBE2B670FFFD3CF1D1C13EF2F8BFF0C`
 
 ## Version 1.6.2 (2024-10-11)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_162.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_162.zip)
 CRC-32: `D2B55610`  
 SHA-256: `691B47BAB39ECB6743D6C7F6D9FFBB12F8C9C2C512B3EA3ADE2F3D514F5481DA`
 
@@ -1731,7 +1731,7 @@ SHA-256: `691B47BAB39ECB6743D6C7F6D9FFBB12F8C9C2C512B3EA3ADE2F3D514F5481DA`
 
 ## Version 1.6.1 (2024-10-03)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_161.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_161.zip)
 CRC-32: `A67E183E`  
 SHA-256: `30AEDA50A5805709B2AF72C416BF085B5AB353B0FAB51A24F0512BABCD523DE4`
 
@@ -1743,7 +1743,7 @@ SHA-256: `30AEDA50A5805709B2AF72C416BF085B5AB353B0FAB51A24F0512BABCD523DE4`
 
 ## Version 1.6.0 (2024-09-28)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_160.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_160.zip)
 CRC-32: `0335A147`  
 SHA-256: `1f5fdd17317eef0129a2d85a3be5ff6d948da68c509e5c8772e426d2b84a35ce`
 
@@ -1757,7 +1757,7 @@ SHA-256: `1f5fdd17317eef0129a2d85a3be5ff6d948da68c509e5c8772e426d2b84a35ce`
 
 ## Version 1.5.9 (2024-09-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_159.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_159.zip)
 CRC-32: `31852AC7`  
 SHA-256: `B9A49541FC93C654C6D07231B3297A02832387B12B7B7206FDF38A48FEED7891`
 
@@ -1769,7 +1769,7 @@ SHA-256: `B9A49541FC93C654C6D07231B3297A02832387B12B7B7206FDF38A48FEED7891`
 
 ## Version 1.5.8 (2024-09-24)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_158.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_158.zip)
 CRC-32: `CDE56C85`  
 SHA-256: `FC1196709343B7CEB5945EF511D1CDB301A6E268440174B09544CC15C99704DB`
 
@@ -1781,7 +1781,7 @@ SHA-256: `FC1196709343B7CEB5945EF511D1CDB301A6E268440174B09544CC15C99704DB`
 
 ## Version 1.5.7 (2024-09-23)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_157.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_157.zip)
 CRC-32: `B3FE25CC`  
 SHA-256: `B292BFC8D976181603795365618AD546B0EB8FF376D6606AB0B0D898B3D0C823`
 
@@ -1792,7 +1792,7 @@ SHA-256: `B292BFC8D976181603795365618AD546B0EB8FF376D6606AB0B0D898B3D0C823`
 
 ## Version 1.5.6 (2024-07-24)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_156.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_156.zip)
 CRC-32: `6A5F1615`  
 SHA-256: `80107dca81fb5bc1f73226f72da097f14885bc4e6adc1a28a58c43ae3608168f`
 
@@ -1805,7 +1805,7 @@ SHA-256: `80107dca81fb5bc1f73226f72da097f14885bc4e6adc1a28a58c43ae3608168f`
 
 ## Version 1.5.5 (2024-08-04)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_155.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_155.zip)
 CRC-32: `00C24B25`  
 SHA-256: `b4a4fe2306d2b639978652eedde22a741d78d2c21df538df3b53bea9f6209680`
 
@@ -1817,7 +1817,7 @@ SHA-256: `b4a4fe2306d2b639978652eedde22a741d78d2c21df538df3b53bea9f6209680`
 
 ## Version 1.5.4 (2024-07-20)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_154d.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_154d.zip)
 CRC-32: `D246896D`  
 SHA-256: `648de38e6678bbd523212ca057f58683d383dbaa209fa570159888aea1f80ad6`
 
@@ -1828,7 +1828,7 @@ SHA-256: `648de38e6678bbd523212ca057f58683d383dbaa209fa570159888aea1f80ad6`
 
 ## Version 1.5.3 (2024-07-17)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_153.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_153.zip)
 CRC-32: `CB28EB9D`  
 SHA-256: `B20E8A3E520FC631BDF34394AE06EB510F27BE7E6E0C37154ECD8186C5097299`
 
@@ -1840,7 +1840,7 @@ SHA-256: `B20E8A3E520FC631BDF34394AE06EB510F27BE7E6E0C37154ECD8186C5097299`
 
 ## Version 1.5.2 (2024-07-14)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_152.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_152.zip)
 CRC-32: `B78FB41F`  
 SHA-256: `60841e9f6309f0638348a244c9073af44c17a2be7868cfd411988513ef8e30ef`
 
@@ -1853,7 +1853,7 @@ SHA-256: `60841e9f6309f0638348a244c9073af44c17a2be7868cfd411988513ef8e30ef`
 
 ## Version 1.5.1 (2024-07-12)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_151.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_151.zip)
 CRC-32: `E63E310C`  
 SHA-256: `b95462b4c6af74b6b9284cc67b311a8cfcc55428d44344ccaa1655c9b88769a6`
 
@@ -1871,7 +1871,7 @@ SHA-256: `b95462b4c6af74b6b9284cc67b311a8cfcc55428d44344ccaa1655c9b88769a6`
 
 ## Version 1.5.0 (2024-06-30)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_150.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_150.zip)
 CRC-32: `D694AB62`  
 SHA-256: `07c257ee52fef2677aff8a70218e36cba67990a9a0e95447f339b434e8e49c8c`
 
@@ -1883,7 +1883,7 @@ SHA-256: `07c257ee52fef2677aff8a70218e36cba67990a9a0e95447f339b434e8e49c8c`
 
 ## Version 1.4.9 (2024-06-30)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_149.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_149.zip)
 CRC-32: `A63568F3`  
 SHA-256: `39bb2edfa67585cd6c8062095cc1b09dd5f1f2f6e0695dc71eaab8c66e80581d`
 
@@ -1898,7 +1898,7 @@ SHA-256: `39bb2edfa67585cd6c8062095cc1b09dd5f1f2f6e0695dc71eaab8c66e80581d`
 
 ## Version 1.4.8 (2024-06-23)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_148.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_148.zip)
 CRC-32: `C91F07DD`  
 SHA-256: `88cd08726be5a096a5ce959279e6b7cffd88930f4a8e1d17127c9fff552319fb`
 
@@ -1910,7 +1910,7 @@ SHA-256: `88cd08726be5a096a5ce959279e6b7cffd88930f4a8e1d17127c9fff552319fb`
 
 ## Version 1.4.7 (2024-06-05)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_147.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_147.zip)
 CRC-32: `6262C9FE`  
 SHA-256: `D7FCAA51191271BCE7CC6FC07027F95BC49976C81C27B76E6C2533AA3039C561`
 
@@ -1926,7 +1926,7 @@ SHA-256: `D7FCAA51191271BCE7CC6FC07027F95BC49976C81C27B76E6C2533AA3039C561`
 
 ## Version 1.4.5 (2024-05-11)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_145.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_145.zip)
 CRC-32: `2D22BA6B`  
 SHA-256: `62db970b9608e93c266925346e62d7ed9ac5a90b28ff92ba43862a4f0ea355d8`
 
@@ -1939,7 +1939,7 @@ SHA-256: `62db970b9608e93c266925346e62d7ed9ac5a90b28ff92ba43862a4f0ea355d8`
 
 ## Version 1.4.4 (2024-05-09)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_144.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_144.zip)
 CRC-32: `7A415229`  
 SHA-256: `7dfae4c388e44b8af86392ca3b831f3567af9a4f5facd2b5356817525d9c54c9`
 
@@ -1952,7 +1952,7 @@ SHA-256: `7dfae4c388e44b8af86392ca3b831f3567af9a4f5facd2b5356817525d9c54c9`
 
 ## Version 1.4.3 (2024-05-06)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_143.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_143.zip)
 CRC-32: `DA2A24C7`  
 SHA-256: `b42db528b24b9872fd4089e8243545baf259ca640046268cad9b96ec2d277bae`
 
@@ -1964,7 +1964,7 @@ SHA-256: `b42db528b24b9872fd4089e8243545baf259ca640046268cad9b96ec2d277bae`
 
 ## Version 1.4.2 (2024-04-27)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_142.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_142.zip)
 CRC-32: `60728C8D`  
 SHA-256: `0be711173c5b22b82d9b1643f01f7518bf07e22ce9bc2c7a9e24ab936aecbcc2`
 
@@ -1977,7 +1977,7 @@ SHA-256: `0be711173c5b22b82d9b1643f01f7518bf07e22ce9bc2c7a9e24ab936aecbcc2`
 
 ## Version 1.4.1 (2024-04-13)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_141.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_141.zip)
 CRC-32: `03D8232C`  
 SHA-256: `c1ed61c62699dbf7b9959cce9a340b8016ff3a3e25beb2e1346669ba853a8e42`
 
@@ -1989,7 +1989,7 @@ SHA-256: `c1ed61c62699dbf7b9959cce9a340b8016ff3a3e25beb2e1346669ba853a8e42`
 
 ## Version 1.4.0 (2024-04-12)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_140.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_140.zip)
 CRC-32: `7656C43A`  
 SHA-256: `69cd773e749c3e634e76a78ec19bd913158e58e50a0970e6a6e6bd5bbe5b64ba`
 
@@ -2005,7 +2005,7 @@ SHA-256: `69cd773e749c3e634e76a78ec19bd913158e58e50a0970e6a6e6bd5bbe5b64ba`
 
 ## Version 1.3.9 (2024-04-10)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_139.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_139.zip)
 CRC-32: `A9629C97`  
 SHA-256: `b1b61de04f32c8d8faa7e5331ebc688941ab51fb53db4f20e72eb42dcb17b284`
 
@@ -2018,7 +2018,7 @@ SHA-256: `b1b61de04f32c8d8faa7e5331ebc688941ab51fb53db4f20e72eb42dcb17b284`
 
 ## Version 1.3.8 (2024-04-09)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_138.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_138.zip)
 CRC-32: `29B7D33B`  
 SHA-256: `53fbad0ce852709ed8100825dded823c479b4789f5c15b1974866cef94d1a308`
 
@@ -2030,7 +2030,7 @@ SHA-256: `53fbad0ce852709ed8100825dded823c479b4789f5c15b1974866cef94d1a308`
 
 ## Version 1.3.7 (2024-04-02)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_137.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_137.zip)
 CRC-32: `748AB716`  
 SHA-256: `bc343aaba8b1e818292e39020d80ad49e9bcff11b5679a12182c64b39f27e9f2`
 
@@ -2044,7 +2044,7 @@ SHA-256: `bc343aaba8b1e818292e39020d80ad49e9bcff11b5679a12182c64b39f27e9f2`
 
 ## Version 1.3.6 (2024-04-01)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_136.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_136.zip)
 CRC-32: `A0337A45`  
 SHA-256: `4fe67d58280d160c24ef8aeb1ed1bd1d8c1a70e573dd52a5de74931b40b1e6a7`
 
@@ -2060,7 +2060,7 @@ SHA-256: `4fe67d58280d160c24ef8aeb1ed1bd1d8c1a70e573dd52a5de74931b40b1e6a7`
 
 ## Version 1.3.5 (2024-03-25)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_135.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_135.zip)
 CRC-32: `8413FD44`  
 SHA-256: `e41ee680f9958812126bf88ee89e1cad540b4a360df6ed272953d02d8593edf9`
 
@@ -2072,7 +2072,7 @@ SHA-256: `e41ee680f9958812126bf88ee89e1cad540b4a360df6ed272953d02d8593edf9`
 
 ## Version 1.3.4 (2024-03-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_134.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_134.zip)
 CRC-32: `8ED35E79`  
 SHA-256: `e07f92bcbe02cde0769add99b18b59d7acc4d74c1f9b712d0460bf31aae0d3f4`
 
@@ -2083,7 +2083,7 @@ SHA-256: `e07f92bcbe02cde0769add99b18b59d7acc4d74c1f9b712d0460bf31aae0d3f4`
 
 ## Version 1.3.3 (2024-03-13)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_133.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_133.zip)
 CRC-32: `A7F56A75`  
 SHA-256: `b811621c6fba8e6729c0acca6b658593192ef4421cfd7b48efa309cf931db46e`
 
@@ -2096,7 +2096,7 @@ SHA-256: `b811621c6fba8e6729c0acca6b658593192ef4421cfd7b48efa309cf931db46e`
 
 ## Version 1.3.2 (2024-03-09)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_132.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_132.zip)
 CRC-32: `18A6D047`  
 SHA-256: `ecf965ad42f3d43ef13f1c4dd51269d45633d2589566c81e3ff8c0b027ca5a98`
 
@@ -2107,7 +2107,7 @@ SHA-256: `ecf965ad42f3d43ef13f1c4dd51269d45633d2589566c81e3ff8c0b027ca5a98`
 
 ## Version 1.3.1 (2024-03-08)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_131.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_131.zip)
 CRC-32: `94376E67`  
 SHA-256: `7932a3e5603eef581c72721edefa4fb6847e52c50e6c1cacfb65d27eab036a0a`
 
@@ -2126,7 +2126,7 @@ SHA-256: `7932a3e5603eef581c72721edefa4fb6847e52c50e6c1cacfb65d27eab036a0a`
 
 ## Version 1.3.0 (2024-03-02)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_130.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_130.zip)
 CRC-32: `49D64C8E`  
 SHA-256: `41c898130cb88fa46431ef64ebd9492eeecd2a4ef6e4a34f6f97c83650c5febf`
 
@@ -2145,7 +2145,7 @@ SHA-256: `41c898130cb88fa46431ef64ebd9492eeecd2a4ef6e4a34f6f97c83650c5febf`
 
 ## Version 1.2.9 (2024-02-29)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_129.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_129.zip)
 CRC-32: `9142EEC1`  
 SHA-256: `3d9f6f339f639f56e0d27b0ad27255cfd5c5029b554e348e5e244f9819ee3214`
 
@@ -2159,7 +2159,7 @@ SHA-256: `3d9f6f339f639f56e0d27b0ad27255cfd5c5029b554e348e5e244f9819ee3214`
 
 ## Version 1.2.8 (2024-02-26)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_128.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_128.zip)
 CRC-32: `B8FA90A5`  
 SHA-256: `9f50948668214246fb2ae3d641a1b096e215005b1d08f3003881c6744e7b99fc`
 
@@ -2171,7 +2171,7 @@ SHA-256: `9f50948668214246fb2ae3d641a1b096e215005b1d08f3003881c6744e7b99fc`
 
 ## Version 1.2.7 (2024-02-24)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_127.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_127.zip)
 CRC-32: `9C477D57`  
 SHA-256: `e7e60c51e074f88f14951cd833c1268719a111cd3a159aa822308c5195c950d4`
 
@@ -2183,7 +2183,7 @@ SHA-256: `e7e60c51e074f88f14951cd833c1268719a111cd3a159aa822308c5195c950d4`
 
 ## Version 1.2.6 (2024-02-20)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_126.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_126.zip)
 CRC-32: `B8FA90A5`  
 SHA-256: `9f50948668214246fb2ae3d641a1b096e215005b1d08f3003881c6744e7b99fc`
 
@@ -2197,7 +2197,7 @@ SHA-256: `9f50948668214246fb2ae3d641a1b096e215005b1d08f3003881c6744e7b99fc`
 
 ## Version 1.2.5 (2024-02-18)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_125.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_125.zip)
 CRC-32: `1CCC365F`  
 SHA-256: `de914a94ab740515ae65d45400709debf13a155a4941e49cba16be069b86aeae`
 
@@ -2210,7 +2210,7 @@ SHA-256: `de914a94ab740515ae65d45400709debf13a155a4941e49cba16be069b86aeae`
 
 ## Version 1.2.4 (2024-02-14)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_124.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_124.zip)
 CRC-32: `E33EC9FB`  
 SHA-256: `fcd9a1a7a44f02807585bc0b10c7b5ee564932133f3cd3a61b0d92529887941f`
 
@@ -2223,7 +2223,7 @@ SHA-256: `fcd9a1a7a44f02807585bc0b10c7b5ee564932133f3cd3a61b0d92529887941f`
 
 ## Version 1.2.3 (2024-02-11)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_123.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_123.zip)
 CRC-32: `E1751263`  
 SHA-256: `6dc61b8c91f86898dfea3d55c36134ccaa345657e70c20ad5577fc000166e858`
 
@@ -2238,7 +2238,7 @@ SHA-256: `6dc61b8c91f86898dfea3d55c36134ccaa345657e70c20ad5577fc000166e858`
 
 ## Version 1.2.2 (2024-02-06)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_122.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_122.zip)
 CRC-32: `7FAADF53`  
 SHA-256: `e3eda87357be35996ea0060cfbbffcc598c744b97eb75837cbf5586d23964f46`
 
@@ -2256,7 +2256,7 @@ SHA-256: `e3eda87357be35996ea0060cfbbffcc598c744b97eb75837cbf5586d23964f46`
 
 ## Version 1.2.1 (2024-01-28)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_121.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_121.zip)
 CRC-32: `2A552631`  
 SHA-256: `63ab8f92aee6689733711a7547bbeb1cbde1e6a5e256174cb814851960220cba`
 
@@ -2270,7 +2270,7 @@ SHA-256: `63ab8f92aee6689733711a7547bbeb1cbde1e6a5e256174cb814851960220cba`
 
 ## Version 1.2.0 (2024-01-26)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_120.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_120.zip)
 CRC-32: `A61D5BD2`  
 SHA-256: `b0665343c644453b0e4927f54b6da25de24f85a2f23e1b61b4248c9936124659`
 
@@ -2282,7 +2282,7 @@ SHA-256: `b0665343c644453b0e4927f54b6da25de24f85a2f23e1b61b4248c9936124659`
 
 ## Version 1.1.9 (2024-01-26)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_119.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_119.zip)
 CRC-32: `6C7AABCC`  
 SHA-256: `e7960afbe0c9f9e099bbc3f1716ae1f2c27d0afdfe6087b5a05eec91fb576df2`
 
@@ -2298,7 +2298,7 @@ SHA-256: `e7960afbe0c9f9e099bbc3f1716ae1f2c27d0afdfe6087b5a05eec91fb576df2`
 
 ## Version 1.1.8 (2024-01-21)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@05b0e1a/RetroTINK-4K/Experimental/rt4k_118.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/05b0e1ac81b5d868af195d3b306748b37a11e7b2/RetroTINK-4K/Experimental/rt4k_118.zip)
 CRC-32: `2FCC1715`  
 SHA-256: `3c0865755d6979234f258c33cdfe3914b5d1084c35154d4df0c9488cc493f383`
 
@@ -2311,7 +2311,7 @@ SHA-256: `3c0865755d6979234f258c33cdfe3914b5d1084c35154d4df0c9488cc493f383`
 
 ## Version 1.1.7 (2024-01-20)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_117.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_117.zip)
 CRC-32: `1EAEAF51`  
 SHA-256: `6220de053a6c72e203b9ddc79e1ab8fc6a8cc175974fdf9f4f79a96dd8da2141`
 
@@ -2325,7 +2325,7 @@ SHA-256: `6220de053a6c72e203b9ddc79e1ab8fc6a8cc175974fdf9f4f79a96dd8da2141`
 
 ## Version 1.1.6 (2024-01-20)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_116.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_116.zip)
 CRC-32: `7E14704E`  
 SHA-256: `57b10fd1c8e6c34785db8460b6614ddf9ca12bb3e0b9d405ec50ffbc8b50c9f8`
 
@@ -2341,7 +2341,7 @@ SHA-256: `57b10fd1c8e6c34785db8460b6614ddf9ca12bb3e0b9d405ec50ffbc8b50c9f8`
 
 ## Version 1.1.5 (2024-01-19)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_115.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_115.zip)
 CRC-32: `8AFB382E`  
 SHA-256: `3511e8a141504afea7ee843048cd6b2918bb243a5b33fce3c0cb62b165685203`
 
@@ -2354,7 +2354,7 @@ SHA-256: `3511e8a141504afea7ee843048cd6b2918bb243a5b33fce3c0cb62b165685203`
 
 ## Version 1.1.4 (2024-01-17)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_114.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_114.zip)
 CRC-32: `E9E3769B`  
 SHA-256: `5d874dd82f6942e2a1bdc71359fc6cb8075909f9cc2426a96906551354f9a3b4`
 
@@ -2368,7 +2368,7 @@ SHA-256: `5d874dd82f6942e2a1bdc71359fc6cb8075909f9cc2426a96906551354f9a3b4`
 
 ## Version 1.1.3 (2024-01-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_113.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_113.zip)
 CRC-32: `81CF9156`  
 SHA-256: `35d5cde045f8d6013716fde0c9cdd7d15b20b6c88ad408524b93b866618a9d25`
 
@@ -2379,7 +2379,7 @@ SHA-256: `35d5cde045f8d6013716fde0c9cdd7d15b20b6c88ad408524b93b866618a9d25`
 
 ## Version 1.1.2 (2024-01-14)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_112.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_112.zip)
 CRC-32: `EE25E88F`  
 SHA-256: `2180d0b8b95ab65eea6d2aabdf5f7f92fe7fbd856080b4c6c1047dc28038a2ba`
 
@@ -2391,7 +2391,7 @@ SHA-256: `2180d0b8b95ab65eea6d2aabdf5f7f92fe7fbd856080b4c6c1047dc28038a2ba`
 
 ## Version 1.1.1 (2024-01-13)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_111.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_111.zip)
 CRC-32: `C26A7E1E`  
 SHA-256: `1e6d6ad5029f2aaf03068f227b3f2e7ceb9bdcba81df31a3d542613e8bf689f2`
 
@@ -2408,7 +2408,7 @@ SHA-256: `1e6d6ad5029f2aaf03068f227b3f2e7ceb9bdcba81df31a3d542613e8bf689f2`
 
 ## Version 1.0.9 (2024-01-09)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_109.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_109.zip)
 CRC-32: `591B36DE`  
 SHA-256: `b0f43eec664228ae38ee33244414fa821225244ca949f76779d6a953a7f537b7`
 
@@ -2422,7 +2422,7 @@ SHA-256: `b0f43eec664228ae38ee33244414fa821225244ca949f76779d6a953a7f537b7`
 
 ## Version 1.0.8 (2024-01-08)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_108.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_108.zip)
 CRC-32: `E07A9083`  
 SHA-256: `2b0acf9ffef00cacca9d20ee4563302cac7a983f3612a9edfe0e899d9ec71b50`
 
@@ -2443,7 +2443,7 @@ SHA-256: `2b0acf9ffef00cacca9d20ee4563302cac7a983f3612a9edfe0e899d9ec71b50`
 
 ## Version 1.0.6 (2024-01-06)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_106.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_106.zip)
 CRC-32: `37239B54`  
 SHA-256: `101f04d990ed526e213dbdcc4e69219213db1033513afee79062b58da8721c25`
 
@@ -2464,7 +2464,7 @@ SHA-256: `101f04d990ed526e213dbdcc4e69219213db1033513afee79062b58da8721c25`
 
 ## Version 1.0.5 (2024-01-06)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_105.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_105.zip)
 CRC-32: `00120576`  
 SHA-256: `ebfcf42ea3235912dc09320717ece0d3ca159274de2d11474ed3f858599973c8`
 
@@ -2480,7 +2480,7 @@ SHA-256: `ebfcf42ea3235912dc09320717ece0d3ca159274de2d11474ed3f858599973c8`
 
 ## Version 1.0.4 (2024-01-03)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_104.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_104.zip)
 CRC-32: `54E2FFA3`  
 SHA-256: `217c6727827540a60098d00905667ba5df95c8d5a9141700f31ed5478ab6e941`
 
@@ -2498,7 +2498,7 @@ SHA-256: `217c6727827540a60098d00905667ba5df95c8d5a9141700f31ed5478ab6e941`
 
 ## Version 1.0.2 (2023-12-15)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_102.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_102.zip)
 CRC-32: `922ADAA0`  
 SHA-256: `2696b2541358e536debf4108c7336a040f690b4fc833fa7afa89282a7311301e`
 
@@ -2513,7 +2513,7 @@ SHA-256: `2696b2541358e536debf4108c7336a040f690b4fc833fa7afa89282a7311301e`
 
 ## Version 1.0.1 (2023-12-12)
 
-### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_101.zip)
+### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_101.zip)
 CRC-32: `776145AB`  
 SHA-256: `e9a297cc1a811949b86ff1a7a57a6b8bbbd6a94980779921c899f600fe478380`
 
