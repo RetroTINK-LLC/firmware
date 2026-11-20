@@ -37,6 +37,30 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.19 (2026-11-20)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199190.zip)
+CRC-32: `B9859916`  
+SHA-256: `d99ba83c35cd236935513c9cc4cb1a9e4289b558d8ca7cc8d522def31e96ae85`
+
+### Changelog:
+- Edge Adaptive Deinterlacing added for RT6XCE and RT4KCE models: in Advanced Settings, Deinterlacer/Film, set Algorithm to Motion Adaptive, then pick an Interpolator: Edge Adaptive or Wide Edge Adaptive (two strength levels)
+- Extended Bezel option (Advanced CRT Effects, Bezel Details): extends the bezel to the screen edges and fills the side bars with a soft reflection of the picture
+- Corner mitre better adapts to reflections
+- Improved sampling quality for most curvature modes
+- PVM bezel: more even reflection with a thin highlight on the top and bottom inner edges, no more dark wall ends on smaller pictures
+- Bezel size no longer changes when a game switches resolution (4:3 and 16:9)
+- Corner Dimming now works with CRT Beam (Rolling) and Variable MPRT BFI
+- Fixed CRT FX lighting that could freeze
+- RT4KCE and RT6XCE: lines too wide for the output now scale down automatically instead of changing the output mode
+- Custom modeline profiles now carry correctly between 4K and 6X models; 480p custom profiles fixed
+- Smooth I/P adds CP 15kHz and SDP 15kHz options
+- Fixed the "Check Sample Rate" flash with rotation enabled
+- More reliable composite / S-Video re-lock after a signal drop
+
+<br/>
+
+
 ## Version 1.99.14 (2026-11-11)
 
 ### [Download](https://github.com/RetroTINK-LLC/firmware/raw/25ed0ddf85e17d8174e92497a9d708fb7995bbdb/RetroTINK-4K/Experimental/rt4k_199140.zip)
