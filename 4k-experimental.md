@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.20 (2026-11-23)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199200.zip)
+CRC-32: `250F195D`  
+SHA-256: `cba75807ec3a34f23215fdf52cba13901999028422e0249ecafb41ab58d35695`
+
+### Changelog:
+- Further rework of bezel rendering thanks to the calibration photos generously made by Keith Raney
+
+<br/>
+
+
 ## Version 1.99.19 (2026-11-20)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199190.zip)
