@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.21 (2026-11-23)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199210.zip)
+CRC-32: `611350F0`  
+SHA-256: `ab4b9364394e8c19db8e4be13401161b04979f449a8a93b3794b6dbf98c787ac`
+
+### Changelog:
+- Added ability to control inner glow for non PVM bezels
+
+<br/>
+
+
 ## Version 1.99.20 (2026-11-23)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199200.zip)
