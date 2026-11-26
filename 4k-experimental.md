@@ -37,6 +37,18 @@ All custom profiles, CSC files, banner images, input modes, mask overlays and mo
 
 <p style="margin:41px;"></p>
 
+## Version 1.99.22 (2026-11-25)
+
+### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199220.zip)
+CRC-32: `C510D1A5`  
+SHA-256: `05848e001d21368e19050f4b27d1712d9da96d8ba9f63f23728ca0bd80d344db`
+
+### Changelog:
+- Fixed edge case where high sample rate curved mode caused some lines to shift
+
+<br/>
+
+
 ## Version 1.99.21 (2026-11-23)
 
 ### [Download](https://cdn.jsdelivr.net/gh/retrotink-llc/firmware@main/RetroTINK-4K/Experimental/rt4k_199210.zip)
